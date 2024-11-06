@@ -1,0 +1,133 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="RIDE\RideCompRetencion.rdlc" />
+    <None Remove="RIDE\RideFactura.rdlc" />
+    <None Remove="RIDE\RideLiquidacion.rdlc" />
+    <None Remove="RIDE\RideNotaCredito.rdlc" />
+    <None Remove="RIDE\RideNotaDebito.rdlc" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="RIDE\RideCompRetencion.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RIDE\RideFactura.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RIDE\RideLiquidacion.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RIDE\RideNotaCredito.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RIDE\RideNotaDebito.rdlc">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BarcodeLib" Version="3.1.2" />
+    <PackageReference Include="iTextSharp" Version="5.5.13.3" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.19" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.19" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.19">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="PDFsharp" Version="6.0.0" />
+    <PackageReference Include="ReportViewerCore.NETCore" Version="15.1.18" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ViaDoc.Utilitarios\ViaDoc.Utilitarios.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="GenCode128">
+      <HintPath>..\ReportesViaDoc\bin\Debug\GenCode128.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\ViaDoc.ServicioWcf\lib\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="OrigenDatosRDLC\dtsCompRetencion.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>dtsCompRetencion.xsd</DependentUpon>
+    </Compile>
+    <Compile Update="OrigenDatosRDLC\dtsFactura.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>dtsFactura.xsd</DependentUpon>
+    </Compile>
+    <Compile Update="OrigenDatosRDLC\dtsGuiaRemision.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>dtsGuiaRemision.xsd</DependentUpon>
+    </Compile>
+    <Compile Update="OrigenDatosRDLC\dtsLiquidacion.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>dtsLiquidacion.xsd</DependentUpon>
+    </Compile>
+    <Compile Update="OrigenDatosRDLC\dtsNotaCredito.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>dtsNotaCredito.xsd</DependentUpon>
+    </Compile>
+    <Compile Update="OrigenDatosRDLC\dtsNotaDebito.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>dtsNotaDebito.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="OrigenDatosRDLC\dtsCompRetencion.xsd">
+      <SubType>Designer</SubType>
+      <LastGenOutput>dtsCompRetencion.Designer.cs</LastGenOutput>
+      <Generator>MSDataSetGenerator</Generator>
+    </None>
+    <None Update="OrigenDatosRDLC\dtsFactura.xsd">
+      <SubType>Designer</SubType>
+      <LastGenOutput>dtsFactura.Designer.cs</LastGenOutput>
+      <Generator>MSDataSetGenerator</Generator>
+    </None>
+    <None Update="OrigenDatosRDLC\dtsGuiaRemision.xsd">
+      <SubType>Designer</SubType>
+      <LastGenOutput>dtsGuiaRemision.Designer.cs</LastGenOutput>
+      <Generator>MSDataSetGenerator</Generator>
+    </None>
+    <None Update="OrigenDatosRDLC\dtsLiquidacion.xsd">
+      <SubType>Designer</SubType>
+      <LastGenOutput>dtsLiquidacion.Designer.cs</LastGenOutput>
+      <Generator>MSDataSetGenerator</Generator>
+    </None>
+    <None Update="OrigenDatosRDLC\dtsNotaCredito.xsd">
+      <SubType>Designer</SubType>
+      <LastGenOutput>dtsNotaCredito.Designer.cs</LastGenOutput>
+      <Generator>MSDataSetGenerator</Generator>
+    </None>
+    <None Update="OrigenDatosRDLC\dtsNotaDebito.xsd">
+      <SubType>Designer</SubType>
+      <LastGenOutput>dtsNotaDebito.Designer.cs</LastGenOutput>
+      <Generator>MSDataSetGenerator</Generator>
+    </None>
+  </ItemGroup>
+
+</Project>

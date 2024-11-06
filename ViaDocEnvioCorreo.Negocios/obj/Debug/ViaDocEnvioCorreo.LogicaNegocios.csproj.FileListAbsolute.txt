@@ -1,0 +1,638 @@
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.LogicaNegocios.csprojAssemblyReference.cache
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDocEnvioCorreo.Negocios.dll.config
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDocEnvioCorreo.Negocios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDocEnvioCorreo.Negocios.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\ReportesViaDoc.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Configuraciones.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.LogicaNegocios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Utilitarios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\CodeQR.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\itextsharp.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\GenCode128.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\ReportesViaDoc.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.LogicaNegocios.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.LogicaNegocios.csproj.CopyComplete
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.Negocios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.Negocios.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\Newtonsoft.Json.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\BouncyCastle.Crypto.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\ReportesViaDoc.dll.config
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.LogicaNegocios.dll.config
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\itextsharp.xml
+C:\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDocEnvioCorreo.Negocios.dll.config
+C:\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDocEnvioCorreo.Negocios.dll
+C:\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDocEnvioCorreo.Negocios.pdb
+C:\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\BouncyCastle.Crypto.dll
+C:\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\itextsharp.dll
+C:\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\Newtonsoft.Json.dll
+C:\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\ReportesViaDoc.dll
+C:\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Configuraciones.dll
+C:\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.LogicaNegocios.dll
+C:\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Utilitarios.dll
+C:\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\CodeQR.dll
+C:\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\GenCode128.dll
+C:\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.LogicaNegocios.pdb
+C:\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.LogicaNegocios.dll.config
+C:\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\itextsharp.xml
+C:\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\ReportesViaDoc.pdb
+C:\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\bin\Debug\ReportesViaDoc.dll.config
+C:\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.LogicaNegocios.csprojAssemblyReference.cache
+C:\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.LogicaNegocios.csproj.CopyComplete
+C:\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.Negocios.dll
+C:\FacturacionElectronica\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.Negocios.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDocEnvioCorreo.Negocios.dll.config
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDocEnvioCorreo.Negocios.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDocEnvioCorreo.Negocios.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\itextsharp.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ReportesViaDoc.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.LogicaNegocios.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\CodeQR.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\GenCode128.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.LogicaNegocios.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.LogicaNegocios.dll.config
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\itextsharp.xml
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ReportesViaDoc.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ReportesViaDoc.dll.config
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.LogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.LogicaNegocios.csproj.CopyComplete
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.Negocios.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.Negocios.pdb
+C:\Users\MURANO\Documents\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDocEnvioCorreo.Negocios.dll.config
+C:\Users\MURANO\Documents\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDocEnvioCorreo.Negocios.dll
+C:\Users\MURANO\Documents\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDocEnvioCorreo.Negocios.pdb
+C:\Users\MURANO\Documents\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MURANO\Documents\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\itextsharp.dll
+C:\Users\MURANO\Documents\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MURANO\Documents\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ReportesViaDoc.dll
+C:\Users\MURANO\Documents\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\Users\MURANO\Documents\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Users\MURANO\Documents\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\Users\MURANO\Documents\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.LogicaNegocios.dll
+C:\Users\MURANO\Documents\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Users\MURANO\Documents\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\CodeQR.dll
+C:\Users\MURANO\Documents\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\MURANO\Documents\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\MURANO\Documents\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\GenCode128.dll
+C:\Users\MURANO\Documents\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\MURANO\Documents\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\MURANO\Documents\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\MURANO\Documents\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\Users\MURANO\Documents\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Users\MURANO\Documents\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Users\MURANO\Documents\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\Users\MURANO\Documents\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.LogicaNegocios.pdb
+C:\Users\MURANO\Documents\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.LogicaNegocios.dll.config
+C:\Users\MURANO\Documents\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Users\MURANO\Documents\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\itextsharp.xml
+C:\Users\MURANO\Documents\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ReportesViaDoc.pdb
+C:\Users\MURANO\Documents\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ReportesViaDoc.dll.config
+C:\Users\MURANO\Documents\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.LogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\MURANO\Documents\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\MURANO\Documents\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.LogicaNegocios.csproj.CopyComplete
+C:\Users\MURANO\Documents\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.Negocios.dll
+C:\Users\MURANO\Documents\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.Negocios.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.LogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDocEnvioCorreo.Negocios.dll.config
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDocEnvioCorreo.Negocios.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDocEnvioCorreo.Negocios.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\itextsharp.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Mail.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MailKit.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MimeKit.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ReportesViaDoc.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Buffers.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Memory.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.LogicaNegocios.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\CodeQR.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\GenCode128.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.LogicaNegocios.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.LogicaNegocios.dll.config
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\itextsharp.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Mail.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MailKit.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MailKit.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MimeKit.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MimeKit.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ReportesViaDoc.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ReportesViaDoc.dll.config
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Buffers.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Memory.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.LogicaNegocios.csproj.CopyComplete
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.Negocios.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.Negocios.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.LogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDocEnvioCorreo.Negocios.dll.config
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDocEnvioCorreo.Negocios.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDocEnvioCorreo.Negocios.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\itextsharp.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Mail.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MailKit.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MimeKit.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ReportesViaDoc.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Buffers.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Memory.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.LogicaNegocios.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\CodeQR.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\GenCode128.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.LogicaNegocios.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.LogicaNegocios.dll.config
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\itextsharp.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Mail.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MailKit.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MailKit.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MimeKit.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MimeKit.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ReportesViaDoc.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ReportesViaDoc.dll.config
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Buffers.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Memory.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.LogicaNegocios.csproj.CopyComplete
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.Negocios.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.Negocios.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDocEnvioCorreo.Negocios.dll.config
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDocEnvioCorreo.Negocios.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDocEnvioCorreo.Negocios.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\itextsharp.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Mail.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MailKit.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MimeKit.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ReportesViaDoc.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.LogicaNegocios.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\CodeQR.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\GenCode128.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.LogicaNegocios.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.LogicaNegocios.dll.config
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\itextsharp.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Mail.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MailKit.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MailKit.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MimeKit.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MimeKit.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ReportesViaDoc.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ReportesViaDoc.dll.config
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Memory.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.LogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.LogicaNegocios.csproj.CopyComplete
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.Negocios.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.Negocios.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDocEnvioCorreo.Negocios.dll.config
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDocEnvioCorreo.Negocios.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDocEnvioCorreo.Negocios.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\itextsharp.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Mail.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MailKit.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MimeKit.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ReportesViaDoc.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Buffers.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Memory.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.LogicaNegocios.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\CodeQR.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\GenCode128.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.LogicaNegocios.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.LogicaNegocios.dll.config
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\itextsharp.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Mail.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MailKit.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MailKit.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MimeKit.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MimeKit.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ReportesViaDoc.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ReportesViaDoc.dll.config
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Buffers.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Memory.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.LogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.LogicaNegocios.csproj.CopyComplete
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.Negocios.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.Negocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ApplicationInsights.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDocEnvioCorreo.Negocios.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDocEnvioCorreo.Negocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDocEnvioCorreo.Negocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\itextsharp.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Mail.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MailKit.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MimeKit.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ReportesViaDoc.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Buffers.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Memory.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.LogicaNegocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\CodeQR.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\GenCode128.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ReportesViaDoc.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ReportesViaDoc.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.LogicaNegocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.LogicaNegocios.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\itextsharp.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Mail.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MailKit.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MailKit.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MimeKit.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MimeKit.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MimeKit.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Buffers.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Memory.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.LogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.LogicaNegocios.csproj.CopyComplete
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.Negocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.Negocios.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ApplicationInsights.config
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDocEnvioCorreo.Negocios.dll.config
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDocEnvioCorreo.Negocios.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDocEnvioCorreo.Negocios.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\itextsharp.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Mail.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MailKit.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MimeKit.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ReportesViaDoc.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Buffers.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Memory.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.LogicaNegocios.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\CodeQR.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\GenCode128.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ReportesViaDoc.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ReportesViaDoc.dll.config
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.LogicaNegocios.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.LogicaNegocios.dll.config
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\itextsharp.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Mail.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MailKit.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MailKit.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MimeKit.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MimeKit.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MimeKit.dll.config
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Buffers.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Memory.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.LogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.LogicaNegocios.csproj.CopyComplete
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.Negocios.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.Negocios.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ApplicationInsights.config
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDocEnvioCorreo.Negocios.dll.config
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDocEnvioCorreo.Negocios.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDocEnvioCorreo.Negocios.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\BouncyCastle.Crypto.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\BouncyCastle.Cryptography.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\EPPlus.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\EPPlus.Interfaces.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\EPPlus.System.Drawing.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\itextsharp.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Mail.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MailKit.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MimeKit.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Newtonsoft.Json.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ReportesViaDoc.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Buffers.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.ComponentModel.Annotations.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Memory.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Numerics.Vectors.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Text.Encodings.Web.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Text.Json.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.ValueTuple.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Configuraciones.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.LogicaNegocios.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Utilitarios.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\CodeQR.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\GenCode128.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ReportesViaDoc.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ReportesViaDoc.dll.config
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.LogicaNegocios.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.LogicaNegocios.dll.config
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\BouncyCastle.Crypto.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\BouncyCastle.Cryptography.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\EPPlus.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\itextsharp.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Mail.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MailKit.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MailKit.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MimeKit.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MimeKit.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MimeKit.dll.config
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Buffers.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Memory.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Numerics.Vectors.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Text.Encodings.Web.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Text.Json.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.ValueTuple.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.LogicaNegocios.csproj.AssemblyReference.cache
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.LogicaNegocios.csproj.CopyComplete
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.Negocios.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.Negocios.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ApplicationInsights.config
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDocEnvioCorreo.Negocios.dll.config
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDocEnvioCorreo.Negocios.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDocEnvioCorreo.Negocios.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\BouncyCastle.Crypto.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\EPPlus.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\EPPlus.Interfaces.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\EPPlus.System.Drawing.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\itextsharp.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Mail.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MailKit.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MimeKit.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Newtonsoft.Json.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ReportesViaDoc.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Buffers.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Memory.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Numerics.Vectors.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Text.Encodings.Web.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Text.Json.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.ValueTuple.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.LogicaNegocios.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\CodeQR.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\GenCode128.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ReportesViaDoc.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ReportesViaDoc.dll.config
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.LogicaNegocios.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.LogicaNegocios.dll.config
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\BouncyCastle.Crypto.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\EPPlus.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\itextsharp.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Mail.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MailKit.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MailKit.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MimeKit.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MimeKit.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\MimeKit.dll.config
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Buffers.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Memory.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Numerics.Vectors.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Text.Encodings.Web.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Text.Json.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\bin\Debug\System.ValueTuple.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.LogicaNegocios.csproj.AssemblyReference.cache
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEn.89588378.Up2Date
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.Negocios.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\obj\Debug\ViaDocEnvioCorreo.Negocios.pdb

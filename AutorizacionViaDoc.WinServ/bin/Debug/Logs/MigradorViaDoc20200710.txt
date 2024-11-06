@@ -1,0 +1,66 @@
+[CustomError]: 10/07/2020 7:55:30
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 10/07/2020 7:55:32
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 10/07/2020 8:25:00
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 10/07/2020 8:25:02
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 10/07/2020 8:25:49
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 10/07/2020 8:25:50
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 10/07/2020 8:27:23
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 10/07/2020 8:27:24
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 10/07/2020 8:29:24
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 10/07/2020 8:29:26
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 10/07/2020 8:32:10
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 10/07/2020 8:32:12
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 10/07/2020 8:41:30
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 10/07/2020 8:41:33
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 10/07/2020 8:42:52
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 10/07/2020 8:42:55
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 10/07/2020 8:44:18
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 10/07/2020 8:44:35
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 10/07/2020 8:45:30
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 10/07/2020 8:45:34
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 10/07/2020 8:46:12
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 10/07/2020 8:46:17
+[Metodo]: 9
+[CustomError]: FIN 

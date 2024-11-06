@@ -1,0 +1,494 @@
+﻿@{
+    ViewBag.Title = "Documentos";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<main>
+    <section class="content-header">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                </div>
+                <div class="col-sm-6">
+                    <ol class="breadcrumb float-sm-right">
+                        <li class="breadcrumb-item"><a href="#">Configuración</a></li>
+                        <li class="breadcrumb-item active">Parametrizar Documentos</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <div class="container-fluid">
+        <div class="card card-success">
+            <div class="card-header">
+                <h3 class="card-title">Filtros de Búsquedas</h3>
+                <div class="card-tools">
+                    <button type="button" class="btn btn-tool" data-card-widget="collapse">
+                        <i class="fas fa-minus"></i>
+                    </button>
+                </div>
+            </div>
+            <div class="card-body">
+                <form role="form">
+                    <div class="row">
+                        <div class="col-sm-4">
+                            <div class="form-group">
+                                <label>Compañía:</label>
+                                <select id="idCompania" class="form-control js-example-basic-single">
+                                    @foreach (var _listaCompania in ViewBag.listaCompania)
+                                    {
+                                        <option value="@_listaCompania.idCompania">@_listaCompania.razonSocial</option>
+                                    }
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <center>
+                        <div class="col-sm-3">
+                            <a id="btnBuscarParametros" href="#" class="btn btn-block btn-primary">
+                                Buscar
+                            </a>
+                        </div>
+                    </center>
+                </form>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="container-fluid">
+        <div class="card card-success">
+            <div class="card-header">
+                <h3 class="card-title"></h3>                
+            </div>
+            <br />
+            <div class="box-body">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="form-group">
+                            <table id="tbl-parametros" class="table table-bordered table-striped display responsive" style="width:100%">
+                                <thead>
+                                    <tr>
+                                        <th>idRegistro</th>
+                                        <th width="10%">TipoDocumento</th>
+                                        <th width="31%">Descripcion</th>
+                                        <th>cantidadFirma</th>
+                                        <th>cantidadAutorizacion</th>
+                                        <th>cantidadCorreo</th>
+                                        <th>reprocesoFirma</th>
+                                        <th>reprocesoCorreo</th>
+                                        <th>reprocesoAutorizacion</th>
+                                        <th width="15%">Estado</th>
+                                        <th>idCompania</th>
+                                        <th width="30%">Nombre Comercial</th>
+                                        <th width="6%">-</th>
+                                        <th width="6%">-</th>
+                                    </tr>
+                                </thead>
+                                <tbody></tbody>
+                            </table>
+                        </div>
+                    </div>
+                    <br />
+                    <div class="col-sm-3">
+                        <div class="form-group">
+                            <a id="btnNuevoParametros" href="#" class="btn btn-block btn-primary">Nuevo Documento</a>
+                        </div>
+                        <br />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="modal-ModificacionIngreso">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Parametrizar Documentos</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <input type="hidden" id="idRegistroModIng" value="0" />
+                            <div class="form-group">
+                                <label>Compañía:</label>
+                                <select id="idNombreEmpresa" class="form-control js-example-basic-single">
+                                    @foreach (var _listaCompania in ViewBag.listaCompania)
+                                    {
+                                        <option value="@_listaCompania.idCompania">@_listaCompania.razonSocial</option>
+                                    }
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                                <label>Tipo Documento:</label>
+                                <select id="idTipoDocumento" class="form-control js-example-basic-single">
+                                    @foreach (var _listaDocumento in ViewBag.listaDocumento)
+                                    {
+                                        <option value="@_listaDocumento.idTipoDocumento">@_listaDocumento.descripcion</option>
+                                    }
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-sm-12">
+                            <div class="card card-success">
+                                <div class="card-header">
+                                    <h3 class="card-title">Parametrización Números Procesados</h3>
+                                </div>
+                                <div class="card-body">
+                                    <div class="row">
+                                        <div class="col-sm-4">
+                                            <div class="form-group">
+                                                <label>Cantidad Firma:</label>
+                                                <input id="idCantidadFirma" type="number" class="form-control">
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <div class="form-group">
+                                                <label>Cantidad Correo:</label>
+                                                <input id="idCantidadCorreo" type="number" class="form-control">
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <div class="form-group">
+                                                <label>Cantidad Autorizado:</label>
+                                                <input id="idCantidadAutorizado" type="number" class="form-control">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-12">
+                            <div class="card card-success">
+                                <div class="card-header">
+                                    <h3 class="card-title">Parametrización Reproceso de Documentos</h3>
+                                </div>
+                                <div class="card-body">
+                                    <div class="row">
+                                        <div class="col-sm-4">
+                                            <div class="form-group">
+                                                <label>Reproceso Firma:</label>
+                                                <input id="idReprocesoFirma" type="number" class="form-control">
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <div class="form-group">
+                                                <label>Reproceso Correo:</label>
+                                                <input id="idReprocesoCorreo" type="number" class="form-control">
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <div class="form-group">
+                                                <label>Reproceso Autorizado:</label>
+                                                <input id="idReprocesoAutorizado" type="number" class="form-control">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <center>
+                    <div class="col-sm-12">
+                        <div class="row">
+                            <div class="col-sm-3">
+                                <div class="form-group">
+                                    <a id="btnGuardarParametro" href="#" class="btn btn-block btn-primary">Guardar</a>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="form-group">
+                                    <a id="btnBuscarDocumentos" href="#" class="btn btn-block btn-primary" data-dismiss="modal">Cancelar</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </center>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="modal-EliminarIngreso">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Eliminar Parametrizar Documentos</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <input type="hidden" id="idRegistroEliminado" value="" />
+                    <br /><br />
+                    <center>
+                        <i style="color:#ff0000" class='far fa-trash-alt fa-lg fa-5x'></i>
+                    </center>
+                    <br /><br />
+                    <p>Estimado Usuario desea eliminar esta parametrización.</p>
+                    <br />
+                    <center>
+                        <div class="col-sm-12">
+                            <div class="row">
+                                <div class="col-sm-5">
+                                    <div class="form-group">
+                                        <a id="btnEliminarParametro" href="#" class="btn btn-block btn-primary">Aceptar</a>
+                                    </div>
+                                </div>
+                                <div class="col-sm-5">
+                                    <div class="form-group">
+                                        <a id="btnBuscarDocumentos" href="#" class="btn btn-block btn-primary" data-dismiss="modal">Cancelar</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </center>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <script src="~/Content/js/jquery-3.1.1.min.js"></script>
+    @*<script src="~/Content/js/select2.full.min.js"></script>*@
+    <script>
+        //$('.select2').select2();
+
+        $(document).ready(function () {
+            $('#tbl-parametros').DataTable({
+                'columnDefs': [{ 'visible': false, 'targets': [0,1, 3, 4,5,6,7,8,10] }],
+                "responsive": true,
+                "order": [[0, "asc"]],
+                "pageLength": 5,
+                "language": {
+                    "lengthMenu": "Mostrar _MENU_ registros por página",
+                    "zeroRecords": "No se encontraron resultados",
+                    "sEmptyTable": "Ningún dato disponible en esta tabla",
+                    "info": "Mostrando página _PAGE_ de _PAGES_",
+                    "infoEmpty": "Ningún dato disponible en esta tabla",
+                    "infoFiltered": "(filtered from _MAX_ total records)",
+                    "sSearch": "Filtro:",
+                    "oPaginate": {
+                        "sFirst": "Primero",
+                        "sLast": "Último",
+                        "sNext": "Siguiente",
+                        "sPrevious": "Anterior"
+                    },
+                },
+                "columns": [
+                    { "data": "idRegistro", "orderable": false, "Title": "idRegistro" },
+                    { "data": "idTipoDocumento", "orderable": false, "Title": "TipoDocumento" },
+                    { "data": "descripcion", "orderable": false, "Title": "Descripcion" },
+                    { "data": "cantidadFirma", "orderable": false, "Title": "cantidadFirma" },
+                    { "data": "cantidadCorreo", "orderable": false, "Title": "cantidadCorreo" },
+                    { "data": "cantidadAutorizacion", "orderable": false, "Title": "cantidadAutorizacion" },
+                    { "data": "reprocesoFirma", "orderable": false, "Title": "reprocesoFirma" },
+                    { "data": "reprocesoCorreo", "orderable": false, "Title": "reprocesoCorreo" },
+                    { "data": "reprocesoAutorizacion", "orderable": false, "Title": "reprocesoAutorizacion" },
+                    { "data": "estado", "orderable": false, "Title": "Estado" },
+                    { "data": "idCompania", "orderable": false, "Title": "idCompania" },
+                    { "data": "nombreComercial", "orderable": false, "Title": "nombreComercial" },
+                    {
+                        "data": null, "title": "-", "orderable": false, "render": function (data, type, row) {
+                            var object_lista = (typeof data) == 'string' ? eval('(' + data + ')') : data;
+                            var idRegistro = "'" + object_lista.idRegistro + "'";
+                            var idTipoDocumento = "'" + object_lista.idTipoDocumento + "'";
+                            var cantidadFirma = "'" + object_lista.cantidadFirma + "'";
+                            var cantidadCorreo = "'" + object_lista.cantidadCorreo + "'";
+                            var cantidadAutorizacion = "'" + object_lista.cantidadAutorizacion + "'";
+                            var cantidadCorreo = "'" + object_lista.cantidadCorreo + "'";
+                            var reprocesoFirma = "'" + object_lista.reprocesoFirma + "'";
+                            var reprocesoCorreo = "'" + object_lista.reprocesoCorreo + "'";
+                            var reprocesoAutorizacion = "'" + object_lista.reprocesoAutorizacion + "'";
+                            var idCompania = "'" + object_lista.idCompania + "'";
+                            var aux = 'href="javascript:ModificarParametros(' + idRegistro + ','+ idTipoDocumento +','+cantidadFirma+','+cantidadCorreo+','+cantidadAutorizacion+','+reprocesoFirma+','+reprocesoCorreo+','+reprocesoAutorizacion+','+idCompania+')"';
+                            var etiquea_a = "<a class='' class='btnDetalleUsuario' " + aux + "><i class='far fa-edit'></a>";
+                            return etiquea_a;
+                        }
+                    },
+                    {
+                        "data": null, "title": "-", "orderable": false, "render": function (data, type, row) {
+                            var object_lista = (typeof data) == 'string' ? eval('(' + data + ')') : data;
+                            var idRegistro = "'" + object_lista.idRegistro + "'";
+                            var aux = 'href="javascript:EliminarParametros(' + idRegistro + ')"';
+                            var etiquea_a = "<a class='' class='btnDetalleUsuario' " + aux + "><i style='color:#ff0000' class='far fa-trash-alt'></i></a>";
+                            return etiquea_a;
+                        }
+                    },
+                ],
+            });
+
+
+             var _idNombreEmpresa = $("#idCompania").val();
+             ConsultaParametrizacion(_idNombreEmpresa);
+            });
+
+
+        function ModificarParametros(idRegistro, idTipoDocumento, cantidadFirma, cantidadCorreo, cantidadAutorizacion, reprocesoFirma, reprocesoCorreo, reprocesoAutorizacion, idCompania) {
+            $('#idTipoDocumento').prop('disabled', 'disabled');
+            $('#idNombreEmpresa').prop('disabled', 'disabled');
+            $('#idRegistroModIng').val(idRegistro);
+            $('#idNombreEmpresa').val(idCompania);
+            $("#idTipoDocumento").val(idTipoDocumento).trigger('change');
+            $('#idCantidadFirma').val(cantidadFirma);
+            $('#idCantidadCorreo').val(cantidadCorreo);
+            $('#idCantidadAutorizado').val(cantidadAutorizacion);
+            $('#idReprocesoFirma').val(reprocesoFirma);
+            $('#idReprocesoCorreo').val(reprocesoCorreo);
+            $('#idReprocesoAutorizado').val(reprocesoAutorizacion);
+            $("#modal-ModificacionIngreso").modal('show');
+        }
+
+
+
+         $('#btnBuscarParametros').on('click', function () {
+
+             var _idNombreEmpresa = $("#idCompania").val();
+             ConsultaParametrizacion(_idNombreEmpresa);
+         });
+
+
+        //idCompania
+        //btnBuscarParametros
+        $('#btnNuevoParametros').on('click', function () {
+            $('#idRegistroModIng').val(0);
+            $('#idCantidadFirma').val(0);
+            $('#idCantidadCorreo').val(0);
+            $('#idCantidadAutorizado').val(0);
+            $('#idReprocesoFirma').val(0);
+            $('#idReprocesoCorreo').val(0);
+            $('#idReprocesoAutorizado').val(0);
+
+             $('#idTipoDocumento').removeAttr('disabled');
+            $('#idNombreEmpresa').removeAttr('disabled');
+            $("#modal-ModificacionIngreso").modal('show');
+         });
+
+          function EliminarParametros(idRegistro) {
+               $('#idRegistroEliminado').val(idRegistro);
+
+              $("#modal-EliminarIngreso").modal('show');
+        }
+
+          function ConsultaParametrizacion(idCompania)
+          {
+             $(".cartprocess").fadeTo(30, 0.40, function () {
+                 $.ajax({
+                    type: "POST",
+                    url: ("@Url.Content("~/" + @HttpContext.Current.Request.RequestContext.RouteData.Values["controller"].ToString() + "/ConsultaParametrizacion")/"),
+                    data: { idCompania : idCompania},
+                    dataType: "json",
+                     success: function (respuesta) {
+                         $(".cartprocess").hide();
+                         if (respuesta.codigoRetorno == 0) {
+                             var table = $('#tbl-parametros').DataTable();
+                             table.clear().draw();
+                             $.each(respuesta.data, function (index, objeto) {
+                                table.row.add({
+                                    "idRegistro": objeto.idRegistro,
+                                    "idTipoDocumento": objeto.idTipoDocumento,
+                                    "descripcion": objeto.descripcion,
+                                    "cantidadFirma": objeto.cantidadFirma,
+                                    "cantidadCorreo": objeto.cantidadCorreo,
+                                    "cantidadAutorizacion": objeto.cantidadAutorizacion,
+                                    "reprocesoFirma": objeto.reprocesoFirma,
+                                    "reprocesoCorreo": objeto.reprocesoCorreo,
+                                    "reprocesoAutorizacion": objeto.reprocesoAutorizacion,
+                                    "estado": objeto.estado,
+                                    "idCompania": objeto.idCompania,
+                                    "nombreComercial": objeto.nombreComercial
+                                }).draw();
+                            });
+                         }
+                         else {
+                             toastr.info(respuesta.mensajeRetorno);
+                         }
+                    },
+                     error: function () {
+                        $(".cartprocess").hide();
+                        toastr.error('Estimado Usuario, intente mas tarde, estamos trabajando..');
+                    }
+                 });
+            });
+         }
+
+        $('#btnGuardarParametro').on('click', function () {
+
+                 var _idNombreEmpresa = $("#idNombreEmpresa").val();
+                 var _idTipoDocumento = $("#idTipoDocumento").val();
+                 var _idRegistro = $("#idRegistroModIng").val();
+                 var _cantidadFirma = $("#idCantidadFirma").val();
+                 var _cantidadCorreo = $("#idCantidadCorreo").val();
+                 var _cantidadAutorizacion = $("#idCantidadAutorizado").val();
+                 var _reprocesoFirma = $("#idReprocesoFirma").val();
+                 var _reprocesoCorreo = $("#idReprocesoCorreo").val();
+                 var _reprocesoAutorizacion = $("#idReprocesoAutorizado").val();
+                 if (_cantidadFirma!= "" && _cantidadCorreo != "" && _cantidadAutorizacion != "" && _reprocesoFirma != "" && _reprocesoCorreo != "" && _reprocesoAutorizacion != "") {
+                     $(".cartprocess").fadeTo(30, 0.40, function () {
+                     $.ajax({
+                         type: "POST",
+                         url: ("@Url.Content("~/" + @HttpContext.Current.Request.RequestContext.RouteData.Values["controller"].ToString() + "/GuardarParametrizacion")/"),
+                         data: { idCompania: _idNombreEmpresa, idRegistro: _idRegistro, idTipoDocumento: _idTipoDocumento, cantidadFirma: _cantidadFirma, cantidadCorreo: _cantidadCorreo, cantidadAutorizacion: _cantidadAutorizacion, reprocesoFirma: _reprocesoFirma, reprocesoCorreo: _reprocesoCorreo, reprocesoAutorizacion: _reprocesoAutorizacion },
+                         dataType: "json",
+                         success: function (respuesta) {
+                             $(".cartprocess").hide();
+                             if (respuesta.codigoRetorno == 0) {
+                                 $("#modal-ModificacionIngreso").modal('hide');
+                                 var _idNombreEmpresa = $("#idCompania").val();
+                                 toastr.success(respuesta.mensajeRetorno);
+                                  ConsultaParametrizacion(_idNombreEmpresa);
+                             }
+                             else {
+                                 toastr.info(respuesta.mensajeRetorno);
+                             }
+                        },
+                         error: function () {
+                             $(".cartprocess").hide();
+                            toastr.error('Estimado Usuario, intente mas tarde, estamos trabajando..');
+                        }
+                     });
+                 });
+
+                 } else {
+                     toastr.info('Estimado Usuario por favor ingrese los datos requeridos.');
+                 }
+         });
+
+        $('#btnEliminarParametro').on('click', function () {
+            var _idRegistro = $("#idRegistroEliminado").val();
+            $(".cartprocess").fadeTo(30, 0.40, function () {
+                 $.ajax({
+                     type: "POST",
+                     url: ("@Url.Content("~/" + @HttpContext.Current.Request.RequestContext.RouteData.Values["controller"].ToString() + "/EliminarParametrizacion")/"),
+                     data: { idRegistro: _idRegistro},
+                     dataType: "json",
+                     success: function (respuesta) {
+                          $(".cartprocess").hide();
+                         if (respuesta.codigoRetorno == 0) {
+                             $("#modal-EliminarIngreso").modal('hide');
+                             toastr.success(respuesta.mensajeRetorno);
+                             var _idNombreEmpresa = $("#idCompania").val();
+                             ConsultaParametrizacion(_idNombreEmpresa);
+                         }
+                         else {
+                             toastr.info(respuesta.mensajeRetorno);
+                         }
+                    },
+                     error: function () {
+                        $(".cartprocess").hide();
+                        toastr.error('Estimado Usuario, intente mas tarde, estamos trabajando..');
+                    }
+                 });
+            });
+         });
+    </script>
+</main>
+

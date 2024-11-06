@@ -1,0 +1,108 @@
+[CustomError]: 18/11/2020 16:40:31
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223552108009010-4 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 18/11/2020 16:45:36
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223552108009010-4 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 18/11/2020 16:48:41
+[Metodo]: El tipo de error del mensaje es: no hub error
+[CustomError]: FIN 
+[CustomError]: 18/11/2020 16:48:41
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 18/11/2020 16:48:41
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223562536321512-4 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 18/11/2020 16:49:24
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223562536321512-4 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 18/11/2020 16:51:57
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223562536321512-4 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 18/11/2020 16:55:03
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223562536321512-4 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 18/11/2020 16:58:47
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223562536321512-4 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 18/11/2020 17:01:47
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223562536321512-4 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 18/11/2020 17:06:22
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223562536321512-4 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 18/11/2020 17:09:03
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223562536321512-4 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 18/11/2020 17:13:11
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223562536321512-4 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 18/11/2020 17:13:40
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223562536321512-4 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 18/11/2020 17:14:21
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223562536321512-4 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 18/11/2020 17:15:57
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223562536321512-4 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 18/11/2020 17:16:49
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223562536321512-4 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 18/11/2020 17:25:29
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223562536321512-4 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 18/11/2020 17:25:42
+[Metodo]: El tipo de error del mensaje es: no hub error
+[CustomError]: FIN 
+[CustomError]: 18/11/2020 17:25:42
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 18/11/2020 17:25:42
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223575431519710-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 18/11/2020 17:25:50
+[Metodo]: El tipo de error del mensaje es: no hub error
+[CustomError]: FIN 
+[CustomError]: 18/11/2020 17:25:50
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 18/11/2020 17:25:50
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223582914903811-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 18/11/2020 17:26:53
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223582914903811-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 18/11/2020 17:27:15
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223582914903811-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 18/11/2020 17:27:36
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223582914903811-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 18/11/2020 17:30:23
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223582914903811-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 18/11/2020 17:31:26
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223582914903811-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 18/11/2020 17:33:04
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223582914903811-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 18/11/2020 17:36:36
+[Metodo]: El tipo de error del mensaje es: no hub error
+[CustomError]: FIN 
+[CustomError]: 18/11/2020 17:36:37
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 18/11/2020 17:36:37
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 18/11/2020 17:36:50
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 18/11/2020 17:41:05
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 18/11/2020 17:46:44
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 

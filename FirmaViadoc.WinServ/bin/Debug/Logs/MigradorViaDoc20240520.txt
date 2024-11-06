@@ -1,0 +1,46 @@
+[CustomError]: 20/5/2024 09:13:56
+[Metodo]: System.ArgumentException: Error: 
+El elemento 'regimenMicroempresas' no es válido. El valor '' no es válido según su tipo de datos 'regimenMicroempresas' - Error de restricción de patrón.
+
+
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 109
+[CustomError]: FIN 
+[CustomError]: 20/5/2024 09:22:56
+[Metodo]: System.ArgumentException: Error: 
+El elemento 'regimenMicroempresas' no es válido. El valor '' no es válido según su tipo de datos 'regimenMicroempresas' - Error de restricción de patrón.
+
+
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 109
+[CustomError]: FIN 
+[CustomError]: 20/5/2024 09:35:43
+[Metodo]: System.ArgumentException: Buffer retornó 0
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 119
+[CustomError]: FIN 
+[CustomError]: 20/5/2024 09:45:28
+[Metodo]: System.ArgumentException: Buffer retornó 0
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 119
+[CustomError]: FIN 
+[CustomError]: 20/5/2024 09:45:28
+[Metodo]: System.ArgumentException: Buffer retornó 0
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 119
+[CustomError]: FIN 
+[CustomError]: 20/5/2024 10:09:02
+[Metodo]: System.ArgumentException: Buffer retornó 0
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 119
+[CustomError]: FIN 
+[CustomError]: 20/5/2024 10:09:02
+[Metodo]: System.ArgumentException: Buffer retornó 0
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 119
+[CustomError]: FIN 
+[CustomError]: 20/5/2024 10:17:44
+[Metodo]: System.ArgumentException: Buffer retornó 0
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 119
+[CustomError]: FIN 
+[CustomError]: 20/5/2024 10:27:51
+[Metodo]: System.ArgumentException: Buffer retornó 0
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 119
+[CustomError]: FIN 
+[CustomError]: 20/5/2024 10:27:52
+[Metodo]: System.ArgumentException: Buffer retornó 0
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 119
+[CustomError]: FIN 

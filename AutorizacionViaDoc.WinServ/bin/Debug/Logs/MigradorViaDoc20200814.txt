@@ -1,0 +1,2490 @@
+[CustomError]: 14/08/2020 13:21:05
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:21:43
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:26:45
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:26:45
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:26:45
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:26:45
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:26:45
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:26:45
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:26:45
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:26:45
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:26:45
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:26:45
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:26:45
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:26:45
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:26:45
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:26:51
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:28:02
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:47:49
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:48:00
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:48:18
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:48:18
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:48:18
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:48:18
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:48:18
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:48:18
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:48:18
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:48:18
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:48:18
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:48:18
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:48:18
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:48:18
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:48:18
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:48:20
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:48:25
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:49:02
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:53:22
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:53:22
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:53:22
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:53:22
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:53:22
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:53:22
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:53:22
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:53:22
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:53:22
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:53:22
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:53:22
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:53:22
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:53:22
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:53:25
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:53:27
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:53:47
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:53:47
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:53:47
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:53:47
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:53:47
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:53:47
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:53:47
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:53:47
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:53:47
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:53:47
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:53:47
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:53:47
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:53:47
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 13:53:51
+[Metodo]: ProcesoRecepcionAutorizacion:No hay ninguna fila en la posición 0.----   en System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   en System.Data.DataRowCollection.get_Item(Int32 index)
+   en ViaDocAutorizacion.LogicaNegocios.procesos.ProcesoDocumentos.ConsultaComprobantesPorEstado(Int32 ciCompania, String ciTipoDocumento, String ciEstado, String claveAcceso, Int32& codigoRetorno, String& descripcionRetorno)
+   en ViaDocAutorizacion.LogicaNegocios.ProcesoAutorizacionRecepcion.ProcesoRecepcionAutorizacion(Compania compania, String CodDoc, String TipoDocumento, String recepcionDB, String autorizacionDB, String claveAcceso, Int32& codigoRetorno, String& descripcionRetorno)
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:04:18
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:04:19
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:13:59
+[Metodo]: Exception ex....Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:14:05
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:14:05
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:14:05
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:14:05
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:14:05
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:14:05
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:14:05
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:14:06
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:14:06
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:14:06
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:14:06
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:14:06
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:14:06
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:14:10
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:14:13
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:15:58
+[Metodo]: Exception ex....Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:16:16
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:16:16
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:16:16
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:16:16
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:16:16
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:16:16
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:16:16
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:16:16
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:16:16
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:16:16
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:16:16
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:16:16
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:16:16
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:16:19
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:16:57
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:17:09
+[Metodo]: Exception ex....Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:21:24
+[Metodo]: Exception ex....Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:21:29
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:21:29
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:21:29
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:21:29
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:21:29
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:21:29
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:21:29
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:21:29
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:21:29
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:21:29
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:21:29
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:21:29
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:21:29
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:21:48
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:21:50
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:22:23
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:22:23
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:22:23
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:22:23
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:22:23
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:22:23
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:22:23
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:22:23
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:22:23
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:22:23
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:22:23
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:22:23
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:22:23
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:23:43
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:23:46
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:23:53
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:23:53
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:23:53
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:23:53
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:23:53
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:23:53
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:23:53
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:23:53
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:23:53
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:23:53
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:23:53
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:23:53
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:23:53
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:23:55
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:23:56
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:01
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:01
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:01
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:01
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:01
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:01
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:01
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:01
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:01
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:01
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:01
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:01
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:01
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:02
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:05
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:08
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:08
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:08
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:08
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:08
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:08
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:08
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:08
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:08
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:08
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:08
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:08
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:08
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:08
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:08
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:10
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:10
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:10
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:10
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:10
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:10
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:10
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:10
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:10
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:10
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:10
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:10
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:10
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:10
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:10
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:12
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:12
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:12
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:12
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:12
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:12
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:12
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:12
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:12
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:12
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:12
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:12
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:12
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:12
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:12
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:42
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:42
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:42
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:42
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:42
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:42
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:42
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:42
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:42
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:42
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:42
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:42
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:42
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:24:45
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:25:46
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:25:52
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:25:52
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:25:52
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:25:52
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:25:52
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:25:52
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:25:52
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:25:52
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:25:52
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:25:52
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:25:52
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:25:52
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:25:52
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:25:52
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:25:52
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:25:54
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:25:54
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:25:54
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:25:54
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:25:54
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:25:54
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:25:54
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:25:54
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:25:54
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:25:54
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:25:54
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:25:54
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:25:54
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:26:33
+[Metodo]: ProcesoRecepcionAutorizacion:No hay ninguna fila en la posición 0.----   en System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   en System.Data.DataRowCollection.get_Item(Int32 index)
+   en ViaDocAutorizacion.LogicaNegocios.procesos.ProcesoDocumentos.ConsultaComprobantesPorEstado(Int32 ciCompania, String ciTipoDocumento, String ciEstado, String claveAcceso, Int32& codigoRetorno, String& descripcionRetorno) en C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\procesos\ProcesoDocumentos.cs:línea 23
+   en ViaDocAutorizacion.LogicaNegocios.ProcesoAutorizacionRecepcion.ProcesoRecepcionAutorizacion(Compania compania, String CodDoc, String TipoDocumento, String recepcionDB, String autorizacionDB, String claveAcceso, Int32& codigoRetorno, String& descripcionRetorno) en C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\ProcesoAutorizacionRecepcion.cs:línea 34
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:29:49
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:29:51
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:05
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:05
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:05
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:05
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:05
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:05
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:05
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:05
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:05
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:05
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:05
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:05
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:05
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:07
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:08
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:21
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:21
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:21
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:21
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:21
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:21
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:21
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:21
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:21
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:21
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:21
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:21
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:21
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:24
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:27
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:39
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:39
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:39
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:39
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:39
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:39
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:39
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:39
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:39
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:39
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:39
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:39
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:30:39
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:31:39
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:31:40
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:31:53
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:31:53
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:31:53
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:31:53
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:31:53
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:31:53
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:31:53
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:31:53
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:31:53
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:31:53
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:31:53
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:31:53
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:31:54
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:32:05
+[Metodo]: ProcesoRecepcionAutorizacion:No hay ninguna fila en la posición 0.----   en System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   en System.Data.DataRowCollection.get_Item(Int32 index)
+   en ViaDocAutorizacion.LogicaNegocios.procesos.ProcesoDocumentos.ConsultaComprobantesPorEstado(Int32 ciCompania, String ciTipoDocumento, String ciEstado, String claveAcceso, Int32& codigoRetorno, String& descripcionRetorno) en C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\procesos\ProcesoDocumentos.cs:línea 23
+   en ViaDocAutorizacion.LogicaNegocios.ProcesoAutorizacionRecepcion.ProcesoRecepcionAutorizacion(Compania compania, String CodDoc, String TipoDocumento, String recepcionDB, String autorizacionDB, String claveAcceso, Int32& codigoRetorno, String& descripcionRetorno) en C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\ProcesoAutorizacionRecepcion.cs:línea 34
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:34:18
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:34:20
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:34:47
+[Metodo]: Exception ex....Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:34:50
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:34:50
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:34:50
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:34:50
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:34:50
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:34:50
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:34:50
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:34:50
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:34:50
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:34:50
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:34:50
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:34:50
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:34:50
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:34:51
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:34:52
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:34:57
+[Metodo]: Exception ex....Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:34:59
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:34:59
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:34:59
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:34:59
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:34:59
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:34:59
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:34:59
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:34:59
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:34:59
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:34:59
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:34:59
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:34:59
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:34:59
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:35:01
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:35:02
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:35:10
+[Metodo]: Exception ex....Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:35:14
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:35:14
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:35:14
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:35:14
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:35:14
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:35:14
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:35:14
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:35:14
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:35:14
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:35:14
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:35:14
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:35:14
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:35:14
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:35:29
+[Metodo]: ProcesoRecepcionAutorizacion:No hay ninguna fila en la posición 0.----   en System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   en System.Data.DataRowCollection.get_Item(Int32 index)
+   en ViaDocAutorizacion.LogicaNegocios.procesos.ProcesoDocumentos.ConsultaComprobantesPorEstado(Int32 ciCompania, String ciTipoDocumento, String ciEstado, String claveAcceso, Int32& codigoRetorno, String& descripcionRetorno) en C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\procesos\ProcesoDocumentos.cs:línea 23
+   en ViaDocAutorizacion.LogicaNegocios.ProcesoAutorizacionRecepcion.ProcesoRecepcionAutorizacion(Compania compania, String CodDoc, String TipoDocumento, String recepcionDB, String autorizacionDB, String claveAcceso, Int32& codigoRetorno, String& descripcionRetorno) en C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\ProcesoAutorizacionRecepcion.cs:línea 34
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:02
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:05
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:14
+[Metodo]: Exception ex....Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:16
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:16
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:16
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:16
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:16
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:16
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:16
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:16
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:16
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:16
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:16
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:16
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:16
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:17
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:19
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:23
+[Metodo]: Exception ex....Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:25
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:25
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:25
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:25
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:25
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:25
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:25
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:25
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:25
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:25
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:25
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:25
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:25
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:26
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:27
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:36
+[Metodo]: Exception ex....Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:39
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:39
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:39
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:39
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:39
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:39
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:39
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:39
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:39
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:39
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:39
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:39
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:39
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:40
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:42
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:49
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:49
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:49
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:49
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:49
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:49
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:49
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:49
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:49
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:49
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:49
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:49
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:49
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:50
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:52
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:59
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:59
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:59
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:59
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:59
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:59
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:59
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:59
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:59
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:59
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:59
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:59
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:41:59
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:43:52
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:43:52
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:02
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:02
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:02
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:02
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:02
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:02
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:02
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:02
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:02
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:02
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:02
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:02
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:02
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:02
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:02
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:04
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:04
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:04
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:04
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:04
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:04
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:04
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:04
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:04
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:04
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:04
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:04
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:04
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:04
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:04
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:05
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:05
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:05
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:05
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:05
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:05
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:05
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:05
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:05
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:05
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:05
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:05
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:05
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:05
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:44:05
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:14
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:14
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:14
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:14
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:14
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:14
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:14
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:14
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:14
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:14
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:14
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:14
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:15
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:15
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:15
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:15
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:15
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:15
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:15
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:15
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:15
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:15
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:15
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:15
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:15
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:15
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:15
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:15
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:15
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:15
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:15
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:15
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:15
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:15
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:15
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:15
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:15
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:15
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:15
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:16
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:16
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:16
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:16
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:16
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:16
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:16
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:16
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:16
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:16
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:16
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:16
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:16
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:16
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:16
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:16
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:16
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:16
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:16
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:16
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:16
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:16
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:16
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:16
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:16
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:16
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:16
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:16
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:16
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:16
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:16
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:17
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:17
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:17
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:17
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:17
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:17
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:17
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:17
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:17
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:17
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:17
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:17
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:17
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:17
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:17
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:17
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:17
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:17
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:17
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:17
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:17
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:17
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:17
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:17
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:17
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:17
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:17
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:17
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:17
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:17
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:17
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:17
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:17
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:18
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:18
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:18
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:18
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:18
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:18
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:18
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:18
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:18
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:18
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:18
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:18
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:18
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:18
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:18
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:18
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:18
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:18
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:18
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:18
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:18
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:18
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:18
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:18
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:18
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:18
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:18
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:18
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:18
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:18
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:18
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:18
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:19
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:19
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:19
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:19
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:19
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:19
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:19
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:19
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:19
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:19
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:19
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:19
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:19
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:19
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:19
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:19
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:19
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:19
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:19
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:19
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:19
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:19
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:19
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:19
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:19
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:19
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:19
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:19
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:19
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:19
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:20
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:20
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:20
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:20
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:20
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:20
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:20
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:20
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:20
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:20
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:20
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:20
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:20
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:20
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:20
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:20
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:20
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:20
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:20
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:20
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:20
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:20
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:20
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:20
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:20
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:20
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:20
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:20
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:20
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:20
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:21
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:21
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:21
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:21
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:21
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:21
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:21
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:21
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:21
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:21
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:21
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:21
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:21
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:22
+[Metodo]: ProcesoRecepcionAutorizacion:No hay ninguna fila en la posición 0.----   en System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   en System.Data.DataRowCollection.get_Item(Int32 index)
+   en ViaDocAutorizacion.LogicaNegocios.procesos.ProcesoDocumentos.ConsultaComprobantesPorEstado(Int32 ciCompania, String ciTipoDocumento, String ciEstado, String claveAcceso, Int32& codigoRetorno, String& descripcionRetorno) en C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\procesos\ProcesoDocumentos.cs:línea 23
+   en ViaDocAutorizacion.LogicaNegocios.ProcesoAutorizacionRecepcion.ProcesoRecepcionAutorizacion(Compania compania, String CodDoc, String TipoDocumento, String recepcionDB, String autorizacionDB, String claveAcceso, Int32& codigoRetorno, String& descripcionRetorno) en C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\ProcesoAutorizacionRecepcion.cs:línea 34
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:55
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:55
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:56
+[Metodo]: Exception ex....Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:56
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:56
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:56
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:56
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:56
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:56
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:56
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:56
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:56
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:56
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:56
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:56
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:56
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:56
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:56
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:57
+[Metodo]: Exception ex....Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:57
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:57
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:57
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:57
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:57
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:57
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:57
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:57
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:57
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:57
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:57
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:57
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:57
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:57
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:57
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:57
+[Metodo]: Exception ex....Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:58
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:58
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:58
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:58
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:58
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:58
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:58
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:58
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:58
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:58
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:58
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:58
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:58
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:45:58
+[Metodo]: ProcesoRecepcionAutorizacion:No hay ninguna fila en la posición 0.----   en System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   en System.Data.DataRowCollection.get_Item(Int32 index)
+   en ViaDocAutorizacion.LogicaNegocios.procesos.ProcesoDocumentos.ConsultaComprobantesPorEstado(Int32 ciCompania, String ciTipoDocumento, String ciEstado, String claveAcceso, Int32& codigoRetorno, String& descripcionRetorno) en C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\procesos\ProcesoDocumentos.cs:línea 23
+   en ViaDocAutorizacion.LogicaNegocios.ProcesoAutorizacionRecepcion.ProcesoRecepcionAutorizacion(Compania compania, String CodDoc, String TipoDocumento, String recepcionDB, String autorizacionDB, String claveAcceso, Int32& codigoRetorno, String& descripcionRetorno) en C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\ProcesoAutorizacionRecepcion.cs:línea 34
+[CustomError]: FIN 
+[CustomError]: 14/08/2020 14:46:28
+[Metodo]: ProcesoRecepcionAutorizacion:No hay ninguna fila en la posición 0.----   en System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   en System.Data.DataRowCollection.get_Item(Int32 index)
+   en ViaDocAutorizacion.LogicaNegocios.procesos.ProcesoDocumentos.ConsultaComprobantesPorEstado(Int32 ciCompania, String ciTipoDocumento, String ciEstado, String claveAcceso, Int32& codigoRetorno, String& descripcionRetorno) en C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\procesos\ProcesoDocumentos.cs:línea 23
+   en ViaDocAutorizacion.LogicaNegocios.ProcesoAutorizacionRecepcion.ProcesoRecepcionAutorizacion(Compania compania, String CodDoc, String TipoDocumento, String recepcionDB, String autorizacionDB, String claveAcceso, Int32& codigoRetorno, String& descripcionRetorno) en C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\ProcesoAutorizacionRecepcion.cs:línea 34
+[CustomError]: FIN 

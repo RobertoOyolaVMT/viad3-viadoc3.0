@@ -1,0 +1,119 @@
+﻿@{
+    ViewBag.Title = "Documentos";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<main>
+    <section class="content-header">
+        <h1>Parametrizar Tiempo de Servicios</h1>
+        <ol class="breadcrumb">
+            <li><a href="#"><i class="fa fa-dashboard"></i> Configuración</a></li>
+            <li class="active">Tiempo de Servicios</li>
+        </ol>
+    </section>
+
+    <section class="content">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="box">
+                    <div class="box-header with-border">
+                        <br />
+                        <div class="box-tools pull-right">
+                            <button type="button" class="btn btn-box-tool" data-widget="collapse">
+                                <i class="fa fa-minus"></i>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="box-body">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="col-md-4">
+                                    <div class="form-group">
+                                        <label>Nombre de Empresa:</label>
+                                        <select id="idCompania" class="form-control select2" style="width: 100%;">
+                                            @foreach (var _listaCompania in ViewBag.listaCompania)
+                                            {
+                                                <option value="@_listaCompania.idCompania">@_listaCompania.razonSocial</option>
+                                            }
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="form-group">
+                                        <label>Tipo de Servicio:</label>
+                                        <select id="idCompania" class="form-control select2" style="width: 100%;">
+                                            <option value="1">Servicio Firma</option>
+                                            <option value="2">Servicio Correo</option>
+                                            <option value="3">Servicio Autorizacion</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                            <br />
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <div class="col-md-2">
+                                        <a id="btnBuscarParametros" href="#" class="ViaDoc-button-filtro ViaDoc-principal btn-block btn-flat">
+                                            Buscar
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <br />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <div class="box">
+                    <div class="box-header with-border">
+                        <br />
+                        <div class="box-tools pull-right">
+                            <button type="button" class="btn btn-box-tool" data-widget="collapse">
+                                <i class="fa fa-minus"></i>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="box-body">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <table id="tbl-Compania" class="table table-bordered table-striped display responsive" style="width:100%">
+                                        <thead>
+                                            <tr>
+                                                <th>idCompania</th>
+                                                <th>Ruc</th>
+                                                <th>Nombre Comercial</th>
+                                                <th>Razón Social</th>
+                                                <th>Dirección Matriz</th>
+                                                <th>Tiempo Ambiente</th>
+                                                <th width="10%">-</th>
+                                                <th width="10%">-</th>
+                                                <th width="10%">-</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody></tbody>
+                                    </table>
+                                </div>
+                            </div>
+                            <br />
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <div class="col-md-2">
+                                        <a id="btnNuevoParametros" href="#" class="ViaDoc-button-filtro ViaDoc-principal btn-block btn-flat">
+                                            Nuevo Compañia
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <br />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>

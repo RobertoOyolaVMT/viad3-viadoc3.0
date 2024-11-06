@@ -1,0 +1,54 @@
+[CustomError]: 31/5/2024 01:34:50
+[Metodo]: ProcesoRideCompRetencion
+[Service]: GeneraReporteNetcore
+[Message]: Object reference not set to an instance of an object.
+[StackTrace]: 
+[CustomError]: FIN 
+[CustomError]: 31/5/2024 01:34:59
+[Metodo]: ProcesoRideCompRetencion
+[Service]: GeneraReporteNetcore
+[Message]: Object reference not set to an instance of an object.
+[StackTrace]: 
+[CustomError]: FIN 
+[CustomError]: 31/5/2024 01:36:09
+[Metodo]: ProcesoRideCompRetencion
+[Service]: GeneraReporteNetcore
+[Message]: Object reference not set to an instance of an object.
+[StackTrace]: 
+[CustomError]: FIN 
+[CustomError]: 31/5/2024 01:37:32
+[Metodo]: ProcesoRideCompRetencion
+[Service]: GeneraReporteNetcore
+[Message]: Object reference not set to an instance of an object.
+[StackTrace]: 
+[CustomError]: FIN 
+[CustomError]: 31/5/2024 09:43:29
+[Metodo]: ProcesoRideCompRetencion
+[Service]: GeneraReporteNetcore
+[Message]: The process cannot access the file 'C:\ComprobantesXML\RIDE\RideCompRetencion.rdlc' because it is being used by another process.
+[StackTrace]: 
+[CustomError]: FIN 
+[CustomError]: 31/5/2024 09:43:59
+[Metodo]: Ridefactura
+[Service]: GeneraReporteNetcore
+[Message]: Object reference not set to an instance of an object.
+[StackTrace]: 
+[CustomError]: FIN 
+[CustomError]: 31/5/2024 09:44:21
+[Metodo]: ProcesoRideCompRetencion
+[Service]: GeneraReporteNetcore
+[Message]: The process cannot access the file 'C:\ComprobantesXML\RIDE\RideCompRetencion.rdlc' because it is being used by another process.
+[StackTrace]: 
+[CustomError]: FIN 
+[CustomError]: 31/5/2024 09:52:14
+[Metodo]: ProcesoRideCompRetencion
+[Service]: GeneraReporteNetcore
+[Message]: The process cannot access the file 'C:\ComprobantesXML\RIDE\RideCompRetencion.rdlc' because it is being used by another process.
+[StackTrace]: 
+[CustomError]: FIN 
+[CustomError]: 31/5/2024 10:45:46
+[Metodo]: ProcesoRideLiquidacion
+[Service]: GeneraReporteNetcore
+[Message]: Column 'iva5' does not belong to table tblInformacionMonetaria.
+[StackTrace]: 
+[CustomError]: FIN 

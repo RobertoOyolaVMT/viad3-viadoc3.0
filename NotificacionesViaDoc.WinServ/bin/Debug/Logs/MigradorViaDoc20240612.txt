@@ -1,0 +1,39 @@
+[CustomError]: 12/6/2024 10:39:08
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 12/6/2024 10:39:09
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 12/6/2024 10:39:20
+[Metodo]: Excpetion: El nombre de columna 'txFechaEmision' no es válido.
+El nombre de columna 'txFechaEmision' no es válido.
+[CustomError]: FIN 
+[CustomError]: 12/6/2024 10:39:30
+[Metodo]: Metodo: NotificacinDocAtrasados, Mensaje: Se envio de maenra correcta
+[CustomError]: FIN 
+[CustomError]: 12/6/2024 10:43:18
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 12/6/2024 10:43:20
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 12/6/2024 10:43:22
+[Metodo]: Excpetion: El nombre de columna 'txFechaEmision' no es válido.
+El nombre de columna 'txFechaEmision' no es válido.
+[CustomError]: FIN 
+[CustomError]: 12/6/2024 10:43:32
+[Metodo]: Metodo: NotificacinDocAtrasados, Mensaje: Se envio de maenra correcta
+[CustomError]: FIN 
+[CustomError]: 12/6/2024 10:58:14
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 12/6/2024 10:58:15
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 12/6/2024 10:58:17
+[Metodo]: Excpetion: El nombre de columna 'txFechaEmision' no es válido.
+El nombre de columna 'txFechaEmision' no es válido.
+[CustomError]: FIN 
+[CustomError]: 12/6/2024 10:58:29
+[Metodo]: Metodo: NotificacinDocAtrasados, Mensaje: Se envio de maenra correcta
+[CustomError]: FIN 

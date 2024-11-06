@@ -1,0 +1,116 @@
+﻿
+@using ViaDoc.EntidadNegocios;
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section class="content">
+    <section class="content-header" style="padding-bottom:5px; padding-top:8px">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="#">Utilitarios</a></li>
+                        <li class="breadcrumb-item active">Reproceso</li>
+                    </ol>
+                </div>
+                <div class="col-sm-6">
+
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="container-fluid">
+        <div class="card card-success">
+            <div class="card-header">
+                <h3 class="card-title">Filtros de Búsquedas</h3>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-sm-3">
+                        <!-- text input -->
+                        <div class="form-group">
+                            <label>Compañía</label>
+                            <select class="form-control js-example-basic-single" id="txtIdEmpresa">
+                                @foreach (CatCompania item in ViewData["listEmpresas"] as List<CatCompania>)
+                                {
+                                    <option value="@item.idCompania">@item.nombreComercial</option>
+                                }
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="form-group">
+                            <label>Tipo Documento</label>
+                            <select class="form-control js-example-basic-single" id="txtIdTipoDocumento">
+                                @foreach (CatDocumento item in ViewData["listDocumentos"] as List<CatDocumento>)
+                                {
+                                    <option value="@item.idTipoDocumento">@item.descripcion</option>
+                                }
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="form-group">
+                            <label>Fecha Inicio:</label>
+                            <div class="input-group date" data-target-input="nearest">
+                                <input type="text" name="txtFechaInicio" id="txtFechaInicio" maxlength="0" class="form-control datetimepicker-input" data-target="#txtFechaInicio" />
+                                <div class="input-group-append" data-target="#txtFechaInicio" data-toggle="datetimepicker">
+                                    <div class="input-group-text"><i class="fa fa-calendar"></i></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <div class="form-group">
+                            <label>Fecha Fin:</label>
+                            <div class="input-group date" data-target-input="nearest">
+                                <input type="text" id="txtFechaFin" name="txtFechaFin" maxlength="0" class="form-control datetimepicker-input" data-target="#txtFechaFin" />
+                                <div class="input-group-append" data-target="#txtFechaFin" data-toggle="datetimepicker">
+                                    <div class="input-group-text"><i class="fa fa-calendar"></i></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-3">
+                        <div class="form-group">
+                            <label>Número de Documentos</label>
+                            <input type="text" class="form-control" id="txtNumDocumento" maxlength="17" Onkeypress="return validarNumSig(event);" placeholder="Ejem. 001-001-000000001">
+                        </div>
+                    </div>
+                </div>
+                <div class="justify-content-center row">
+                    <div class="col-sm-3">
+                        <input type="button" id="btnBuscar" class="btn btn-block btn-primary" onclick="BtnBuscar()" value="Buscar" />
+                    </div>
+                    <div class="col-sm-3" style="display:none" id="divbtnReprocesoTodo">
+                        <input type="button" id="btnReproceso" class="btn btn-block btn-primary" onclick="Reproceso_Todo()" value="Reprocesar Todo" />
+                    </div>
+                </div>
+            </div>
+        </div>
+        <section class="content-header" style="padding-top:0px">
+            <div id="divGrigReproceso">
+
+            </div>
+        </section>
+    </div>
+</section>
+<script>
+    $('.js-example-basic-single').select2({
+        theme: 'bootstrap4'
+    });
+
+    $('#txtFechaInicio').datetimepicker({
+        format: 'DD/MM/YYYY'
+    });
+
+    $('#txtFechaFin').datetimepicker({
+        format: 'DD/MM/YYYY'
+    });
+</script>
+

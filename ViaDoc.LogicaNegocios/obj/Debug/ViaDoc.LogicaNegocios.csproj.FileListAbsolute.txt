@@ -1,0 +1,330 @@
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.LogicaNegocios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.LogicaNegocios.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\IKVM.Runtime.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Configuraciones.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Utilitarios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.csprojAssemblyReference.cache
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.csproj.CopyComplete
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.LogicaNegocios.dll.config
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\ReportesViaDoc.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\CodeQR.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\itextsharp.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\GenCode128.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\ReportesViaDoc.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\ReportesViaDoc.dll.config
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\itextsharp.xml
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\BouncyCastle.Crypto.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\BouncyCastle.Crypto.xml
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.LogicaNegocios.dll.config
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.LogicaNegocios.dll
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.LogicaNegocios.pdb
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\IKVM.Runtime.dll
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\ReportesViaDoc.dll
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Configuraciones.dll
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Utilitarios.dll
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\CodeQR.dll
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\itextsharp.dll
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\GenCode128.dll
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\BouncyCastle.Crypto.dll
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\ReportesViaDoc.pdb
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\ReportesViaDoc.dll.config
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\itextsharp.xml
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\bin\Debug\BouncyCastle.Crypto.xml
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.csprojAssemblyReference.cache
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.csproj.CopyComplete
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.dll
+C:\FacturacionElectronica\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.LogicaNegocios.dll.config
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.LogicaNegocios.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.LogicaNegocios.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.Runtime.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.csproj.CopyComplete
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Probador.WCF.exe
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Probador.WCF.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Probador.WCF.exe.config
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.LogicaNegocios.dll.config
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.LogicaNegocios.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.LogicaNegocios.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.Runtime.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Probador.WCF.exe
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Probador.WCF.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Probador.WCF.exe.config
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.csproj.CopyComplete
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.LogicaNegocios.dll.config
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.LogicaNegocios.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.LogicaNegocios.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.Runtime.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Probador.WCF.exe
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Probador.WCF.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Probador.WCF.exe.config
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.csproj.CopyComplete
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.LogicaNegocios.dll.config
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.LogicaNegocios.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.LogicaNegocios.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.Runtime.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Probador.WCF.exe
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Probador.WCF.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Probador.WCF.exe.config
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.csproj.CopyComplete
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.LogicaNegocios.dll.config
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.LogicaNegocios.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.LogicaNegocios.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.Runtime.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Probador.WCF.exe
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Probador.WCF.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Probador.WCF.exe.config
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.csproj.CopyComplete
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.LogicaNegocios.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.LogicaNegocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.LogicaNegocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.Runtime.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Probador.WCF.exe
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Probador.WCF.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Probador.WCF.exe.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.csproj.CopyComplete
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.LogicaNegocios.dll.config
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.LogicaNegocios.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.LogicaNegocios.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.Runtime.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Probador.WCF.exe
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Probador.WCF.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Probador.WCF.exe.config
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.csproj.CopyComplete
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.LogicaNegocios.dll.config
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.LogicaNegocios.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.LogicaNegocios.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.Runtime.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Configuraciones.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Probador.WCF.exe
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Utilitarios.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Probador.WCF.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Probador.WCF.exe.config
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.csproj.AssemblyReference.cache
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.csproj.CopyComplete
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.LogicaNegocios.dll.config
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.LogicaNegocios.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.LogicaNegocios.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\IKVM.Runtime.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Probador.WCF.exe
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Probador.WCF.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Probador.WCF.exe.config
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.csproj.AssemblyReference.cache
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.L.DA2EDB99.Up2Date
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\obj\Debug\ViaDoc.LogicaNegocios.pdb

@@ -1,0 +1,6 @@
+[CustomError]: 01/03/2021 17:14:24
+[Metodo]: Entro
+[CustomError]: FIN 
+[CustomError]: 01/03/2021 17:14:55
+[Metodo]: Entro
+[CustomError]: FIN 

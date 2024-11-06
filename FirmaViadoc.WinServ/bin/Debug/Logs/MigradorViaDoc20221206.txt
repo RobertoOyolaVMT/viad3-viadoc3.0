@@ -1,0 +1,22 @@
+[CustomError]: 6/12/2022 15:59:50
+[Metodo]: System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.
+   en ViaDocFirma.LogicaNegocios.ProcesoFacturas.ProcesaXmlFacturas(Compania compania, String Version, Int32 numeroRegistro) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\procesos\ProcesoFacturas.cs:línea 591
+[CustomError]: FIN 
+[CustomError]: 6/12/2022 15:59:50
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 6/12/2022 15:59:50
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 6/12/2022 15:59:51
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 6/12/2022 15:59:51
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 6/12/2022 15:59:53
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 6/12/2022 15:59:53
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 

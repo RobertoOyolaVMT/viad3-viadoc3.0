@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8EE17902-714B-41EC-9E45-54CC56C7E692}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MigradorBdTemp</RootNamespace>
+    <AssemblyName>MigradorBdTemp</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Service1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Service1.Designer.cs">
+      <DependentUpon>Service1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TimeProces.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ViaDoc.AccesoDatos\ViaDoc.AccesoDatos.csproj">
+      <Project>{929E630C-B415-47ED-AAED-D9EF417A853B}</Project>
+      <Name>ViaDoc.AccesoDatos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ViaDoc.Configuraciones\ViaDoc.Configuraciones.csproj">
+      <Project>{9ab6b4a0-b8f5-40d0-a8cd-66ce12ff1a98}</Project>
+      <Name>ViaDoc.Configuraciones</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ViaDoc.EntidadNegocios\ViaDoc.EntidadNegocios.csproj">
+      <Project>{f195e26c-0d02-438e-a225-81616940decc}</Project>
+      <Name>ViaDoc.EntidadNegocios</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ViaDoc.Utilitarios\ViaDoc.Utilitarios.csproj">
+      <Project>{82c21470-1da4-49a6-9524-84c080b22a28}</Project>
+      <Name>ViaDoc.Utilitarios</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ViaDocMigrador.LogicaNegocios\ViaDocMigrador.LogicaNegocios.csproj">
+      <Project>{4c28c296-6377-41ad-9928-a984da56bc20}</Project>
+      <Name>ViaDocMigrador.LogicaNegocios</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

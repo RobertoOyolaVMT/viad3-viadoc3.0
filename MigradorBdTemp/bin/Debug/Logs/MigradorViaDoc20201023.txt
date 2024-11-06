@@ -1,0 +1,3 @@
+[CustomError]: 23/10/2020 15:43:46
+[Metodo]: Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 

@@ -1,0 +1,108 @@
+[CustomError]: 18/6/2024 11:34:54
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 18/6/2024 11:34:56
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 18/6/2024 11:35:54
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 18/6/2024 11:35:54
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 18/6/2024 11:35:54
+[Metodo]: Error al generar del byte[] para elo ride Factura. Mensaje Error: An error occurred during local report processing.. En: Void EnsureExecutionSession(). Origen error: Microsoft.ReportViewer.WinForms
+[CustomError]: FIN 
+[CustomError]: 18/6/2024 11:36:36
+[Metodo]: Excpetion__1: Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 18/6/2024 11:36:40
+[Metodo]: El tipo de error del mensaje es: Hubo un error al envio del correo electronico.. Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 18/6/2024 11:36:41
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 18/6/2024 11:39:49
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 18/6/2024 11:39:51
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 18/6/2024 11:40:32
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 18/6/2024 11:40:51
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 18/6/2024 11:43:23
+[Metodo]: Error al generar del byte[] para elo ride Factura. Mensaje Error: An error occurred during local report processing.. En: Void EnsureExecutionSession(). Origen error: Microsoft.ReportViewer.WinForms
+[CustomError]: FIN 
+[CustomError]: 18/6/2024 11:43:23
+[Metodo]: Excpetion__1: Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 18/6/2024 11:43:23
+[Metodo]: El tipo de error del mensaje es: Hubo un error al envio del correo electronico.. Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 18/6/2024 11:43:26
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 18/6/2024 11:44:45
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 18/6/2024 11:44:46
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 18/6/2024 11:44:53
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 18/6/2024 11:44:53
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 18/6/2024 11:45:02
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 18/6/2024 11:45:14
+[Metodo]: Excpetion__1: Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 18/6/2024 11:45:14
+[Metodo]: El tipo de error del mensaje es: Hubo un error al envio del correo electronico.. Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 18/6/2024 11:45:14
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 18/6/2024 11:46:22
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 18/6/2024 11:46:24
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 18/6/2024 11:46:26
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 18/6/2024 11:46:26
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 18/6/2024 11:46:28
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 18/6/2024 11:49:14
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 18/6/2024 11:49:16
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 18/6/2024 11:49:18
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 18/6/2024 11:49:18
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 18/6/2024 11:49:21
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 18/6/2024 11:49:27
+[Metodo]: El tipo de error del mensaje es: no hubo error
+[CustomError]: FIN 
+[CustomError]: 18/6/2024 11:49:27
+[Metodo]: valor de i0
+[CustomError]: FIN 

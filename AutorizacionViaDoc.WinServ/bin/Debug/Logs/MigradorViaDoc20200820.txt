@@ -1,0 +1,312 @@
+[CustomError]: 20/08/2020 15:38:19
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:38:21
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:38:30
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:38:30
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:38:30
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:38:30
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:38:30
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:38:30
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:38:30
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:38:30
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:38:30
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:38:30
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:38:30
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:38:30
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:38:31
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:38:33
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:38:34
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:48:26
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:48:26
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:48:29
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:48:29
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:48:29
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:48:29
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:48:29
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:48:29
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:48:29
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:48:29
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:48:30
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:48:30
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:48:30
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:48:30
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:48:30
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:48:31
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:48:33
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:48:37
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:48:37
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:48:37
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:48:37
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:48:37
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:48:37
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:48:37
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:48:37
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:48:37
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:48:37
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:48:37
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:48:37
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:48:37
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:24
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:24
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:27
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:27
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:27
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:27
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:27
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:27
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:27
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:27
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:27
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:27
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:27
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:27
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:27
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:27
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:27
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:29
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:29
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:29
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:29
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:29
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:29
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:29
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:29
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:29
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:29
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:29
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:29
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:29
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:29
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:29
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:33
+[Metodo]: 1110
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:33
+[Metodo]: 0
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:33
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:33
+[Metodo]: 2
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:33
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:33
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:33
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:33
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:33
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:33
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:33
+[Metodo]: 9
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:33
+[Metodo]: 10
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:33
+[Metodo]: <NewDataSet>
+  <Table>
+    <idCodigo>0</idCodigo>
+    <Respuesta>EXITOSO</Respuesta>
+  </Table>
+</NewDataSet>
+[CustomError]: FIN 
+[CustomError]: 20/08/2020 15:49:33
+[Metodo]: ProcesoRecepcionAutorizacion:No hay ninguna fila en la posición 0.----   en System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   en System.Data.DataRowCollection.get_Item(Int32 index)
+   en ViaDocAutorizacion.LogicaNegocios.procesos.ProcesoDocumentos.ConsultaComprobantesPorEstado(Int32 ciCompania, String ciTipoDocumento, String ciEstado, String claveAcceso, Int32& codigoRetorno, String& descripcionRetorno) en C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\procesos\ProcesoDocumentos.cs:línea 23
+   en ViaDocAutorizacion.LogicaNegocios.ProcesoAutorizacionRecepcion.ProcesoRecepcionAutorizacion(Compania compania, String CodDoc, String TipoDocumento, String recepcionDB, String autorizacionDB, String claveAcceso, Int32& codigoRetorno, String& descripcionRetorno) en C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\ProcesoAutorizacionRecepcion.cs:línea 34
+[CustomError]: FIN 

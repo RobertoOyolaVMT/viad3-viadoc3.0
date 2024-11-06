@@ -1,0 +1,45 @@
+[CustomError]: 3/10/2024 9:28:24
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 3/10/2024 9:28:24
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 3/10/2024 9:28:24
+[Metodo]: Error al generar del byte[] para elo ride Factura. Mensaje Error: An error occurred during local report processing.. En: Void EnsureExecutionSession(). Origen error: Microsoft.ReportViewer.WinForms
+[CustomError]: FIN 
+[CustomError]: 3/10/2024 15:03:22
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 3/10/2024 15:03:22
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 3/10/2024 15:03:25
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 3/10/2024 15:04:07
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 3/10/2024 15:04:07
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 3/10/2024 15:04:07
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 3/10/2024 15:18:08
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 3/10/2024 15:18:08
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 3/10/2024 15:18:10
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 3/10/2024 15:23:43
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 3/10/2024 15:23:43
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 3/10/2024 15:23:43
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 

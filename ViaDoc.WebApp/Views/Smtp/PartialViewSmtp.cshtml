@@ -1,0 +1,86 @@
+﻿@using ViaDoc.EntidadNegocios
+
+@model ViaDoc.EntidadNegocios.SmtpLista
+
+
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                <table id="tblConfiguracionSmtp" class="table table-bordered table-striped" style="font-size:13px">
+                    <thead>
+                        <tr>
+                            <th>Razón Social</th>
+                            <th>Host</th>
+                            <th>Puerto</th>
+                            <th>Email Credencial</th>
+                            <th>Modificar</th>
+                            <th>Eliminar</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.objListSmtp)
+                        {
+                            <tr>
+                                <td>@item.RazonSocial</td>
+                                <td>@item.HostServidor</td>
+                                <td>@item.Puerto</td>
+                                <td>@item.EmailCredencial</td>
+                                <td>
+                                    <center>
+                                        <input type="button" onclick="modificar('@item.RazonSocial','@item.CiCompania', '@item.HostServidor', '@item.Puerto','@item.EmailCredencial','@item.PassCredencial','@item.MailAddressfrom','@item.Para','@item.Cc','@item.Asunto','@item.EnableSsl','@item.ActivarNotificacion','@item.UrlPortal','@item.UrlCompania')" class="btn btn-success" value="Modificar">
+                                    </center>
+                                </td>
+                                <td>
+                                    <center>
+                                        <input type="button" onclick="eliminar(@item.CiCompania)" class="btn btn-danger" value="Eliminar">
+                                    </center>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $('#tblConfiguracionSmtp').DataTable({
+        "paging": true,
+        "searching": true,
+        "ordering": true,
+        "autoWidth": false,
+        "pageLength": 10,
+        "responsive": true,
+        "language": {
+            url: "../Content/idioma/espaniol.json"
+        },
+    });
+
+    function eliminar(txtIdCompania) {
+        $("#modal-default").modal('show');
+    }
+
+    function modificar(TxRazonSocial, txtIdCompania, txHostServidor, txPuertoServidor, txEmailCredencial, txPassCredencial, txMailAdressFrom, txTo, txCc, txAsunto, txEnableSsl, txNotificacion, txUrlPortal, txUrlCompania) {
+
+        
+        $('#txtIdEmpresaCompania').prop('disabled', 'disabled');
+        $('#txtIdEmpresaCompania').val(TxRazonSocial);
+        $('#txtIdCompania').val(txtIdCompania);
+        $('#txHostServidor').val(txHostServidor);
+        $("#txPuertoServidor").val(txPuertoServidor);
+        $('#txEmailCredencial').val(txEmailCredencial);
+        $("#txPassCredencial").val(txPassCredencial);
+        $("#txMailAdressFrom").val(txMailAdressFrom);
+        $("#txTo").val(txTo);
+        $("#txCc").val(txCc);
+        $("#txAsunto").val(txAsunto);
+        $("#txUrlPortal").val(txUrlPortal);
+        $("#txUrlCompania").val(txUrlCompania);
+        $('#txEnableSsl').val(txEnableSsl);
+        $('#txNotificacion').val(txNotificacion);
+        $("#modal-Smtp").modal('show');
+    }
+</script>
+

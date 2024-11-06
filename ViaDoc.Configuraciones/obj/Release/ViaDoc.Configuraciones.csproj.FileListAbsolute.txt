@@ -1,0 +1,73 @@
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.csproj.CoreCompileInputs.cache
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.csprojAssemblyReference.cache
+C:\FacturacionElectronica\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\FacturacionElectronica\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.dll
+C:\FacturacionElectronica\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.pdb
+C:\FacturacionElectronica\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.csproj.CoreCompileInputs.cache
+C:\FacturacionElectronica\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.dll
+C:\FacturacionElectronica\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.csproj.CoreCompileInputs.cache
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.csproj.AssemblyReference.cache
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.csproj.AssemblyReference.cache
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.csproj.CoreCompileInputs.cache
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.csproj.CoreCompileInputs.cache
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.csproj.AssemblyReference.cache
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.csproj.AssemblyReference.cache
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.csproj.CoreCompileInputs.cache
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.pdb

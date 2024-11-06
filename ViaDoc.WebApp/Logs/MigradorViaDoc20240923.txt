@@ -1,0 +1,135 @@
+[CustomError]: 23/9/2024 11:00:23
+[Metodo]: Se agotó el tiempo de espera de ejecución. El período de tiempo de espera transcurrió antes de la finalización de la operación o el servidor no responde.
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 11:00:23
+[Metodo]: Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 13:47:16
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 13:47:16
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 13:47:19
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 13:47:24
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 13:47:26
+[Metodo]: Servidor An error occurred while attempting to establish an SSL or TLS connection.
+
+The server's SSL certificate could not be validated for the following reasons:
+• The server certificate has the following errors:
+  • La función de revocación no puede comprobar la revocación para el certificado.
+
+  • La función de revocación no puede comprobar la revocación debido a que el servidor de revocación está sin conexión.
+
+• An intermediate certificate has the following errors:
+  • La función de revocación no puede comprobar la revocación para el certificado.
+
+  • La función de revocación no puede comprobar la revocación debido a que el servidor de revocación está sin conexión.
+
+
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 13:47:26
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 13:47:26
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 13:47:26
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 13:47:26
+[Metodo]: enviar mail The SmtpClient is not connected.
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 13:47:26
+[Metodo]: El tipo de error del mensaje es: Se ha presentado un error al enviar el comprobante al correo: emendez@viamatica.com,andrea.urquizo@deprati.com.ec,briyit.collantes@deprati.com.ec,facturas.servicios@deprati.com.ec,ivan.benavides@deprati.com.ec,jackeline.parra@deprati.com.ec,jportalanza@viamatica.com,lchoez@viamatica.com,mariuxi.carriel@deprati. por favor revise las configuraciones de servidor de correos o verifique que el mail del cliente final sea valido
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 13:47:27
+[Metodo]: Error: La columna 'XmlEstado' no pertenece a la tabla XmlGenerados.
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 13:47:27
+[Metodo]: catch del paso 4 ActualizaEstado: Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 13:49:58
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 13:49:58
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 13:49:59
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 13:50:01
+[Metodo]: Error Servicio Portal ExtranetSystem.ArgumentNullException: El valor no puede ser nulo.
+Nombre del parámetro: uriString
+   en System.Uri..ctor(String uriString)
+   en System.Web.Services.Protocols.WebClientProtocol.set_Url(String value)
+   en ViaDocEnvioCorreo.Negocios.WsPortalFacturacionElectronica.wsdocumento.set_Url(String value) en C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\Web References\WsPortalFacturacionElectronica\Reference.cs:línea 58
+   en ViaDocEnvioCorreo.Negocios.procesos.ProcesoEnvioPortal.EnviarComprobantesAutorizadosEnvioPortal(List`1 xmlComprobante, String proceso) en C:\Viadoc\viad3-viadoc3.0\ViaDocEnvioCorreo.Negocios\procesos\ProcesoEnvioPortal.cs:línea 29
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 13:50:01
+[Metodo]: Error envio email: Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 13:50:09
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 13:50:10
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 13:50:10
+[Metodo]: Servidor 535: Authentication Failed
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 13:50:10
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 13:50:10
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 13:50:11
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 13:50:11
+[Metodo]: enviar mail 5.5.1 Authentication Required.
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 13:50:11
+[Metodo]: El tipo de error del mensaje es: Se ha presentado un error al enviar el comprobante al correo: emendez@viamatica.com,andrea.urquizo@deprati.com.ec,briyit.collantes@deprati.com.ec,facturas.servicios@deprati.com.ec,ivan.benavides@deprati.com.ec,jackeline.parra@deprati.com.ec,jportalanza@viamatica.com,lchoez@viamatica.com,mariuxi.carriel@deprati. por favor revise las configuraciones de servidor de correos o verifique que el mail del cliente final sea valido
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 13:50:11
+[Metodo]: Error: La columna 'XmlEstado' no pertenece a la tabla XmlGenerados.
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 13:50:11
+[Metodo]: catch del paso 4 ActualizaEstado: Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 13:50:59
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 13:51:00
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 13:51:01
+[Metodo]: Servidor 535: Authentication Failed
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 13:51:01
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 13:51:01
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 13:51:01
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 13:51:02
+[Metodo]: enviar mail 5.5.1 Authentication Required.
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 13:51:02
+[Metodo]: El tipo de error del mensaje es: Se ha presentado un error al enviar el comprobante al correo: emendez@viamatica.com,andrea.urquizo@deprati.com.ec,briyit.collantes@deprati.com.ec,facturas.servicios@deprati.com.ec,ivan.benavides@deprati.com.ec,jackeline.parra@deprati.com.ec,jportalanza@viamatica.com,lchoez@viamatica.com,mariuxi.carriel@deprati. por favor revise las configuraciones de servidor de correos o verifique que el mail del cliente final sea valido
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 13:51:02
+[Metodo]: Error: La columna 'XmlEstado' no pertenece a la tabla XmlGenerados.
+[CustomError]: FIN 
+[CustomError]: 23/9/2024 13:51:02
+[Metodo]: catch del paso 4 ActualizaEstado: Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 

@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{86D608A9-20B2-4EBF-8DFC-4C1EFC4148AC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ViaDocEnvioCorreo.Negocios</RootNamespace>
+    <AssemblyName>ViaDocEnvioCorreo.Negocios</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.6.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.6.1\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.2, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.2\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\ViaDoc.ServicioWcf\lib\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="ReportesViaDoc, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\ReportesViaDoc\bin\Debug\ReportesViaDoc.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="EnviarMail.cs" />
+    <Compile Include="Mappeo.cs" />
+    <Compile Include="MdSmtp.cs" />
+    <Compile Include="MetodoProcesoCorreo.cs" />
+    <Compile Include="plantilla\PDocumentos.cs" />
+    <Compile Include="ProcesoEnvioCorreo.cs" />
+    <Compile Include="ProcesoGenerarRideWeb.cs" />
+    <Compile Include="procesos\ProcesoEnvioMail.cs" />
+    <Compile Include="procesos\ProcesoEnvioPortal.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\WsPortalFacturacionElectronica\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ViaDoc.AccesoDatos\ViaDoc.AccesoDatos.csproj">
+      <Project>{929e630c-b415-47ed-aaed-d9ef417a853b}</Project>
+      <Name>ViaDoc.AccesoDatos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ViaDoc.Configuraciones\ViaDoc.Configuraciones.csproj">
+      <Project>{9AB6B4A0-B8F5-40D0-A8CD-66CE12FF1A98}</Project>
+      <Name>ViaDoc.Configuraciones</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ViaDoc.EntidadNegocios\ViaDoc.EntidadNegocios.csproj">
+      <Project>{f195e26c-0d02-438e-a225-81616940decc}</Project>
+      <Name>ViaDoc.EntidadNegocios</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ViaDoc.LogicaNegocios\ViaDoc.LogicaNegocios.csproj">
+      <Project>{DB0E2599-FFC9-48C1-96C8-A064E133BDCB}</Project>
+      <Name>ViaDoc.LogicaNegocios</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ViaDoc.Utilitarios\ViaDoc.Utilitarios.csproj">
+      <Project>{82c21470-1da4-49a6-9524-84c080b22a28}</Project>
+      <Name>ViaDoc.Utilitarios</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="http://facturacion.viadoc.com.ec/wsdocumento.php%3fwsdl">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\WsPortalFacturacionElectronica\</RelPath>
+      <UpdateFromURL>http://facturacion.viadoc.com.ec/wsdocumento.php%3fwsdl</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>ViaDocEnvioCorreo_Negocios_WsPortalFacturacionElectronica_wsdocumento</CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+    <None Include="plantilla\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.eot" />
+    <None Include="plantilla\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.ttf" />
+    <None Include="plantilla\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.woff" />
+    <None Include="plantilla\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.woff2" />
+    <None Include="plantilla\fonts\font-awesome-4.7.0\fonts\FontAwesome.otf" />
+    <None Include="plantilla\fonts\font-awesome-4.7.0\less\animated.less" />
+    <None Include="plantilla\fonts\font-awesome-4.7.0\less\bordered-pulled.less" />
+    <None Include="plantilla\fonts\font-awesome-4.7.0\less\core.less" />
+    <None Include="plantilla\fonts\font-awesome-4.7.0\less\fixed-width.less" />
+    <None Include="plantilla\fonts\font-awesome-4.7.0\less\font-awesome.less" />
+    <None Include="plantilla\fonts\font-awesome-4.7.0\less\icons.less" />
+    <None Include="plantilla\fonts\font-awesome-4.7.0\less\larger.less" />
+    <None Include="plantilla\fonts\font-awesome-4.7.0\less\list.less" />
+    <None Include="plantilla\fonts\font-awesome-4.7.0\less\mixins.less" />
+    <None Include="plantilla\fonts\font-awesome-4.7.0\less\path.less" />
+    <None Include="plantilla\fonts\font-awesome-4.7.0\less\rotated-flipped.less" />
+    <None Include="plantilla\fonts\font-awesome-4.7.0\less\screen-reader.less" />
+    <None Include="plantilla\fonts\font-awesome-4.7.0\less\stacked.less" />
+    <None Include="plantilla\fonts\font-awesome-4.7.0\less\variables.less" />
+    <None Include="plantilla\fonts\font-awesome-4.7.0\scss\font-awesome.scss" />
+    <None Include="plantilla\fonts\font-awesome-4.7.0\scss\_animated.scss" />
+    <None Include="plantilla\fonts\font-awesome-4.7.0\scss\_bordered-pulled.scss" />
+    <None Include="plantilla\fonts\font-awesome-4.7.0\scss\_core.scss" />
+    <None Include="plantilla\fonts\font-awesome-4.7.0\scss\_fixed-width.scss" />
+    <None Include="plantilla\fonts\font-awesome-4.7.0\scss\_icons.scss" />
+    <None Include="plantilla\fonts\font-awesome-4.7.0\scss\_larger.scss" />
+    <None Include="plantilla\fonts\font-awesome-4.7.0\scss\_list.scss" />
+    <None Include="plantilla\fonts\font-awesome-4.7.0\scss\_mixins.scss" />
+    <None Include="plantilla\fonts\font-awesome-4.7.0\scss\_path.scss" />
+    <None Include="plantilla\fonts\font-awesome-4.7.0\scss\_rotated-flipped.scss" />
+    <None Include="plantilla\fonts\font-awesome-4.7.0\scss\_screen-reader.scss" />
+    <None Include="plantilla\fonts\font-awesome-4.7.0\scss\_stacked.scss" />
+    <None Include="plantilla\fonts\font-awesome-4.7.0\scss\_variables.scss" />
+    <None Include="plantilla\vendor\bootstrap\css\bootstrap-grid.css.map" />
+    <None Include="plantilla\vendor\bootstrap\css\bootstrap-grid.min.css.map" />
+    <None Include="plantilla\vendor\bootstrap\css\bootstrap-reboot.css.map" />
+    <None Include="plantilla\vendor\bootstrap\css\bootstrap-reboot.min.css.map" />
+    <None Include="plantilla\vendor\bootstrap\css\bootstrap.css.map" />
+    <None Include="plantilla\vendor\bootstrap\css\bootstrap.min.css.map" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\WsPortalFacturacionElectronica\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\WsPortalFacturacionElectronica\wsdocumento.wsdl" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="plantilla\Correo.html" />
+    <Content Include="plantilla\CorreoCertificado.txt" />
+    <Content Include="plantilla\CorreoDocumento.txt" />
+    <Content Include="plantilla\CorreoEstadistica.txt" />
+    <Content Include="plantilla\Correos.html" />
+    <Content Include="plantilla\css\main.css" />
+    <Content Include="plantilla\css\util.css" />
+    <Content Include="plantilla\fonts\font-awesome-4.7.0\css\font-awesome.css" />
+    <Content Include="plantilla\fonts\font-awesome-4.7.0\css\font-awesome.min.css" />
+    <Content Include="plantilla\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.svg" />
+    <Content Include="plantilla\fonts\font-awesome-4.7.0\HELP-US-OUT.txt" />
+    <Content Include="plantilla\images\bg-01.jpg" />
+    <Content Include="plantilla\images\CorreoDocumentos.png" />
+    <Content Include="plantilla\indexD.html" />
+    <Content Include="plantilla\index.html" />
+    <Content Include="plantilla\js\main.js" />
+    <Content Include="plantilla\vendor\bootstrap\css\bootstrap-grid.css" />
+    <Content Include="plantilla\vendor\bootstrap\css\bootstrap-grid.min.css" />
+    <Content Include="plantilla\vendor\bootstrap\css\bootstrap-reboot.css" />
+    <Content Include="plantilla\vendor\bootstrap\css\bootstrap-reboot.min.css" />
+    <Content Include="plantilla\vendor\bootstrap\css\bootstrap.css" />
+    <Content Include="plantilla\vendor\bootstrap\css\bootstrap.min.css" />
+    <Content Include="plantilla\vendor\bootstrap\js\bootstrap.js" />
+    <Content Include="plantilla\vendor\bootstrap\js\bootstrap.min.js" />
+    <Content Include="plantilla\vendor\bootstrap\js\popper.js" />
+    <Content Include="plantilla\vendor\bootstrap\js\popper.min.js" />
+    <Content Include="plantilla\vendor\bootstrap\js\tooltip.js" />
+    <Content Include="plantilla\vendor\Correos.html" />
+    <Content Include="plantilla\vendor\jquery\jquery-3.2.1.min.js" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

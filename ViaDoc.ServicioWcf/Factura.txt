@@ -1,0 +1,101 @@
+{
+	"_request": [
+		{
+			"compania": 1,
+			"tipoEmision": 1,
+			"tipoDocumento": "01",
+			"establecimiento": "001",
+			"puntoEmision": "036",
+			"secuencial": "000003249",
+			"claveAcceso": "",
+			"fechaEmision": "03\/01\/2023",
+			"tipoIdentificacionComprador": "04",
+			"guiaRemision": "",
+			"razonSocialComprador": "NOELIA MERCEDES BRAVO rodriguez",
+			"identificacioncomprador": "09705675908001",
+			"totalsinimpuestos": 65,
+			"totaldescuento": 0,
+			"propina": 0,
+			"importetotal": 65,
+			"moneda": "dolar",
+			"email": "noelia-bravo@hotmail.com",
+			"contigenciaDet": 0,
+			"estado": "A",
+			"ambiente": "2",
+			"ruc": "0992446501001",
+			"codigoNumerico": "202301001171",
+			"detalleFactura": [
+				{
+					"codigoPrincipal": "1204-1",
+					"codigoAuxiliar": "130001N",
+					"descripcion": "CONSULTA DERMATOLOGICA PACIENTE: NOELIA MERCEDES BRAVO RODRIGUEZ DX: L70 acne",
+					"cantidad": 1,
+					"preciounitario": 65,
+					"descuento": 0,
+					"preciototalsinimpuesto": 65,
+					"detalleimpuesto": [
+						{
+							"codigoprincipal": "1204-1",
+							"codigo": 2,
+							"codigoporcentaje": "0",
+							"tarifa": 0,
+							"baseimponible": "65.00",
+							"valor": 0
+						}
+					],
+					"detalleadicional": [
+						{
+							"codigoprincipal": "",
+							"nombre": "",
+							"valor": ""
+						}
+					]
+				}
+			],
+			"formapago": [
+				{
+					"formapago": "19",
+					"plazo": 0,
+					"unidadtiempo": "dias",
+					"total": 65
+				}
+			],
+			"totalimpuesto": [
+				{
+					"codigo": 2,
+					"codigoporcentaje": 0,
+					"tarifa": 0,
+					"descuentoadicional": 0,
+					"baseimponible": 65,
+					"valor": 0
+				}
+			],
+			"infoadicional": [
+				{
+					"nombre": "direccion",
+					"valor": "machala"
+				},
+				{
+					"nombre": "ciudad",
+					"valor": "guayaquil"
+				},
+				{
+					"nombre": "telefono",
+					"valor": "9999999999"
+				},
+				{
+					"nombre": "correo",
+					"valor": "noelia-bravo@hotmail.com"
+				},
+				{
+					"nombre": "VENDEDOR",
+					"valor": "USUARIO EN CAPACITACION DOS"
+				},
+				{
+					"nombre": "LEYENDA AGENTE",
+					"valor": "AGENTE DE RETENCION Resolucion Nro. NAC-DNCRASC20-00000001 del 14 de septiembre del 2020"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,900 @@
+[CustomError]: 15/2/2024 18:26:05
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:05
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:06
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:06
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:06
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:07
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:07
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:08
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:08
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:09
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:09
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:09
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:10
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:10
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:11
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:11
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:11
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:12
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:12
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:12
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:12
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:12
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:13
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:13
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:13
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:14
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:14
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:14
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:14
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:15
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:15
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:16
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:16
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:16
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:17
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:17
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:18
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:18
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:18
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:19
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:19
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:19
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:19
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:19
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:20
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:20
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:21
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:21
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:21
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:22
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:23
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:23
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:23
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:24
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:24
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:24
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:25
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:26
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:26
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:26
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:27
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:27
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:27
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:27
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:27
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:28
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:28
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:28
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:29
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:29
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:29
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:30
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:30
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:31
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:31
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:32
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:32
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:32
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:33
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:33
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:34
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:34
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:34
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:34
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:34
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:35
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:35
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:35
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:35
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:35
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:35
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:35
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:36
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:36
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:36
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:36
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:36
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:36
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:36
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:36
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:37
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:37
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:37
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:37
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:37
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:37
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:37
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:37
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:38
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:38
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:38
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:38
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:38
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:38
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:38
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:39
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:39
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:39
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:39
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:39
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:39
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:39
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:39
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:40
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:40
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:40
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:40
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:40
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:40
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:40
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:41
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:41
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:41
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:41
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:41
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:41
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:41
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:42
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:42
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:42
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:42
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:43
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:43
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:43
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:43
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:44
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:44
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:44
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:45
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:45
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:47
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:47
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:47
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:47
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:47
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:47
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:48
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:48
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:48
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:48
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:48
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:48
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:49
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:49
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:49
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:49
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:49
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:49
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:49
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:49
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:49
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:50
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:50
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:50
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:50
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:50
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:50
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:50
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:51
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:51
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:51
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:51
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:51
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:51
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:51
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:51
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:51
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:51
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:51
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:51
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:51
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:51
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:51
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:54
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:54
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:54
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:54
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:54
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:54
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:54
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:54
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:54
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:54
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:54
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:54
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:54
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:54
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:54
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:54
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:54
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:54
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:54
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:54
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:54
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:54
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:54
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:54
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:54
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:54
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 15/2/2024 18:26:54
+[Metodo]: valor de i0
+[CustomError]: FIN 

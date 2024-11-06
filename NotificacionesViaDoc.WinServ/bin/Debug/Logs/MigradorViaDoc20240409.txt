@@ -1,0 +1,216 @@
+[CustomError]: 9/4/2024 13:19:12
+[Metodo]: Excpetion__1: No se pudo encontrar el archivo 'c:\ComprobantesXML\LogosCompania\0992511087001.png'.
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 13:19:12
+[Metodo]: El tipo de error del mensaje es: Hubo un error al envio del correo electronico.. No se pudo encontrar el archivo 'c:\ComprobantesXML\LogosCompania\0992511087001.png'.
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 13:19:12
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 13:43:42
+[Metodo]: conectar puerto 465
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 13:43:44
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 13:51:06
+[Metodo]: conectar puerto 465
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 13:51:06
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 13:51:07
+[Metodo]: objeto ride factura {"BanderaGeneracionObjeto":true,"FechaHoraAutorizacion":"2024-03-26T14:49:22-05:00","NumeroAutorizacion":"2503202401170771042000120021050000004095258012112","_infoTributaria":{"Ambiente":"2","RazonSocial":"LABRA JARA CARLOS CARMEN","NombreComercial":"LABRA JARA CARLOS CARMEN","ClaveAcceso":"2503202401170771042000120021050000004095258012112","Establecimiento":"002","PuntoEmision":"105","Secuencial":"000000409","Ruc":"1707710420001","TipoEmision":"1","DirMatriz":"AV. BENJAMIN ROSALES S/N -   TERMINAL RIO DAULE","regimenMicroempresas":"","AgenteRetencion":"","contribuyenteRimpe":"CONTRIBUYENTE RÉGIMEN RIMPE","regimenGeneral":"","CodigoDocumento":"01"},"_infoFactura":{"FechaEmision":"25/03/2024","DirEstablecimiento":"AV. BENJAMIN ROSALES S/N- SUCURSAL METROVIA","NumeroContribuyenteEspecial":"","ObligadoContabilidad":"SI","TipoIdentificacion":"04","RazonSocial":"ARRELENCOSQUE S.A.","Identificacion":"0993156809001","GuiaRemision":"","TotalSinImpuestos":"4000.00","TotalDescuento":"0.00","_totalesConImpuesto":[{"Codigo":"2","CodigoPorcentaje":"0","BaseImponible":"0.00","Tarifa":"0","Valor":"0.00"},{"Codigo":"2","CodigoPorcentaje":"2","BaseImponible":"4000.00","Tarifa":"12","Valor":"480.00"}],"Propina":"0.00","ImporteTotal":"4480.00","Moneda":"DOLAR","_formasPago":[{"CodigoFormaPago":"01","Total":"4480.00","Plazo":"30","UnidadTiempo":"dias"}]},"_detalles":[{"CodigoPrincipal":"250-1","CodigoAuxiliar":"SERV001","Descripcion":"PRESTACION DE SERVICIOS POR ASESORIA GERENCIAL ENERO 2024","Cantidad":"1","PrecioUnitario":"4000.0000","Descuento":"0.00","PrecioTotalSinImpuesto":"4000.00","_impuestos":[{"Codigo":"2","CodigoPorcentaje":"2","Tarifa":"12","BaseImponible":"4000.00","Valor":"480.00"}]}],"_infosAdicional":[{"Nombre":"DIRECCION","Valor":"VACA GALINDO Y CHIMBORAZO 3202 Y EDIFICIO XIMENA"},{"Nombre":"CIUDAD","Valor":"GUAYAQUIL"},{"Nombre":"TELEFONO","Valor":"9999999999"},{"Nombre":"CORREO","Valor":"facturacionelectronica@labraquelabra.com"},{"Nombre":"VENDEDOR","Valor":"ANDREA SALAZAR M"},{"Nombre":"LEYENDA AGENTE","Valor":"AGENTE DE RETENCION Resolucion Nro. NAC-DNCRASC20-00000001 del 14 de septiembre del 2020"}],"_reembolsosGastos":null}
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 13:51:08
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 13:51:08
+[Metodo]: INgreso nuevo 2
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 13:51:08
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 13:51:08
+[Metodo]: INgreso nuevo 6
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 13:51:08
+[Metodo]: INgreso nuevo 7
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 13:51:09
+[Metodo]: verificar setear parametros ws
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 13:51:10
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 13:54:05
+[Metodo]: conectar puerto 465
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 13:54:08
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 14:04:31
+[Metodo]: objeto ride factura {"BanderaGeneracionObjeto":true,"FechaHoraAutorizacion":"2024-03-26T14:49:22-05:00","NumeroAutorizacion":"2503202401170771042000120021050000004095258012112","_infoTributaria":{"Ambiente":"2","RazonSocial":"LABRA JARA CARLOS CARMEN","NombreComercial":"LABRA JARA CARLOS CARMEN","ClaveAcceso":"2503202401170771042000120021050000004095258012112","Establecimiento":"002","PuntoEmision":"105","Secuencial":"000000409","Ruc":"1707710420001","TipoEmision":"1","DirMatriz":"AV. BENJAMIN ROSALES S/N -   TERMINAL RIO DAULE","regimenMicroempresas":"","AgenteRetencion":"","contribuyenteRimpe":"CONTRIBUYENTE RÉGIMEN RIMPE","regimenGeneral":"","CodigoDocumento":"01"},"_infoFactura":{"FechaEmision":"25/03/2024","DirEstablecimiento":"AV. BENJAMIN ROSALES S/N- SUCURSAL METROVIA","NumeroContribuyenteEspecial":"","ObligadoContabilidad":"SI","TipoIdentificacion":"04","RazonSocial":"ARRELENCOSQUE S.A.","Identificacion":"0993156809001","GuiaRemision":"","TotalSinImpuestos":"4000.00","TotalDescuento":"0.00","_totalesConImpuesto":[{"Codigo":"2","CodigoPorcentaje":"0","BaseImponible":"0.00","Tarifa":"0","Valor":"0.00"},{"Codigo":"2","CodigoPorcentaje":"2","BaseImponible":"4000.00","Tarifa":"12","Valor":"480.00"}],"Propina":"0.00","ImporteTotal":"4480.00","Moneda":"DOLAR","_formasPago":[{"CodigoFormaPago":"01","Total":"4480.00","Plazo":"30","UnidadTiempo":"dias"}]},"_detalles":[{"CodigoPrincipal":"250-1","CodigoAuxiliar":"SERV001","Descripcion":"PRESTACION DE SERVICIOS POR ASESORIA GERENCIAL ENERO 2024","Cantidad":"1","PrecioUnitario":"4000.0000","Descuento":"0.00","PrecioTotalSinImpuesto":"4000.00","_impuestos":[{"Codigo":"2","CodigoPorcentaje":"2","Tarifa":"12","BaseImponible":"4000.00","Valor":"480.00"}]}],"_infosAdicional":[{"Nombre":"DIRECCION","Valor":"VACA GALINDO Y CHIMBORAZO 3202 Y EDIFICIO XIMENA"},{"Nombre":"CIUDAD","Valor":"GUAYAQUIL"},{"Nombre":"TELEFONO","Valor":"9999999999"},{"Nombre":"CORREO","Valor":"facturacionelectronica@labraquelabra.com"},{"Nombre":"VENDEDOR","Valor":"ANDREA SALAZAR M"},{"Nombre":"LEYENDA AGENTE","Valor":"AGENTE DE RETENCION Resolucion Nro. NAC-DNCRASC20-00000001 del 14 de septiembre del 2020"}],"_reembolsosGastos":null}
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 14:04:51
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 14:04:51
+[Metodo]: INgreso nuevo 2
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 14:04:51
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 14:04:51
+[Metodo]: INgreso nuevo 6
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 14:04:51
+[Metodo]: INgreso nuevo 7
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 14:04:52
+[Metodo]: verificar setear parametros ws
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 14:04:53
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 14:58:52
+[Metodo]: conectar puerto 465
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 14:58:54
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 15:20:34
+[Metodo]: objeto ride factura {"BanderaGeneracionObjeto":true,"FechaHoraAutorizacion":"2024-03-26T14:49:22-05:00","NumeroAutorizacion":"2503202401170771042000120021050000004095258012112","_infoTributaria":{"Ambiente":"2","RazonSocial":"LABRA JARA CARLOS CARMEN","NombreComercial":"LABRA JARA CARLOS CARMEN","ClaveAcceso":"2503202401170771042000120021050000004095258012112","Establecimiento":"002","PuntoEmision":"105","Secuencial":"000000409","Ruc":"1707710420001","TipoEmision":"1","DirMatriz":"AV. BENJAMIN ROSALES S/N -   TERMINAL RIO DAULE","regimenMicroempresas":"","AgenteRetencion":"","contribuyenteRimpe":"CONTRIBUYENTE RÉGIMEN RIMPE","regimenGeneral":"","CodigoDocumento":"01"},"_infoFactura":{"FechaEmision":"25/03/2024","DirEstablecimiento":"AV. BENJAMIN ROSALES S/N- SUCURSAL METROVIA","NumeroContribuyenteEspecial":"","ObligadoContabilidad":"SI","TipoIdentificacion":"04","RazonSocial":"ARRELENCOSQUE S.A.","Identificacion":"0993156809001","GuiaRemision":"","TotalSinImpuestos":"4000.00","TotalDescuento":"0.00","_totalesConImpuesto":[{"Codigo":"2","CodigoPorcentaje":"0","BaseImponible":"0.00","Tarifa":"0","Valor":"0.00"},{"Codigo":"2","CodigoPorcentaje":"2","BaseImponible":"4000.00","Tarifa":"12","Valor":"480.00"}],"Propina":"0.00","ImporteTotal":"4480.00","Moneda":"DOLAR","_formasPago":[{"CodigoFormaPago":"01","Total":"4480.00","Plazo":"30","UnidadTiempo":"dias"}]},"_detalles":[{"CodigoPrincipal":"250-1","CodigoAuxiliar":"SERV001","Descripcion":"PRESTACION DE SERVICIOS POR ASESORIA GERENCIAL ENERO 2024","Cantidad":"1","PrecioUnitario":"4000.0000","Descuento":"0.00","PrecioTotalSinImpuesto":"4000.00","_impuestos":[{"Codigo":"2","CodigoPorcentaje":"2","Tarifa":"12","BaseImponible":"4000.00","Valor":"480.00"}]}],"_infosAdicional":[{"Nombre":"DIRECCION","Valor":"VACA GALINDO Y CHIMBORAZO 3202 Y EDIFICIO XIMENA"},{"Nombre":"CIUDAD","Valor":"GUAYAQUIL"},{"Nombre":"TELEFONO","Valor":"9999999999"},{"Nombre":"CORREO","Valor":"facturacionelectronica@labraquelabra.com"},{"Nombre":"VENDEDOR","Valor":"ANDREA SALAZAR M"},{"Nombre":"LEYENDA AGENTE","Valor":"AGENTE DE RETENCION Resolucion Nro. NAC-DNCRASC20-00000001 del 14 de septiembre del 2020"}],"_reembolsosGastos":null}
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 15:21:35
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 15:21:35
+[Metodo]: INgreso nuevo 2
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 15:21:35
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 15:21:35
+[Metodo]: INgreso nuevo 6
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 15:21:35
+[Metodo]: INgreso nuevo 7
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 15:22:59
+[Metodo]: verificar setear parametros ws
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 15:23:04
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 15:23:37
+[Metodo]: enviar mail The SmtpClient is not connected.
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 15:23:55
+[Metodo]: El tipo de error del mensaje es: Se ha presentado un error al enviar el comprobante al correo: maldaz@viamatica.com por favor revise las configuraciones de servidor de correos o verifique que el mail del cliente final sea valido
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 15:23:56
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 15:25:49
+[Metodo]: conectar puerto 465
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 15:25:54
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 15:25:55
+[Metodo]: objeto ride factura {"BanderaGeneracionObjeto":true,"FechaHoraAutorizacion":"2024-03-26T14:49:22-05:00","NumeroAutorizacion":"2503202401170771042000120021050000004095258012112","_infoTributaria":{"Ambiente":"2","RazonSocial":"LABRA JARA CARLOS CARMEN","NombreComercial":"LABRA JARA CARLOS CARMEN","ClaveAcceso":"2503202401170771042000120021050000004095258012112","Establecimiento":"002","PuntoEmision":"105","Secuencial":"000000409","Ruc":"1707710420001","TipoEmision":"1","DirMatriz":"AV. BENJAMIN ROSALES S/N -   TERMINAL RIO DAULE","regimenMicroempresas":"","AgenteRetencion":"","contribuyenteRimpe":"CONTRIBUYENTE RÉGIMEN RIMPE","regimenGeneral":"","CodigoDocumento":"01"},"_infoFactura":{"FechaEmision":"25/03/2024","DirEstablecimiento":"AV. BENJAMIN ROSALES S/N- SUCURSAL METROVIA","NumeroContribuyenteEspecial":"","ObligadoContabilidad":"SI","TipoIdentificacion":"04","RazonSocial":"ARRELENCOSQUE S.A.","Identificacion":"0993156809001","GuiaRemision":"","TotalSinImpuestos":"4000.00","TotalDescuento":"0.00","_totalesConImpuesto":[{"Codigo":"2","CodigoPorcentaje":"2","BaseImponible":"4000.00","Tarifa":"12","Valor":"480.00"}],"Propina":"0.00","ImporteTotal":"4480.00","Moneda":"DOLAR","_formasPago":[{"CodigoFormaPago":"01","Total":"4480.00","Plazo":"30","UnidadTiempo":"dias"}]},"_detalles":[{"CodigoPrincipal":"250-1","CodigoAuxiliar":"SERV001","Descripcion":"PRESTACION DE SERVICIOS POR ASESORIA GERENCIAL ENERO 2024","Cantidad":"1","PrecioUnitario":"4000.0000","Descuento":"0.00","PrecioTotalSinImpuesto":"4000.00","_impuestos":[{"Codigo":"2","CodigoPorcentaje":"2","Tarifa":"12","BaseImponible":"4000.00","Valor":"480.00"}]}],"_infosAdicional":[{"Nombre":"DIRECCION","Valor":"VACA GALINDO Y CHIMBORAZO 3202 Y EDIFICIO XIMENA"},{"Nombre":"CIUDAD","Valor":"GUAYAQUIL"},{"Nombre":"TELEFONO","Valor":"9999999999"},{"Nombre":"CORREO","Valor":"facturacionelectronica@labraquelabra.com"},{"Nombre":"VENDEDOR","Valor":"ANDREA SALAZAR M"},{"Nombre":"LEYENDA AGENTE","Valor":"AGENTE DE RETENCION Resolucion Nro. NAC-DNCRASC20-00000001 del 14 de septiembre del 2020"}],"_reembolsosGastos":null}
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 15:25:56
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 15:25:56
+[Metodo]: INgreso nuevo 2
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 15:25:56
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 15:25:56
+[Metodo]: INgreso nuevo 6
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 15:25:56
+[Metodo]: INgreso nuevo 7
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 15:25:56
+[Metodo]: verificar setear parametros ws
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 15:25:57
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 15:30:32
+[Metodo]: conectar puerto 465
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 15:30:33
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 17:19:48
+[Metodo]: conectar puerto 465
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 17:19:50
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 17:40:53
+[Metodo]: objeto ride factura {"BanderaGeneracionObjeto":true,"FechaHoraAutorizacion":"2024-03-26T14:49:22-05:00","NumeroAutorizacion":"2503202401170771042000120021050000004095258012112","_infoTributaria":{"Ambiente":"2","RazonSocial":"LABRA JARA CARLOS CARMEN","NombreComercial":"LABRA JARA CARLOS CARMEN","ClaveAcceso":"2503202401170771042000120021050000004095258012112","Establecimiento":"002","PuntoEmision":"105","Secuencial":"000000409","Ruc":"1707710420001","TipoEmision":"1","DirMatriz":"AV. BENJAMIN ROSALES S/N -   TERMINAL RIO DAULE","regimenMicroempresas":"","AgenteRetencion":"","contribuyenteRimpe":"CONTRIBUYENTE RÉGIMEN RIMPE","regimenGeneral":"","CodigoDocumento":"01"},"_infoFactura":{"FechaEmision":"25/03/2024","DirEstablecimiento":"AV. BENJAMIN ROSALES S/N- SUCURSAL METROVIA","NumeroContribuyenteEspecial":"","ObligadoContabilidad":"SI","TipoIdentificacion":"04","RazonSocial":"ARRELENCOSQUE S.A.","Identificacion":"0993156809001","GuiaRemision":"","TotalSinImpuestos":"4000.00","TotalDescuento":"0.00","_totalesConImpuesto":[{"Codigo":"2","CodigoPorcentaje":"0","BaseImponible":"0.00","Tarifa":"0","Valor":"0.00"},{"Codigo":"2","CodigoPorcentaje":"2","BaseImponible":"4000.00","Tarifa":"12","Valor":"480.00"}],"Propina":"0.00","ImporteTotal":"4480.00","Moneda":"DOLAR","_formasPago":[{"CodigoFormaPago":"01","Total":"4480.00","Plazo":"30","UnidadTiempo":"dias"}]},"_detalles":[{"CodigoPrincipal":"250-1","CodigoAuxiliar":"SERV001","Descripcion":"PRESTACION DE SERVICIOS POR ASESORIA GERENCIAL ENERO 2024","Cantidad":"1","PrecioUnitario":"4000.0000","Descuento":"0.00","PrecioTotalSinImpuesto":"4000.00","_impuestos":[{"Codigo":"2","CodigoPorcentaje":"2","Tarifa":"12","BaseImponible":"4000.00","Valor":"480.00"}]}],"_infosAdicional":[{"Nombre":"DIRECCION","Valor":"VACA GALINDO Y CHIMBORAZO 3202 Y EDIFICIO XIMENA"},{"Nombre":"CIUDAD","Valor":"GUAYAQUIL"},{"Nombre":"TELEFONO","Valor":"9999999999"},{"Nombre":"CORREO","Valor":"facturacionelectronica@labraquelabra.com"},{"Nombre":"VENDEDOR","Valor":"ANDREA SALAZAR M"},{"Nombre":"LEYENDA AGENTE","Valor":"AGENTE DE RETENCION Resolucion Nro. NAC-DNCRASC20-00000001 del 14 de septiembre del 2020"}],"_reembolsosGastos":null}
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 17:40:58
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 17:40:58
+[Metodo]: INgreso nuevo 2
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 17:40:58
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 17:40:58
+[Metodo]: INgreso nuevo 6
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 17:40:58
+[Metodo]: INgreso nuevo 7
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 17:40:59
+[Metodo]: verificar setear parametros ws
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 17:41:00
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 17:42:08
+[Metodo]: enviar mail Timeout. Try talking faster next time!
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 17:42:43
+[Metodo]: El tipo de error del mensaje es: Se ha presentado un error al enviar el comprobante al correo: maldaz@viamatica.com por favor revise las configuraciones de servidor de correos o verifique que el mail del cliente final sea valido
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 17:44:39
+[Metodo]: conectar puerto 465
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 17:44:41
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 17:46:19
+[Metodo]: objeto ride factura {"BanderaGeneracionObjeto":true,"FechaHoraAutorizacion":"2024-03-26T14:49:22-05:00","NumeroAutorizacion":"2503202401170771042000120021050000004095258012112","_infoTributaria":{"Ambiente":"2","RazonSocial":"LABRA JARA CARLOS CARMEN","NombreComercial":"LABRA JARA CARLOS CARMEN","ClaveAcceso":"2503202401170771042000120021050000004095258012112","Establecimiento":"002","PuntoEmision":"105","Secuencial":"000000409","Ruc":"1707710420001","TipoEmision":"1","DirMatriz":"AV. BENJAMIN ROSALES S/N -   TERMINAL RIO DAULE","regimenMicroempresas":"","AgenteRetencion":"","contribuyenteRimpe":"CONTRIBUYENTE RÉGIMEN RIMPE","regimenGeneral":"","CodigoDocumento":"01"},"_infoFactura":{"FechaEmision":"25/03/2024","DirEstablecimiento":"AV. BENJAMIN ROSALES S/N- SUCURSAL METROVIA","NumeroContribuyenteEspecial":"","ObligadoContabilidad":"SI","TipoIdentificacion":"04","RazonSocial":"ARRELENCOSQUE S.A.","Identificacion":"0993156809001","GuiaRemision":"","TotalSinImpuestos":"4000.00","TotalDescuento":"0.00","_totalesConImpuesto":[{"Codigo":"2","CodigoPorcentaje":"0","BaseImponible":"0.00","Tarifa":"0","Valor":"0.00"},{"Codigo":"2","CodigoPorcentaje":"2","BaseImponible":"4000.00","Tarifa":"12","Valor":"480.00"}],"Propina":"0.00","ImporteTotal":"4480.00","Moneda":"DOLAR","_formasPago":[{"CodigoFormaPago":"01","Total":"4480.00","Plazo":"30","UnidadTiempo":"dias"}]},"_detalles":[{"CodigoPrincipal":"250-1","CodigoAuxiliar":"SERV001","Descripcion":"PRESTACION DE SERVICIOS POR ASESORIA GERENCIAL ENERO 2024","Cantidad":"1","PrecioUnitario":"4000.0000","Descuento":"0.00","PrecioTotalSinImpuesto":"4000.00","_impuestos":[{"Codigo":"2","CodigoPorcentaje":"2","Tarifa":"12","BaseImponible":"4000.00","Valor":"480.00"}]}],"_infosAdicional":[{"Nombre":"DIRECCION","Valor":"VACA GALINDO Y CHIMBORAZO 3202 Y EDIFICIO XIMENA"},{"Nombre":"CIUDAD","Valor":"GUAYAQUIL"},{"Nombre":"TELEFONO","Valor":"9999999999"},{"Nombre":"CORREO","Valor":"facturacionelectronica@labraquelabra.com"},{"Nombre":"VENDEDOR","Valor":"ANDREA SALAZAR M"},{"Nombre":"LEYENDA AGENTE","Valor":"AGENTE DE RETENCION Resolucion Nro. NAC-DNCRASC20-00000001 del 14 de septiembre del 2020"}],"_reembolsosGastos":null}
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 17:46:20
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 17:46:20
+[Metodo]: INgreso nuevo 2
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 17:46:20
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 17:46:21
+[Metodo]: INgreso nuevo 6
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 17:46:21
+[Metodo]: INgreso nuevo 7
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 17:46:21
+[Metodo]: verificar setear parametros ws
+[CustomError]: FIN 
+[CustomError]: 9/4/2024 17:46:29
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 

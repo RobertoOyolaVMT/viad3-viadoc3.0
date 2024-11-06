@@ -1,0 +1,393 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section class="content">
+    <section class="content-header" style="padding-bottom:5px; padding-top:8px">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="#">Configuración</a></li>
+                        <li class="breadcrumb-item active">Notificación</li>
+                    </ol>
+                </div>
+                <div class="col-sm-6">
+
+                </div>
+            </div>
+        </div><!-- /.container-fluid -->
+    </section>
+
+
+    <div class="container-fluid">
+        <div class="card card-success">
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-sm-2">
+                        <div class="form-group">
+                            <br />
+                            <a id="btnNuevaNotificacion" href="#" class="btn btn-block btn-primary mt-2">Agregar</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid">
+        <div class="card card-success">
+            <div class="card-header">
+                <h3 class="card-title"></h3>
+            </div>
+            <br />
+            <div class="box-body">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="form-group">
+                            <table id="tbl-parametros" class="table table-bordered table-striped display responsive" style="width:100%">
+                                <thead>
+                                    <tr>
+                                        <th>idRegistro</th>
+                                        <th>HoraInicio</th>
+                                        <th>HoraFin</th>
+                                        <th width="6%">-</th>
+                                        <th width="6%">-</th>
+                                    </tr>
+                                </thead>
+                                <tbody></tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="modal-Parametro">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Configuración de Horas Notificación</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <input type="hidden" id="idRegistro" value="" />
+                        <input type="hidden" id="idEmpresaCompania" />
+                        <div class="col-sm-12">
+                            <div class="form-group">
+                                <div class="bootstrap-timepicker">
+                                    <div class="form-group">
+                                        <label>Hora Inicio:</label>
+                                        @*<input id="txHoraInicio" type="text" class="form-control">*@
+                                        <div class="input-group date" id="timepicker" data-target-input="nearest">
+                                            <input type="text" id="txHoraInicio" class="form-control datetimepicker-input" data-target="#timepicker" />
+                                            <div class="input-group-append" data-target="#timepicker" data-toggle="datetimepicker">
+                                                <div class="input-group-text"><i class="far fa-clock"></i></div>
+                                            </div>
+                                        </div>
+                                        <!-- /.input group -->
+                                    </div>
+                                    <!-- /.form group -->
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-12">
+                            <div class="form-group">
+                                <!-- time Picker -->
+                                <div class="bootstrap-timepicker">
+                                    <div class="form-group">
+                                        <label>Hora Fin:</label>
+                                        @*<input id="txHoraFin" type="text" class="form-control">*@
+                                        <div class="input-group date" id="timepicker2" data-target-input="nearest">
+                                                <input type="text" id="txHoraFin" class="form-control datetimepicker-input" data-target="#timepicker2" />
+                                                <div class="input-group-append" data-target="#timepicker2" data-toggle="datetimepicker">
+                                                    <div class="input-group-text"><i class="far fa-clock"></i></div>
+                                                </div>
+                                            </div>
+                                        <!-- /.input group -->
+                                    </div>
+                                    <!-- /.form group -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer justify-content-between">
+                    <div class="col-sm-12">
+                        <div class="row justify-content-center">
+                            <div class="col-sm-3">
+                                <div class="form-group">
+                                    <a id="btnGuardarParametro" href="#" class="btn btn-block btn-primary">Guardar</a>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="form-group">
+                                    <a id="btnBuscarDocumentos" href="#" class="btn btn-block btn-primary" data-dismiss="modal">Cancelar</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="modal-EliminarIngreso">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Eliminar Parametrizar Documentos</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <input type="hidden" id="idRegistroEliminado" value="" />
+                    <br /><br />
+                    <center>
+                        <i style="color:#ff0000" class='far fa-trash-alt fa-lg fa-5x'></i>
+                    </center>
+                    <br /><br />
+                    <p>Estimado Usuario desea eliminar esta parametrización.</p>
+                    <br />
+                    <center>
+                        <div class="col-sm-12">
+                            <div class="row">
+                                <div class="col-sm-5">
+                                    <div class="form-group">
+                                        <a id="btnEliminarParametro" href="#" class="btn btn-block btn-primary">Aceptar</a>
+                                    </div>
+                                </div>
+                                <div class="col-sm-5">
+                                    <div class="form-group">
+                                        <a id="btnBuscarDocumentos" href="#" class="btn btn-block btn-primary" data-dismiss="modal">Cancelar</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </center>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<script src="~/Content/js/jquery-3.1.1.min.js"></script>
+@*<script src="~/Content/js/select2.full.min.js"></script>*@
+<script>
+        //$('.select2').select2();
+
+        $(document).ready(function () {
+            $('#tbl-parametros').DataTable({
+                'columnDefs': [{ 'visible': false, 'targets': [] }],
+                "responsive": true,
+                "order": [[0, "asc"]],
+                "pageLength": 5,
+                "language": {
+                    "lengthMenu": "Mostrar _MENU_ registros por página",
+                    "zeroRecords": "No se encontraron resultados",
+                    "sEmptyTable": "Ningún dato disponible en esta tabla",
+                    "info": "Mostrando página _PAGE_ de _PAGES_",
+                    "infoEmpty": "Ningún dato disponible en esta tabla",
+                    "infoFiltered": "(filtered from _MAX_ total records)",
+                    "sSearch": "Filtro:",
+                    "oPaginate": {
+                        "sFirst": "Primero",
+                        "sLast": "Último",
+                        "sNext": "Siguiente",
+                        "sPrevious": "Anterior"
+                    },
+                },
+                "columns": [
+                    { "data": "idRegistro", "orderable": false, "Title": "idRegistro" },
+                    { "data": "HoraInicio", "orderable": false, "Title": "HoraInicio" },
+                    { "data": "HoraFin", "orderable": false, "Title": "HoraFin" },
+                    {
+                        "data": null, "title": "-", "orderable": false, "render": function (data, type, row) {
+                            var object_lista = (typeof data) == 'string' ? eval('(' + data + ')') : data;
+                            var idRegistro = "'" + object_lista.idRegistro + "'";
+                            var idTipoDocumento = "'" + object_lista.HoraInicio + "'";
+                            var cantidadFirma = "'" + object_lista.HoraFin + "'";
+                            var aux = 'href="javascript:ModificarParametros(' + idRegistro + ','+ idTipoDocumento +','+cantidadFirma+')"';
+                            var etiquea_a = "<a class='' class='btnDetalleUsuario' " + aux + "><i class='far fa-edit'></a>";
+                            return etiquea_a;
+                        }
+                    },
+                    {
+                        "data": null, "title": "-", "orderable": false, "render": function (data, type, row) {
+                            var object_lista = (typeof data) == 'string' ? eval('(' + data + ')') : data;
+                            var idRegistro = "'" + object_lista.idRegistro + "'";
+                            var aux = 'href="javascript:EliminarParametros(' + idRegistro + ')"';
+                            var etiquea_a = "<a class='' class='btnDetalleUsuario' " + aux + "><i style='color:#ff0000' class='far fa-trash-alt'></i></a>";
+                            return etiquea_a;
+                        }
+                    },
+                ],
+            });
+          //  var _idNombreEmpresa = $("#idCompania").val();
+            ConsultaParametrizacion();
+        });
+
+
+          function ConsultaParametrizacion()
+          {
+              var cont = 0;
+
+              $(".cartprocess").fadeTo(30, 0.40, function () {
+                  if (cont == 0) {
+                      cont = 1;
+                      $.ajax({
+                          type: "POST",
+                          url: ("@Url.Content("~/" + @HttpContext.Current.Request.RequestContext.RouteData.Values["controller"].ToString() + "/ConsultaParametrizacionHoras")/"),
+                          data: {},
+                          dataType: "json",
+                          success: function (respuesta) {
+                              $(".cartprocess").hide();
+                              var table = $('#tbl-parametros').DataTable();
+                              table.clear().draw();
+                              if (respuesta.codigoRetorno == 0) {                                  
+                                  $.each(respuesta.data, function (index, objeto) {
+                                      table.row.add({
+                                          "idRegistro": objeto.idRegistro,
+                                          "HoraInicio": objeto.HoraInicio,
+                                          "HoraFin": objeto.HoraFin,
+                                      }).draw();
+                                  });
+                              }
+                              else {
+                                  toastr.info(respuesta.mensajeRetorno);
+                              }
+                          },
+                          error: function () {
+                              $(".cartprocess").hide();
+                              toastr.error('Estimado Usuario, intente mas tarde, estamos trabajando..');
+                          }
+                      });
+                  }
+               });
+         }
+
+
+         $('#btnNuevaNotificacion').on('click', function () {
+             $('#idRegistro').val(0);
+             $('#txHoraInicio').val('');
+             $('#txHoraFin').val('');
+             $("#modal-Parametro").modal('show');
+         });
+
+          function EliminarParametros(idRegistro) {
+              $('#idRegistroEliminado').val(idRegistro);
+              $("#modal-EliminarIngreso").modal('show');
+            }
+
+            function ModificarParametros(idRegistro, horaInicio, HoraFin) {
+                $('#idRegistro').val(idRegistro);
+                $('#txHoraInicio').val(horaInicio);
+                $('#txHoraFin').val(HoraFin);
+                $("#modal-Parametro").modal('show');
+            }
+
+
+
+        $('#btnGuardarParametro').on('click', function () {
+            var _idRegistro = $("#idRegistro").val();
+            var _txHoraInicio = $("#txHoraInicio").val();
+            var _txHoraFin = $("#txHoraFin").val();
+            var cont = 0;
+
+            if (txHoraInicio != "" && _txHoraFin != "" ) {
+                $(".cartprocess").fadeTo(30, 0.40, function () {
+
+                    if (cont == 0) {
+                        cont = 1;
+                        $.ajax({
+                            type: "POST",
+                            url: ("@Url.Content("~/" + @HttpContext.Current.Request.RequestContext.RouteData.Values["controller"].ToString() + "/GuardarParametrizacion")/"),
+                            data: { idRegistro: _idRegistro, horasInicio: _txHoraInicio, horasFinal: _txHoraFin },
+                            dataType: "json",
+                            success: function (respuesta) {
+                                $(".cartprocess").hide();
+                                if (respuesta.codigoRetorno == 0) {
+                                    $("#modal-Parametro").modal('hide');
+                                    toastr.success(respuesta.mensajeRetorno);
+                                    ConsultaParametrizacion();
+                                }
+                                else {
+                                    toastr.info(respuesta.mensajeRetorno);
+                                }
+                            },
+                            error: function () {
+                                $(".cartprocess").hide();
+                                toastr.error('Estimado Usuario, intente mas tarde, estamos trabajando..');
+                            }
+                        });
+                    }
+                });
+             } else {
+                 toastr.info('Estimado Usuario por favor ingrese los datos requeridos.');
+            }
+       });
+
+
+
+
+    $('#btnEliminarParametro').on('click', function () {
+        var _idRegistro = $("#idRegistroEliminado").val();
+        var cont = 0;
+
+        $(".cartprocess").fadeTo(30, 0.40, function () {
+            if (cont == 0) {
+                cont = 1;
+                $.ajax({
+                    type: "POST",
+                    url: ("@Url.Content("~/" + @HttpContext.Current.Request.RequestContext.RouteData.Values["controller"].ToString() + "/EliminarParametrizacion")/"),
+                    data: { idRegistro: _idRegistro },
+                    dataType: "json",
+                    success: function (respuesta) {
+                        $(".cartprocess").hide();
+                        if (respuesta.codigoRetorno == 0) {
+                            $("#modal-EliminarIngreso").modal('hide');
+                            toastr.success(respuesta.mensajeRetorno);
+                            ConsultaParametrizacion();
+                        }
+                        else {
+                            toastr.info(respuesta.mensajeRetorno);
+                        }
+                    },
+                    error: function () {
+                        $(".cartprocess").hide();
+                        toastr.error('Estimado Usuario, intente mas tarde, estamos trabajando..');
+                    }
+                });
+            }
+        });
+    });
+
+
+            //Date picker
+            $('#reservationdate').datetimepicker({
+                format: 'L'
+            });
+
+            //Date and time picker
+            $('#reservationdatetime').datetimepicker({ icons: { time: 'far fa-clock' } });
+
+            //Date range picker
+            $('#reservation').daterangepicker()
+
+            //Timepicker
+            $('#timepicker').datetimepicker({
+                format: 'HH:mm'
+            })
+
+            $('#timepicker2').datetimepicker({
+                format: 'HH:mm'
+            })
+        /* });*/
+
+</script>

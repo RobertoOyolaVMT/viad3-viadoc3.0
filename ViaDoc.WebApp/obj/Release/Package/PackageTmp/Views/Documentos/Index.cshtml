@@ -1,0 +1,467 @@
+﻿@using ViaDoc.EntidadNegocios;
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (ViewData["mensajeError"] != null)
+{
+    <script type="text/javascript">
+        var respuesta = '@Html.Encode(ViewData["mensajeError"].ToString())';
+        llamaModal('warning', respuesta, 2500);
+    </script>
+}
+
+<section class="content">
+    <section class="content-header" style="padding-bottom:5px; padding-top:8px">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="#">Utilitarios</a></li>
+                        <li class="breadcrumb-item active">Documentos</li>
+                    </ol>
+                </div>
+                <div class="col-sm-6">
+
+                </div>
+            </div>
+        </div><!-- /.container-fluid -->
+    </section>
+    <div class="container-fluid">
+        <div class="card card-success">
+            <div class="card-header">
+                <h3 class="card-title">Filtros de Búsquedas</h3>
+            </div>
+            <!-- /.card-header -->
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-sm-4">
+                        <!-- text input -->
+                        <div class="form-group">
+                            <label>Compañía</label>
+                            <select class="form-control js-example-basic-single" id="txtIdEmpresa">
+                                @foreach (CatCompania item in ViewData["listEmpresas"] as List<CatCompania>)
+                                {
+                                    <option value="@item.razonSocial">@item.nombreComercial</option>
+                                }
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="form-group">
+                            <label>Tipo Documento</label>
+                            <select class="form-control js-example-basic-single" id="txtIdTipoDocumento">
+                                @foreach (CatDocumento item in ViewData["listDocumentos"] as List<CatDocumento>)
+                                {
+                                    <option value="@item.idTipoDocumento">@item.descripcion</option>
+                                }
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="form-group">
+                            <label>Número de Documentos</label>
+                            <input type="text" class="form-control" id="txtNumDocumento" maxlength="17" Onkeypress="return validarNumSig(event);" placeholder="Ejem. 001-001-000000001">
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-4">
+                        <!-- text input -->
+                        <div class="form-group">
+                            <label>Clave Acceso</label>
+                            <input type="text" class="form-control" id="txtClaveAcceso" maxlength="49" Onkeypress="return validaNumero(event);" placeholder="Ejem. 0000000000000000000000000000000000000000000000000">
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="form-group">
+                            <label>Identificación</label>
+                            <input type="text" class="form-control" id="txtIdentificacion" maxlength="13" Onkeypress="return validaNumero(event);" placeholder="Ejem. 0920000000">
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="form-group">
+                            <label>Nombre / Razón Social Comprador</label>
+                            <input type="text" class="form-control" id="txtNombre" id="txtNombre" maxlength="100" placeholder="Ejem. Juan Perez">
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-4">
+                        <!-- text input -->
+                        <div class="form-group" style="padding-top:10px">
+                            <div class="custom-control custom-radio">
+                                <input class="custom-control-input" type="radio" value="1" id="customRadio1" name="customRadio" checked>
+                                <input type="text" name="txtAutorizacion" id="txtAutorizacion" value="1" hidden />
+
+                                <label for="customRadio1" class="custom-control-label">Autorización</label>
+                            </div>
+                            <div class="custom-control custom-radio">
+                                <input class="custom-control-input" type="radio" value="0" id="customRadio2" name="customRadio">
+                                <label for="customRadio2" class="custom-control-label">Emisión</label>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="form-group">
+                            <label>Fecha Inicio:</label>
+                            <div class="input-group date" data-target-input="nearest">
+                                <input type="text" name="txtFechaInicio" value="" id="txtFechaInicio" class="form-control datepicker" data-target="#txtFechaInicio" />
+                                <div class="input-group-append" data-target="#txtFechaInicio" data-toggle="datetimepicker">
+                                    <div class="input-group-text"><i class="fa fa-calendar"></i></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="form-group">
+                            <label>Fecha Fin:</label>
+                            <div class="input-group date" data-target-input="nearest">
+                                <input type="text" id="txtFechaFin" value="" name="txtFechaFin" maxlength="0" class="form-control datepicker" data-target="#txtFechaFin" />
+                                <div class="input-group-append" data-target="#txtFechaFin" data-toggle="datetimepicker">
+                                    <div class="input-group-text"><i class="fa fa-calendar"></i></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <center>
+                    <div class="row justify-content-center">
+                        <div class="col-sm-3">
+                            <input type="button" id="btnBuscar" class="btn btn-block btn-primary" value="Buscar" />
+                        </div>
+                        <div class="col-sm-3">
+                            @*<input disabled type="button" id="btnDescargarExcel" class="btn btn-block btn-primary" onclick="DescaExcel()" value="Descargar Excel" />*@
+                        </div>
+                    </div>
+                </center>
+            </div>
+            <!-- /.card-body -->
+        </div>
+    </div>
+
+    <section class="content-header" style="padding-top:0px">
+        <div class="row">
+            <div class="col-12">
+                <div class="card">
+                    <div class="card-body">
+                        <table id="tblDocumentos" class="table table-bordered table-striped" style="font-size:13px">
+                            <thead>
+                                <tr>
+                                    <th>Comprador</th>
+                                    <th>Identificación</th>
+                                    <th>Documento</th>
+                                    <th>Fecha Autorización</th>
+                                    <th>Num. Documento</th>
+                                    <th>Clave de Acceso</th>
+                                    <th>Estado Documento</th>
+                                    <th>Fecha Emisión</th>
+                                    <th>SubTotal</th>
+                                    <th>TotalIva</th>
+                                    <th>Valor</th>
+                                    <th>Descargar XML</th>
+                                    <th>Descargar PDF</th>
+                                    <th>Enviar Correo</th>
+                                    <th>Enviar al Portal</th>
+                                    <th>Corrige Detalle</th>
+                                </tr>
+                            </thead>
+                        </table>
+                    </div>
+                    <!-- /.card-body -->
+                </div>
+                <!-- /.card -->
+            </div>
+            <!-- /.col -->
+        </div>
+
+
+        <div class="modal fade" id="envioCorreo">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title">Enviar Email</h4>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="form-group">
+                            <label for="">Documento</label>
+                            <input type="text" class="form-control" disabled id="txDocumento" placeholder="Documento">
+                        </div>
+                        <div class="form-group">
+                            <label for="">Clave Acceso</label>
+                            <input type="text" class="form-control" disabled id="txClaveAcceso" placeholder="Clave Acceso">
+                        </div>
+                        <div class="form-group">
+                            <label for="">Razón Social</label>
+                            <input type="text" class="form-control" disabled id="txRazonSocial" placeholder="Razón Social">
+                        </div>
+                        <div class="form-group">
+                            <label for="">Email</label>
+                            <input type="text" class="form-control" id="txEmail" placeholder="Ingrese email">
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <input type="button" value="Enviar Email" class="btn btn-info" onclick="SendMail()" />
+                    </div>
+                    <input type="hidden" id="ciEstado" />
+                    <input type="hidden" id="ciCompania" />
+                </div>
+                <!-- /.modal-content -->
+            </div>
+            <!-- /.modal-dialog -->
+        </div>
+
+        <div class="modal fade" id="corrigeDetalle">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title">Corrige Detalle</h4>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close" onclick="CloseModalDetalles()">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-2">
+                                    <input type="text" class="form-control" id="codSecuancial" disabled>
+                                </div>
+                                <div class="col-10">
+                                    <select class="form-control js-example-basic-single" id="ddlDetalles">
+                                    </select>
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-12 mt-2">
+                                    <label for="">Detalle</label>
+                                    <textarea class="form-control" id="txDetalleNuevo" style="height: 200px; text-align: left; overflow-wrap: break-word;"></textarea>
+                                </div>
+                            </div>
+                        </div>
+                        
+                    </div>
+                    <div class="modal-footer">
+                        <input type="button" value="Modifica Detalle" class="btn btn-info" onclick="CorrigueDetalle()" />
+                    </div>
+                    <input type="hidden" id="txClaveacceso" />
+                    <input type="hidden" id="ciTipoDocumentos" />
+                </div>
+                <!-- /.modal-content -->
+            </div>
+            <!-- /.modal-dialog -->
+        </div>
+    </section>
+</section>
+
+<script>
+    var jsonData = [];
+    var table;
+    var Actualiza = '0';
+
+    $(document).ready(function () {
+        var radioValue = $("input[name='customRadio']:checked").val();
+        if (radioValue == 1) {
+            Actualiza = $('#customRadio1').val();
+        }
+
+        table = $('#tblDocumentos').DataTable({
+            "ajax": {
+                url: urlBase + "/Documentos/CargarDocumentos/",
+                type: "POST",
+                dataType: "JSON",
+                data: function (d) {
+                    d.txtIdEmpresa = document.getElementById("txtIdEmpresa").value,
+                        d.txtIdTipoDocumento = document.getElementById("txtIdTipoDocumento").value,
+                        d.txtNumDocumento = document.getElementById("txtNumDocumento").value,
+                        d.txtClaveAcceso = document.getElementById("txtClaveAcceso").value,
+                        d.txtIdentificacion = document.getElementById("txtIdentificacion").value,
+                        d.txtNombre = document.getElementById("txtNombre").value,
+                        d.txtAutorizacion = Actualiza,
+                        d.txtFechaInicio = document.getElementById("txtFechaInicio").value,
+                        d.txtFechaFin = document.getElementById("txtFechaFin").value;
+
+                },
+
+            },
+            "columns": [
+                {
+                    "name": "Comprador",
+                    "data": "razonSocialComprador"
+                },
+                {
+                    "name": "Identificación",
+                    "data": "identificacionComprador"
+                },
+                {
+                    "name": "Documento",
+                    "data": "descripcion"
+                },
+                {
+                    "name": "Fecha Autorización",
+                    "data": "fechaHoraAutorizacion"
+                },
+                {
+                    "name": "Num. Documento",
+                    "data": "NumeroDocumento"
+                },
+                {
+                    "name": "Clave de Acceso",
+                    "data": "claveAcceso"
+                },
+                {
+                    "name": "Estado Documento",
+                    "data": "descripcionEstado"
+                },
+                {
+                    "name": "Fecha Emision",
+                    "data": "fechaEmision"
+                },
+                {
+                    "name": "SubTotal",
+                    "data": "subtotal"
+                },
+                {
+                    "name": "TotalIva",
+                    "data": "totaliva"
+                },
+                {
+                    "name": "Valor",
+                    "data": "valor"
+                },
+
+                {
+                    "name": "Descargar XML",
+                    "data": "xml"
+                },
+                {
+                    "name": "Descargar PDF",
+                    "data": "pdf"
+                },
+                {
+                    "name": "Enviar Correo",
+                    "data": "enviarMail"
+                },
+                {
+                    "name": "Enviar al Portal",
+                    "data": "enviarPortal"
+                },
+                {
+                    "name": "Corregir Detalle",
+                    "data": "corrigdeta"
+                },
+            ],
+            "processing": true,
+            "destroy": true,
+            "paging": true,
+            "searching": false,
+            "ordering": true,
+            "autoWidth": false,
+            "pageLength": 10,
+            "responsive": true,
+            "dom": '<"top"Bl>rt<"bottom"ip><"clear">',
+            "buttons": [
+                'csv', 'excel'
+            ],
+            "language": {
+                url: "../Content/idioma/espaniol.json",
+            },
+        });
+
+        $('#btnBuscar').on('click', function () {
+            var cont = 0;
+            if (cont == 0) {
+                cont = 1;
+
+                var radioValue = $("input[name='customRadio']:checked").val();
+                if (radioValue == 1) {
+                    Actualiza = $('#customRadio1').val();
+                } else {
+                    Actualiza = $('#customRadio2').val();
+                }
+
+                table.clear();
+                table.ajax.reload();
+            }
+        });
+    });
+
+    $('.js-example-basic-single').select2({
+        theme: 'bootstrap4'
+    });
+
+    $('#txtFechaInicio').datetimepicker({
+        defaultDate: new Date(),
+        format: 'DD/MM/YYYY'
+    });
+
+    $('#txtFechaFin').datetimepicker({
+        defaultDate: new Date(),
+        format: 'DD/MM/YYYY'
+    });
+
+    if ($('#customRadio1').is(':checked')) {
+        $("#txtAutorizacion").val(this.value);
+    }
+
+    if ($('#customRadio2').is(':checked')) {
+        $("#txtAutorizacion").val(this.value);
+    }
+
+    function SendMail() {
+        EnviaEmailCliente();
+    }
+
+    function EnviaEmail(ciEstado, ciIdCompania, txTipoDocumento, txClaveAcceso, txEmail, txRazonSocial) {
+        $("#txDocumento").val(txTipoDocumento);
+        $("#txClaveAcceso").val(txClaveAcceso);
+        $("#txRazonSocial").val(txRazonSocial);
+        $("#txEmail").val(txEmail);
+        $("#ciEstado").val(ciEstado);
+        $("#ciCompania").val(ciIdCompania);
+
+        $("#envioCorreo").modal('show');
+
+    }
+
+    function EnviaPortal(ciEstado, ciIdCompania, txTipoDocumento, txClaveAcceso) {
+        EnviaPortalCliente(ciEstado, ciIdCompania, txTipoDocumento, txClaveAcceso);
+    }
+
+    function CorrigeDetalleModal(txClaveAcceso, txTipoDocumento) {
+        $('#ciTipoDocumentos').val(txTipoDocumento);
+        $('#txClaveAcceso').val(txClaveAcceso);
+
+        CorrigueDetalle();  
+    }
+
+    $(document).ready(function () {
+
+        $('#ddlDetalles').on('click', function () {
+            var selectedValue = $(this).val();
+            var selectedText = $("#ddlDetalles option:selected").text();
+
+            $('#codSecuancial').val(selectedValue);
+            $('#txDetalleNuevo').val(selectedText);
+        });
+
+        $('#ddlDetalles').on('change', function () {
+            var selectedValue = $(this).val();
+            var selectedText = $("#ddlDetalles option:selected").text();
+
+            $('#codSecuancial').val(selectedValue);
+            $('#txDetalleNuevo').val(selectedText);
+        });
+    });
+
+    function CloseModalDetalles() {
+        $('#codSecuancial').val('');
+        $('#txDetalleNuevo').val('');
+    }
+
+</script>

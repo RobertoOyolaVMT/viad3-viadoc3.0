@@ -1,0 +1,12 @@
+[CustomError]: 12/12/2022 14:09:08
+[Metodo]: Todo bien al iniciar el metodo
+[CustomError]: FIN 
+[CustomError]: 12/12/2022 14:09:08
+[Metodo]: Retención
+[CustomError]: FIN 
+[CustomError]: 12/12/2022 14:09:56
+[Metodo]: El tipo de error del mensaje es: no hubo error
+[CustomError]: FIN 
+[CustomError]: 12/12/2022 14:09:56
+[Metodo]: valor de i0
+[CustomError]: FIN 

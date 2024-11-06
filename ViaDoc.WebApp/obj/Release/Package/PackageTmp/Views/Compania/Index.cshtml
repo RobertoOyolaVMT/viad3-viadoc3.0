@@ -1,0 +1,363 @@
+﻿@using ViaDoc.EntidadNegocios;
+
+@{
+    ViewBag.Title = "Compañia";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (ViewData["mensajeError"] != null)
+{
+    <script type="text/javascript">
+        var respuesta = '@Html.Encode(ViewData["mensajeError"].ToString())';
+        llamaModal('warning', respuesta, 2500);
+    </script>
+}
+
+<section class="content">
+    <section class="content-header" style="padding-bottom:5px; padding-top:8px">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="#">Configuración</a></li>
+                        <li class="breadcrumb-item active">Compañia</li>
+                    </ol>
+                </div>
+                <div class="col-sm-6">
+
+                </div>
+            </div>
+        </div><!-- /.container-fluid -->
+    </section>
+
+    <div class="container-fluid">
+        <div class="card card-success">
+            <div class="card-header">
+                <h3 class="card-title">Filtros de Búsquedas</h3>
+                <div class="card-tools">
+                    <button type="button" class="btn btn-tool" data-card-widget="collapse">
+                        <i class="fas fa-minus"></i>
+                    </button>
+                </div>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-sm-4">
+                        <div class="form-group">
+                            <label>Compañía:</label>
+                            <select id="txtIdEmpresa" class="form-control js-example-basic-single">
+                                @foreach (CatCompania item in ViewData["listEmpresas"] as List<CatCompania>)
+                                {
+                                    <option value="@item.razonSocial">@item.nombreComercial</option>
+                                }
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="form-group">
+                            <br />
+                            <input type="button" id="btnBuscar" class="btn btn-block btn-primary mt-2" value="Buscar" onclick="" />
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="form-group">
+                            <br />
+                            <a id="btnNuevaComapania" href="#" class="btn btn-block btn-primary mt-2">Agregar</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <section class="content-header" style="padding-top:0px">
+        <div id="divGrigCompania">
+        </div>
+    </section>
+
+    <div class="modal fade" id="modal-Compania">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Configuración de Compañia</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <input type="hidden" id="idEmpresaCompania" />
+                        <div class="col-sm-4" id="divIdEmpresaCompania">
+                            <div class="form-group">
+                                <label>Compañía:</label>
+                                <select id="txtIdEmpresaCompania" class="form-control js-example-basic-single">
+                                    @if (ViewData["listEmpresas"] != null)
+                                    {
+                                        foreach (CatCompania item in ViewData["listEmpresas"] as List<CatCompania>)
+                                        {
+                                            <option value="@item.razonSocial">@item.nombreComercial</option>
+                                        }
+                                    }
+                                </select>
+                                <br />
+                                <input id="txtIdEmpresaCompania_1" placeholder="Nueva Compañia" disabled="disabled" class="form-control" />
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="form-group">
+                                <label>Ruc Compañia:</label>
+                                <input id="txRuc" type="text" class="form-control">
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="form-group">
+                                <label>Razón Social:</label>
+                                <input id="txRazonSocial" type="text" class="form-control">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-4">
+                            <div class="form-group">
+                                <label>Nombre Comercial:</label>
+                                <input id="txNombreComercial" type="text" class="form-control">
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="form-group">
+                                <label>Obligado Contabilidad:</label>
+                                <select id="txObligadoContabilidad" class="form-control js-example-basic-single">
+                                    <option value="S">SI</option>
+                                    <option value="N">NO</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="form-group">
+                                <label>Agente de Retencion:</label>
+                                <select id="txAgenteRetencion" class="form-control js-example-basic-single">
+                                    <option value="True">True</option>
+                                    <option value="False">False</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="form-group">
+                                <label>Regimen de Microempresas:</label>
+                                <select id="txRegimenMicroempresas" class="form-control js-example-basic-single">
+                                    <option value="True">True</option>
+                                    <option value="False">False</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="form-group">
+                                <label>Contribuyente Rimpe:</label>
+                                <select id="txContribuyenteRimpe" class="form-control js-example-basic-single">
+                                    <option value="True">True</option>
+                                    <option value="False">False</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="form-group">
+                                <label>Contribuyente Especial</label>
+                                <input id="txContribuyenteEspecial" type="text" class="form-control">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+
+                        <div class="col-sm-4">
+                            <div class="form-group">
+                                <label>Tipo Ambiente:</label>
+                                <select id="txTipoAmbiente" class="form-control js-example-basic-single">
+                                    @if (ViewData["listAmbientes"] != null)
+                                    {
+                                        foreach (CatAmbiente item in ViewData["listAmbientes"] as List<CatAmbiente>)
+                                        {
+                                            <option value="@item.idTipoAmbiente">@item.descripcion</option>
+                                        }
+                                    }
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="form-group">
+                                <label>Estado</label>
+                                <select id="txEstado" class="form-control js-example-basic-single">
+                                    <option value="A">Activo</option>
+                                    <option value="I">Inactivo</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-sm-4">
+                            <div class="form-group">
+                                <label>Dirección Matriz:</label>
+                                <input id="txDireccionMatriz" type="text" class="form-control">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+
+                        <div class="col-sm-4">
+                            <div class="form-group">
+                                <label>Clave Activación</label>
+                                <input id="txClaveActivacion" type="number" class="form-control">
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                                <label for="exampleInputFile">Seleccionar Logo:</label>
+                                <div class="input-group">
+                                    <div class="custom-file">
+                                        <input type="file" class="custom-file-labe" multiple id="exampleInputFile">
+                                        <label class="fa fa-file-image-o" for="exampleInputFile"></label>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer justify-content-between">
+                    <div class="col-sm-12">
+                        <div class="row justify-content-center">
+                            <div class="col-sm-3">
+                                <div class="form-group">
+                                    <a id="btnGuardarCompania" href="#" class="btn btn-block btn-primary" onclick="Insertar_Actualizar_Compania()">Guardar</a>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="form-group">
+                                    <a id="btnBuscarDocumentos" href="#" class="btn btn-block btn-primary" data-dismiss="modal">Cancelar</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal fade" id="modal-Sucursal">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Configuración de Compañia</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                                <label>Compañía:</label>
+                                <select id="TxRazonSocialSucursal" class="form-control js-example-basic-single">
+                                    @if (ViewData["listEmpresas"] != null)
+                                    {
+                                        foreach (CatCompania item in ViewData["listEmpresas"] as List<CatCompania>)
+                                        {
+                                            <option value="@item.idCompania">@item.nombreComercial</option>
+                                        }
+                                    }
+                                </select>
+                            </div>
+                        </div>
+                        <input id="idCompaniaSurc" type="hidden" class="form-control">
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                                <label>Cod. Sucursal:</label>
+                                <input id="txCodSucursal" type="text" class="form-control">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                                <label>Dirección Matriz:</label>
+                                <input id="txDireccionMatrizSuc" type="text" class="form-control">
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="form-group">
+                                <label>Estado:</label>
+                                <select id="txEstadoSurc" class="form-control js-example-basic-single">
+                                    <option value="A">Activo</option>
+                                    <option value="I">Inactivo</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-12">
+                        <div class="row justify-content-center">
+                            <div class="col-sm-3">
+                                <div class="form-group">
+                                    <a id="btnGuardarSucursal" href="#" class="btn btn-block btn-primary" onclick="InsetarSucursal()">Guardar</a>
+                                </div>
+                            </div>
+                            <div class="col-sm-3">
+                                <div class="form-group">
+                                    <a id="btnAgregarSucursal" href="#" class="btn btn-block btn-success" onclick="agregarSucursal();">Agregar</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <section class="content-header" style="padding-top:0px">
+                    <div id="divGrigSucursal">
+                    </div>
+                </section>
+                <div class="modal-footer justify-content-between">
+                    <div class="col-sm-12">
+                        <div class="row">
+                            <div class="col-sm-3">
+                                <div class="form-group">
+                                    <a id="btnGuardarParametro" href="#" class="btn btn-block btn-danger" data-dismiss="modal">Cancelar</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <input type="hidden" id="TipoModal" value="0" />
+</section>
+<script>
+
+    $('#btnBuscar').on('click', function () {
+        CargarCompania();
+    });
+
+    $(document).ready(function () {
+        bsCustomFileInput.init();
+    });
+
+    $('#btnNuevaComapania').on('click', function () {
+
+    });
+
+    $('#btnNuevaComapania').on('click', function () {
+        $('#txtIdEmpresaCompania').removeAttr('disabled');
+        $('#txtIdEmpresaCompania').hide();
+        $('#txtIdEmpresaCompania_1').show();
+        $('#txRuc').val('');
+        $('#txRazonSocial').val('');
+        $('#txClaveActivacion').val('');
+        $('#txNombreComercial').val('');
+        $('#txContribuyenteEspecial').val('');
+        $('#txDireccionMatriz').val('');
+        $('#txTipoAmbiente').val(1);
+        $("#modal-Compania").modal('show');
+        $('#TipoModal').val('0');
+
+    });
+
+    function agregarSucursal() {
+        $("#txCodSucursal").val('');
+        $("#txDireccionMatrizSuc").val('');
+        //$("#txEstadoSurc").val(ciEstado);
+    }
+</script>

@@ -1,0 +1,45 @@
+[CustomError]: 16/2/2024 08:41:28
+[Metodo]: Error: Error al conectarse a la Base Datos
+[CustomError]: FIN 
+[CustomError]: 16/2/2024 08:41:28
+[Metodo]: valor de i1
+[CustomError]: FIN 
+[CustomError]: 16/2/2024 08:44:53
+[Metodo]: Error: Error al conectarse a la Base Datos
+[CustomError]: FIN 
+[CustomError]: 16/2/2024 08:44:53
+[Metodo]: valor de i1
+[CustomError]: FIN 
+[CustomError]: 16/2/2024 08:46:16
+[Metodo]: Error: Error al conectarse a la Base Datos
+[CustomError]: FIN 
+[CustomError]: 16/2/2024 08:46:16
+[Metodo]: valor de i1
+[CustomError]: FIN 
+[CustomError]: 16/2/2024 08:47:16
+[Metodo]: Error: Error al conectarse a la Base Datos
+[CustomError]: FIN 
+[CustomError]: 16/2/2024 08:47:16
+[Metodo]: valor de i1
+[CustomError]: FIN 
+[CustomError]: 16/2/2024 08:49:08
+[Metodo]: Error: Error al conectarse a la Base Datos
+[CustomError]: FIN 
+[CustomError]: 16/2/2024 08:49:08
+[Metodo]: valor de i1
+[CustomError]: FIN 
+[CustomError]: 16/2/2024 08:55:46
+[Metodo]: Error: Error al conectarse a la Base Datos
+[CustomError]: FIN 
+[CustomError]: 16/2/2024 08:55:46
+[Metodo]: valor de i1
+[CustomError]: FIN 
+[CustomError]: 16/2/2024 08:58:18
+[Metodo]: Error envio email: Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 16/2/2024 10:50:35
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 16/2/2024 11:06:22
+[Metodo]: valor de i0
+[CustomError]: FIN 

@@ -1,0 +1,12 @@
+[CustomError]: 24/2/2023 15:09:00
+[Metodo]: El tipo de error del mensaje es: Se ha presentado un error al enviar el comprobante al correo: acastilloalay@gmail.com por favor revise las configuraciones de servidor de correos o verifique que el mail del cliente final sea valido
+[CustomError]: FIN 
+[CustomError]: 24/2/2023 15:09:01
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 24/2/2023 15:15:25
+[Metodo]: El tipo de error del mensaje es: no hubo error
+[CustomError]: FIN 
+[CustomError]: 24/2/2023 15:15:26
+[Metodo]: valor de i0
+[CustomError]: FIN 

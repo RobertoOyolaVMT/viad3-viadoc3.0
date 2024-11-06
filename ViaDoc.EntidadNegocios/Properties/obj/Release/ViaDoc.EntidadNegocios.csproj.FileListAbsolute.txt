@@ -1,0 +1,33 @@
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.EntidadNegocios\bin\Release\ViaDoc.EntidadNegocios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.EntidadNegocios\bin\Release\ViaDoc.EntidadNegocios.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.EntidadNegocios\bin\Release\ViaDoc.AccesoDatos.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.EntidadNegocios\bin\Release\ViaDoc.Utilitarios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.EntidadNegocios\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.EntidadNegocios\bin\Release\ViaDoc.Utilitarios.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.EntidadNegocios\obj\Release\ViaDoc.EntidadNegocios.csprojAssemblyReference.cache
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.EntidadNegocios\obj\Release\ViaDoc.EntidadNegocios.csproj.CoreCompileInputs.cache
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.EntidadNegocios\obj\Release\ViaDoc.EntidadNegocios.csproj.CopyComplete
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.EntidadNegocios\obj\Release\ViaDoc.EntidadNegocios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.EntidadNegocios\obj\Release\ViaDoc.EntidadNegocios.pdb
+C:\FacturacionElectronica\ViaDoc.EntidadNegocios\bin\Release\ViaDoc.EntidadNegocios.dll
+C:\FacturacionElectronica\ViaDoc.EntidadNegocios\bin\Release\ViaDoc.EntidadNegocios.pdb
+C:\FacturacionElectronica\ViaDoc.EntidadNegocios\bin\Release\ViaDoc.AccesoDatos.dll
+C:\FacturacionElectronica\ViaDoc.EntidadNegocios\bin\Release\ViaDoc.Utilitarios.dll
+C:\FacturacionElectronica\ViaDoc.EntidadNegocios\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\FacturacionElectronica\ViaDoc.EntidadNegocios\bin\Release\ViaDoc.Utilitarios.pdb
+C:\FacturacionElectronica\ViaDoc.EntidadNegocios\obj\Release\ViaDoc.EntidadNegocios.csprojAssemblyReference.cache
+C:\FacturacionElectronica\ViaDoc.EntidadNegocios\obj\Release\ViaDoc.EntidadNegocios.csproj.CoreCompileInputs.cache
+C:\FacturacionElectronica\ViaDoc.EntidadNegocios\obj\Release\ViaDoc.EntidadNegocios.csproj.CopyComplete
+C:\FacturacionElectronica\ViaDoc.EntidadNegocios\obj\Release\ViaDoc.EntidadNegocios.dll
+C:\FacturacionElectronica\ViaDoc.EntidadNegocios\obj\Release\ViaDoc.EntidadNegocios.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.EntidadNegocios\bin\Release\ViaDoc.EntidadNegocios.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.EntidadNegocios\bin\Release\ViaDoc.EntidadNegocios.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.EntidadNegocios\bin\Release\ViaDoc.AccesoDatos.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.EntidadNegocios\bin\Release\ViaDoc.Utilitarios.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.EntidadNegocios\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.EntidadNegocios\bin\Release\ViaDoc.Utilitarios.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.EntidadNegocios\obj\Release\ViaDoc.EntidadNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.EntidadNegocios\obj\Release\ViaDoc.EntidadNegocios.csproj.CopyComplete
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.EntidadNegocios\obj\Release\ViaDoc.EntidadNegocios.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.EntidadNegocios\obj\Release\ViaDoc.EntidadNegocios.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.EntidadNegocios\obj\Release\ViaDoc.EntidadNegocios.csproj.AssemblyReference.cache

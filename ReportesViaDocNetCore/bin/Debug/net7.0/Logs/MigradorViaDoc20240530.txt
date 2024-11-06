@@ -1,0 +1,48 @@
+[CustomError]: 30/5/2024 17:14:32
+[Metodo]: {"NumDoc":"003-002-000047761","IdCompania":1}
+[CustomError]: FIN 
+[CustomError]: 30/5/2024 17:14:44
+[Metodo]: ProcesoRideCompRetencion
+[Service]: GeneraReporteNetcore
+[Message]: Object reference not set to an instance of an object.
+[StackTrace]: 
+[CustomError]: FIN 
+[CustomError]: 30/5/2024 17:14:55
+[Metodo]: {"NumDoc":"003-002-000047761","IdCompania":1}
+[CustomError]: FIN 
+[CustomError]: 30/5/2024 17:23:02
+[Metodo]: ProcesoRideCompRetencion
+[Service]: GeneraReporteNetcore
+[Message]: The process cannot access the file 'C:\ComprobantesXML\RIDE\RideCompRetencion.rdlc' because it is being used by another process.
+[StackTrace]: 
+[CustomError]: FIN 
+[CustomError]: 30/5/2024 17:23:10
+[Metodo]: {"NumDoc":"003-002-000047761","IdCompania":1}
+[CustomError]: FIN 
+[CustomError]: 30/5/2024 17:23:17
+[Metodo]: ProcesoRideCompRetencion
+[Service]: GeneraReporteNetcore
+[Message]: The process cannot access the file 'C:\ComprobantesXML\RIDE\RideCompRetencion.rdlc' because it is being used by another process.
+[StackTrace]: 
+[CustomError]: FIN 
+[CustomError]: 30/5/2024 17:23:34
+[Metodo]: {"NumDoc":"003-002-000047761","IdCompania":1}
+[CustomError]: FIN 
+[CustomError]: 30/5/2024 17:23:37
+[Metodo]: ProcesoRideCompRetencion
+[Service]: GeneraReporteNetcore
+[Message]: The process cannot access the file 'C:\ComprobantesXML\RIDE\RideCompRetencion.rdlc' because it is being used by another process.
+[StackTrace]: 
+[CustomError]: FIN 
+[CustomError]: 30/5/2024 17:23:41
+[Metodo]: {"NumDoc":"003-002-000047761","IdCompania":1}
+[CustomError]: FIN 
+[CustomError]: 30/5/2024 17:23:41
+[Metodo]: ProcesoRideCompRetencion
+[Service]: GeneraReporteNetcore
+[Message]: The process cannot access the file 'C:\ComprobantesXML\RIDE\RideCompRetencion.rdlc' because it is being used by another process.
+[StackTrace]: 
+[CustomError]: FIN 
+[CustomError]: 30/5/2024 17:24:04
+[Metodo]: {"NumDoc":"003-002-000047761","IdCompania":1}
+[CustomError]: FIN 

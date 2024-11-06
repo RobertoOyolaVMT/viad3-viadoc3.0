@@ -1,0 +1,163 @@
+[CustomError]: 8/12/2022 09:38:03
+[Metodo]: System.ArgumentException: Falta el elemento raíz.
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 99
+[CustomError]: FIN 
+[CustomError]: 8/12/2022 09:38:03
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 8/12/2022 09:38:03
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 8/12/2022 10:54:16
+[Metodo]: System.ArgumentException: Error: 
+El elemento 'codSustento' no es válido. El valor '1' no es válido según su tipo de datos 'codSustento' - Error de restricción de patrón.
+
+Error: 
+El elemento 'numDocSustento' no es válido. El valor '01' no es válido según su tipo de datos 'numDocSustento' - Error de restricción de patrón.
+
+Error: 
+El elemento 'docSustento' tiene un elemento secundario 'totalSinImpuestos' no válido. Lista esperada de elementos posibles: 'numAutDocSustento, pagoLocExt'.
+
+Error: 
+Falta el atributo 'nombre' necesario.
+
+Error: 
+El elemento 'campoAdicional' no puede contener un elemento secundario 'nombre' porque el patrón de contenido del elemento principal es sólo texto.
+
+Error: 
+Falta el atributo 'nombre' necesario.
+
+Error: 
+El elemento 'campoAdicional' no puede contener un elemento secundario 'nombre' porque el patrón de contenido del elemento principal es sólo texto.
+
+Error: 
+Falta el atributo 'nombre' necesario.
+
+Error: 
+El elemento 'campoAdicional' no puede contener un elemento secundario 'nombre' porque el patrón de contenido del elemento principal es sólo texto.
+
+Error: 
+Falta el atributo 'nombre' necesario.
+
+Error: 
+El elemento 'campoAdicional' no puede contener un elemento secundario 'nombre' porque el patrón de contenido del elemento principal es sólo texto.
+
+
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 109
+[CustomError]: FIN 
+[CustomError]: 8/12/2022 11:11:42
+[Metodo]: System.ArgumentException: Error: 
+El elemento 'codSustento' no es válido. El valor '1' no es válido según su tipo de datos 'codSustento' - Error de restricción de patrón.
+
+Error: 
+El elemento 'codigoPorcentaje' no es válido. El valor '20.00' no es válido según su tipo de datos 'codigoPorcentaje' - Error de restricción de patrón.
+
+Error: 
+Falta el atributo 'nombre' necesario.
+
+Error: 
+El elemento 'campoAdicional' no puede contener un elemento secundario 'nombre' porque el patrón de contenido del elemento principal es sólo texto.
+
+Error: 
+Falta el atributo 'nombre' necesario.
+
+Error: 
+El elemento 'campoAdicional' no puede contener un elemento secundario 'nombre' porque el patrón de contenido del elemento principal es sólo texto.
+
+Error: 
+Falta el atributo 'nombre' necesario.
+
+Error: 
+El elemento 'campoAdicional' no puede contener un elemento secundario 'nombre' porque el patrón de contenido del elemento principal es sólo texto.
+
+Error: 
+Falta el atributo 'nombre' necesario.
+
+Error: 
+El elemento 'campoAdicional' no puede contener un elemento secundario 'nombre' porque el patrón de contenido del elemento principal es sólo texto.
+
+
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 109
+[CustomError]: FIN 
+[CustomError]: 8/12/2022 11:11:42
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 8/12/2022 11:11:42
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 8/12/2022 11:22:57
+[Metodo]: Error de actualizacion de datos: System.IndexOutOfRangeException: No se puede encontrar la tabla 0.
+   en System.Data.DataTableCollection.get_Item(Int32 index)
+   en ViaDoc.AccesoDatos.DocumentoAD.ActualizarComprobantesProcesados(Int32 identity, Int32 ciCompania, String ciTipoDocumento, String claveAcceso, String txFechaHoraAutorizacion, String xmlComprobante, String xmlEstado, String ciContingenciaDet, Int32 ciNumeroIntento, String mensajeError, Int32& codigoRetorno, String& descripcionRetorno) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.AccesoDatos\DocumentoAD.cs:línea 325
+[CustomError]: FIN 
+[CustomError]: 8/12/2022 11:22:57
+[Metodo]: Exception 2: System.ArgumentException: La columna 'txCodRetencion' no pertenece a la tabla CompRetencionDocSustento.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDocFirma.LogicaNegocios.procesos.ProcesoCompRetencion.ProcesarXmlCompRetencion(Compania compania, String Version, Int32 numeroRegistro)
+[CustomError]: FIN 
+[CustomError]: 8/12/2022 11:22:57
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 8/12/2022 11:22:57
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 8/12/2022 11:23:29
+[Metodo]: Error de actualizacion de datos: System.IndexOutOfRangeException: No se puede encontrar la tabla 0.
+   en System.Data.DataTableCollection.get_Item(Int32 index)
+   en ViaDoc.AccesoDatos.DocumentoAD.ActualizarComprobantesProcesados(Int32 identity, Int32 ciCompania, String ciTipoDocumento, String claveAcceso, String txFechaHoraAutorizacion, String xmlComprobante, String xmlEstado, String ciContingenciaDet, Int32 ciNumeroIntento, String mensajeError, Int32& codigoRetorno, String& descripcionRetorno) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.AccesoDatos\DocumentoAD.cs:línea 325
+[CustomError]: FIN 
+[CustomError]: 8/12/2022 11:23:29
+[Metodo]: Exception 2: System.ArgumentException: La columna 'txCodRetencion' no pertenece a la tabla CompRetencionDocSustento.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDocFirma.LogicaNegocios.procesos.ProcesoCompRetencion.ProcesarXmlCompRetencion(Compania compania, String Version, Int32 numeroRegistro) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\procesos\ProcesoCompRetencion.cs:línea 314
+[CustomError]: FIN 
+[CustomError]: 8/12/2022 11:23:29
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 8/12/2022 11:23:29
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 8/12/2022 11:32:37
+[Metodo]: System.ArgumentException: Falta el elemento raíz.
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 99
+[CustomError]: FIN 
+[CustomError]: 8/12/2022 11:32:38
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 8/12/2022 11:32:38
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 8/12/2022 11:33:43
+[Metodo]: System.ArgumentException: Falta el elemento raíz.
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 99
+[CustomError]: FIN 
+[CustomError]: 8/12/2022 11:33:43
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 8/12/2022 11:33:43
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 8/12/2022 14:02:19
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 8/12/2022 14:02:19
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 8/12/2022 14:02:52
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 8/12/2022 14:02:52
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 8/12/2022 14:08:30
+[Metodo]: System.ArgumentException: Buffer retornó 0
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 119
+[CustomError]: FIN 
+[CustomError]: 8/12/2022 14:08:30
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 8/12/2022 14:08:30
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 

@@ -1,0 +1,183 @@
+[CustomError]: 19/11/2020 8:31:56
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 8:39:12
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 8:42:03
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 8:45:30
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 8:46:02
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 8:46:32
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 8:47:11
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 8:50:25
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 8:54:08
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 8:54:31
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 8:54:40
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 8:55:19
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 8:55:26
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 9:07:19
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 9:09:09
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 9:11:45
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 9:12:17
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 9:17:28
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 9:19:34
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 9:20:42
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 9:21:14
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 9:25:40
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 9:26:38
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 9:28:32
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 9:29:34
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 9:30:02
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 9:44:04
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 9:54:35
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 10:03:53
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 10:10:34
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 10:15:12
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 10:15:34
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 10:18:07
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 10:18:26
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 10:20:01
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 10:21:40
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 10:23:07
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 10:24:59
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 10:25:11
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 10:26:49
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 10:28:02
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 10:28:30
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 10:28:35
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 10:28:47
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 10:29:03
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 10:30:13
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 10:38:03
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 10:38:40
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 10:40:44
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 10:40:52
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 10:41:17
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 10:41:29
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 10:41:34
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 10:41:43
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 10:42:06
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 10:44:08
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 10:49:00
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 10:49:26
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 10:53:24
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 11:05:07
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 
+[CustomError]: 19/11/2020 11:24:11
+[Metodo]: estado del xmlValida Correo0308202001099244650100110010010000223788566483310-2 Compañia: 1
+[CustomError]: FIN 

@@ -1,0 +1,30 @@
+[CustomError]: 27/09/2021 10:54:18 a. m.
+[Metodo]: Documentos Procesados: 
+[CustomError]: FIN 
+[CustomError]: 27/09/2021 10:54:23 a. m.
+[Metodo]: ReprocesoDoc--No hay Documentos si procesar
+[CustomError]: FIN 
+[CustomError]: 27/09/2021 10:54:25 a. m.
+[Metodo]: ReprocesoDoc--No hay Documentos si procesar
+[CustomError]: FIN 
+[CustomError]: 27/09/2021 10:54:27 a. m.
+[Metodo]: ReprocesoDoc--No hay Documentos si procesar
+[CustomError]: FIN 
+[CustomError]: 27/09/2021 10:54:34 a. m.
+[Metodo]: ReprocesoDoc--No hay Documentos si procesar
+[CustomError]: FIN 
+[CustomError]: 27/09/2021 11:37:51 a. m.
+[Metodo]: Documentos Procesados: 1507202101099244650100110010010000072332838824015 | RE | | 
+[CustomError]: FIN 
+[CustomError]: 27/09/2021 11:47:05 a. m.
+[Metodo]: ReprocesoDoc--No hay Documentos si procesar
+[CustomError]: FIN 
+[CustomError]: 27/09/2021 11:47:05 a. m.
+[Metodo]: ReprocesoDoc--No hay Documentos si procesar
+[CustomError]: FIN 
+[CustomError]: 27/09/2021 11:47:05 a. m.
+[Metodo]: ReprocesoDoc--No hay Documentos si procesar
+[CustomError]: FIN 
+[CustomError]: 27/09/2021 11:47:05 a. m.
+[Metodo]: ReprocesoDoc--No hay Documentos si procesar
+[CustomError]: FIN 

@@ -1,0 +1,342 @@
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\mongocrypt.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocFirma.LogicaNegocios.dll.config
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocFirma.LogicaNegocios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocFirma.LogicaNegocios.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\eSign.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.Core.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.Security.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.Sign.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.Text.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.Util.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.XML.API.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.XML.Parse.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.XML.Transform.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.XML.XPath.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.Runtime.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.LogicaNegocios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocLogMongoDB.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\MongoDB.Driver.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\MongoDB.Bson.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\MongoDB.Driver.Core.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\MongoDB.Libmongocrypt.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\DnsClient.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\SharpCompress.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\Snappy.NET.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\System.Buffers.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\Crc32C.NET.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.LogicaNegocios.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.LogicaNegocios.dll.config
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocLogMongoDB.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocLogMongoDB.dll.config
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\DnsClient.xml
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\Snappy.NET.xml
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\System.Buffers.xml
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\Crc32C.NET.xml
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\obj\Release\ViaDocFirma.LogicaNegocios.csprojAssemblyReference.cache
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\obj\Release\ViaDocFirma.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\obj\Release\ViaDocFirma.LogicaNegocios.csproj.CopyComplete
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\obj\Release\ViaDocFirma.LogicaNegocios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocFirma.LogicaNegocios\obj\Release\ViaDocFirma.LogicaNegocios.pdb
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\mongocrypt.dll
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocFirma.LogicaNegocios.dll.config
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocFirma.LogicaNegocios.dll
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocFirma.LogicaNegocios.pdb
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\eSign.dll
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.Core.dll
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.Security.dll
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.Sign.dll
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.Text.dll
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.Util.dll
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.XML.API.dll
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.XML.Parse.dll
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.XML.Transform.dll
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.XML.XPath.dll
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.Runtime.dll
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.dll
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.dll
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.LogicaNegocios.dll
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.dll
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocLogMongoDB.dll
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\MongoDB.Driver.dll
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\MongoDB.Bson.dll
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\MongoDB.Driver.Core.dll
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\MongoDB.Libmongocrypt.dll
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\DnsClient.dll
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\SharpCompress.dll
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\Snappy.NET.dll
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\System.Buffers.dll
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\Crc32C.NET.dll
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.pdb
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.pdb
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.LogicaNegocios.pdb
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.LogicaNegocios.dll.config
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.pdb
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocLogMongoDB.pdb
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocLogMongoDB.dll.config
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\DnsClient.xml
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\Snappy.NET.xml
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\System.Buffers.xml
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\bin\Release\Crc32C.NET.xml
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\obj\Release\ViaDocFirma.LogicaNegocios.csprojAssemblyReference.cache
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\obj\Release\ViaDocFirma.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\obj\Release\ViaDocFirma.LogicaNegocios.csproj.CopyComplete
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\obj\Release\ViaDocFirma.LogicaNegocios.dll
+C:\FacturacionElectronica\ViaDocFirma.LogicaNegocios\obj\Release\ViaDocFirma.LogicaNegocios.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\mongocrypt.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocFirma.LogicaNegocios.dll.config
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocFirma.LogicaNegocios.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocFirma.LogicaNegocios.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\eSign.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.Core.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.Security.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.Sign.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.Text.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.Util.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.XML.API.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.Runtime.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.LogicaNegocios.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocLogMongoDB.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\MongoDB.Driver.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\MongoDB.Bson.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\MongoDB.Driver.Core.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\MongoDB.Libmongocrypt.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\DnsClient.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\SharpCompress.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\Snappy.NET.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\System.Buffers.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\Crc32C.NET.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.LogicaNegocios.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.LogicaNegocios.dll.config
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocLogMongoDB.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocLogMongoDB.dll.config
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\DnsClient.xml
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\Snappy.NET.xml
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\System.Buffers.xml
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\Crc32C.NET.xml
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\obj\Release\ViaDocFirma.LogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\obj\Release\ViaDocFirma.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\obj\Release\ViaDocFirma.LogicaNegocios.csproj.CopyComplete
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\obj\Release\ViaDocFirma.LogicaNegocios.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\obj\Release\ViaDocFirma.LogicaNegocios.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\mongocrypt.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocFirma.LogicaNegocios.dll.config
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocFirma.LogicaNegocios.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocFirma.LogicaNegocios.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\eSign.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.Core.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.Security.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.Sign.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.Text.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.Util.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.XML.API.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.Runtime.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.LogicaNegocios.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocLogMongoDB.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\MongoDB.Driver.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\MongoDB.Bson.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\MongoDB.Driver.Core.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\MongoDB.Libmongocrypt.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\DnsClient.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\SharpCompress.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\Snappy.NET.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\System.Buffers.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\Crc32C.NET.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.LogicaNegocios.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.LogicaNegocios.dll.config
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocLogMongoDB.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocLogMongoDB.dll.config
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\DnsClient.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\Snappy.NET.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\System.Buffers.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\Crc32C.NET.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\obj\Release\ViaDocFirma.LogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\obj\Release\ViaDocFirma.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\obj\Release\ViaDocFirma.LogicaNegocios.csproj.CopyComplete
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\obj\Release\ViaDocFirma.LogicaNegocios.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\obj\Release\ViaDocFirma.LogicaNegocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\mongocrypt.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocFirma.LogicaNegocios.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocFirma.LogicaNegocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocFirma.LogicaNegocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\eSign.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.Core.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.Security.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.Sign.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.Text.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.Util.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.XML.API.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.Runtime.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.LogicaNegocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocLogMongoDB.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\MongoDB.Driver.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\MongoDB.Bson.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\MongoDB.Driver.Core.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\MongoDB.Libmongocrypt.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\DnsClient.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\SharpCompress.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\Snappy.NET.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\System.Buffers.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\Crc32C.NET.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.LogicaNegocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.LogicaNegocios.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocLogMongoDB.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocLogMongoDB.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\DnsClient.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\Snappy.NET.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\System.Buffers.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\Crc32C.NET.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\obj\Release\ViaDocFirma.LogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\obj\Release\ViaDocFirma.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\obj\Release\ViaDocFirma.LogicaNegocios.csproj.CopyComplete
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\obj\Release\ViaDocFirma.LogicaNegocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\obj\Release\ViaDocFirma.LogicaNegocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\mongocrypt.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocFirma.LogicaNegocios.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocFirma.LogicaNegocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocFirma.LogicaNegocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\eSign.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.Core.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.Security.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.Sign.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.Text.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.Util.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.XML.API.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.Runtime.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.LogicaNegocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocLogMongoDB.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\MongoDB.Driver.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\MongoDB.Bson.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\MongoDB.Driver.Core.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\MongoDB.Libmongocrypt.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\DnsClient.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\SharpCompress.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\Snappy.NET.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\System.Buffers.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\Crc32C.NET.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.LogicaNegocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.LogicaNegocios.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocLogMongoDB.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocLogMongoDB.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\DnsClient.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\Snappy.NET.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\System.Buffers.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\Crc32C.NET.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\obj\Release\ViaDocFirma.LogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\obj\Release\ViaDocFirma.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\obj\Release\ViaDocFirma.LogicaNegocios.csproj.CopyComplete
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\obj\Release\ViaDocFirma.LogicaNegocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\obj\Release\ViaDocFirma.LogicaNegocios.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\mongocrypt.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocFirma.LogicaNegocios.dll.config
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocFirma.LogicaNegocios.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocFirma.LogicaNegocios.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\eSign.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.Core.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.Security.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.Sign.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.Text.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.Util.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.XML.API.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.XML.Parse.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.XML.Transform.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.OpenJDK.XML.XPath.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\IKVM.Runtime.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.LogicaNegocios.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocLogMongoDB.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\MongoDB.Driver.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\MongoDB.Bson.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\MongoDB.Driver.Core.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\MongoDB.Libmongocrypt.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\DnsClient.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\SharpCompress.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\Snappy.NET.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\System.Buffers.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\Crc32C.NET.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.LogicaNegocios.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.LogicaNegocios.dll.config
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocLogMongoDB.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\ViaDocLogMongoDB.dll.config
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\DnsClient.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\Snappy.NET.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\System.Buffers.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\bin\Release\Crc32C.NET.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\obj\Release\ViaDocFirma.LogicaNegocios.csproj.AssemblyReference.cache
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\obj\Release\ViaDocFirma.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\obj\Release\ViaDocFi.A9AE9550.Up2Date
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\obj\Release\ViaDocFirma.LogicaNegocios.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\obj\Release\ViaDocFirma.LogicaNegocios.pdb

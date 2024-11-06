@@ -1,0 +1,105 @@
+﻿@using ViaDoc.EntidadNegocios;
+
+@{
+    ViewBag.Title = "Generar Ride";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (ViewData["mensajeError"] != null)
+{
+    <script type="text/javascript">
+        var respuesta = '@Html.Encode(ViewData["mensajeError"].ToString())';
+        llamaModal('warning', respuesta, 2500);
+    </script>
+}
+
+
+<section class="content">
+    <section class="content-header" style="padding-bottom:5px; padding-top:8px">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="#">Utilitarios</a></li>
+                        <li class="breadcrumb-item active">Autorizar Documentos</li>
+                    </ol>
+                </div>
+                <div class="col-sm-6">
+
+                </div>
+            </div>
+        </div><!-- /.container-fluid -->
+    </section>
+
+    <div class="container-fluid">
+        <div class="card card-success">
+            <div class="card-header">
+                <h3 class="card-title">Filtros de Búsquedas</h3>
+                <div class="card-tools">
+                    <button type="button" class="btn btn-tool" data-card-widget="collapse">
+                        <i class="fas fa-minus"></i>
+                    </button>
+                </div>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-sm-4">
+                        <div class="form-group">
+                            <label>Compañía:</label>
+                            <select id="txtIdEmpresa" class="form-control js-example-basic-single">
+                                @if (ViewData["listEmpresas"] != null)
+                                {
+                                    foreach (CatCompania item in ViewData["listEmpresas"] as List<CatCompania>)
+                                    {
+                                        <option value="@item.razonSocial">@item.nombreComercial</option>
+
+                                    }
+                                }
+                                </select>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="form-group">
+                            <label>Tipo Documento:</label>
+                            <select id="txtIdTipoDocumento" class="form-control js-example-basic-single">
+                                @if (ViewData["listDocumentos"] != null)
+                                {
+                                    foreach (CatDocumento item in ViewData["listDocumentos"] as List<CatDocumento>)
+                                    {
+                                        <option value="@item.idTipoDocumento">@item.descripcion</option>
+                                    }
+                                }
+                                </select>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="form-group">
+                            <label>Número de Documentos</label>
+                            <input id="txtNumDocumento" type="text" class="form-control" placeholder="Ejem. 001-001-000000001">
+                        </div>
+                    </div>
+                </div>
+                <center>
+                    <div class="col-sm-3">
+                        <input type="button" id="
+                               " class="btn btn-block btn-primary" value="Buscar" onclick="CargarDocumentosAutorizar()" />
+                    </div>
+                </center>
+            </div>
+        </div>
+    </div>
+
+    <section class="content-header" style="padding-top:0px">
+        <div id="divGrigDocumentosAutorizar">
+        </div>
+    </section>
+
+</section>
+<script>
+    $(document).ready(function () {
+         CargarDocumentosAutorizar();
+
+    });
+
+</script>
+

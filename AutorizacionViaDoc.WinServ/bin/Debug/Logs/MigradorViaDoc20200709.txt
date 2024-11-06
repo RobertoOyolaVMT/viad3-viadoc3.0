@@ -1,0 +1,27 @@
+[CustomError]: 09/07/2020 15:35:29
+[Metodo]: 1
+[CustomError]: FIN 
+[CustomError]: 09/07/2020 15:35:30
+[Metodo]: 3
+[CustomError]: FIN 
+[CustomError]: 09/07/2020 15:35:30
+[Metodo]: 4
+[CustomError]: FIN 
+[CustomError]: 09/07/2020 15:35:31
+[Metodo]: 5
+[CustomError]: FIN 
+[CustomError]: 09/07/2020 15:35:33
+[Metodo]: 6
+[CustomError]: FIN 
+[CustomError]: 09/07/2020 15:35:37
+[Metodo]: 
+[CustomError]: FIN 
+[CustomError]: 09/07/2020 15:35:49
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 09/07/2020 15:35:52
+[Metodo]: 8
+[CustomError]: FIN 
+[CustomError]: 09/07/2020 15:35:53
+[Metodo]: 9
+[CustomError]: FIN 

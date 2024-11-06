@@ -1,0 +1,1202 @@
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.csprojAssemblyReference.cache
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.csproj.CoreCompileInputs.cache
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\mongocrypt.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ApplicationInsights.config
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDoc.ServicioWcf.dll.config
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDoc.ServicioWcf.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDoc.ServicioWcf.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Microsoft.AI.Agent.Intercept.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Microsoft.AI.DependencyCollector.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Microsoft.AI.Web.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Microsoft.AI.WindowsServer.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Microsoft.ApplicationInsights.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Newtonsoft.Json.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDoc.AccesoDatos.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDoc.EntidadNegocios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDoc.LogicaNegocios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDoc.Utilitarios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDocLogMongoDB.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDoc.Configuraciones.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\MongoDB.Driver.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\MongoDB.Bson.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\MongoDB.Driver.Core.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\MongoDB.Libmongocrypt.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\DnsClient.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\SharpCompress.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Snappy.NET.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\System.Buffers.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Crc32C.NET.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDoc.AccesoDatos.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDoc.EntidadNegocios.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDoc.LogicaNegocios.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDoc.Utilitarios.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDocLogMongoDB.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDocLogMongoDB.dll.config
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Microsoft.AI.DependencyCollector.xml
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Microsoft.AI.Web.xml
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Microsoft.AI.WindowsServer.xml
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Microsoft.ApplicationInsights.xml
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDoc.Configuraciones.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDoc.Configuraciones.dll.config
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\DnsClient.xml
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Snappy.NET.xml
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\System.Buffers.xml
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Crc32C.NET.xml
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.csproj.CopyComplete
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDoc.LogicaNegocios.dll.config
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\mongocrypt.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ApplicationInsights.config
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDoc.ServicioWcf.dll.config
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDoc.ServicioWcf.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDoc.ServicioWcf.pdb
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Microsoft.AI.Agent.Intercept.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Microsoft.AI.DependencyCollector.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Microsoft.AI.Web.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Microsoft.AI.WindowsServer.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Microsoft.ApplicationInsights.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Newtonsoft.Json.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDoc.AccesoDatos.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDoc.EntidadNegocios.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDoc.LogicaNegocios.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDoc.Utilitarios.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDocLogMongoDB.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDoc.Configuraciones.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\MongoDB.Driver.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\MongoDB.Bson.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\MongoDB.Driver.Core.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\MongoDB.Libmongocrypt.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\DnsClient.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\SharpCompress.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Snappy.NET.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\System.Buffers.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Crc32C.NET.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDoc.AccesoDatos.pdb
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDoc.EntidadNegocios.pdb
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDoc.LogicaNegocios.pdb
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDoc.LogicaNegocios.dll.config
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDoc.Utilitarios.pdb
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDocLogMongoDB.pdb
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDocLogMongoDB.dll.config
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Microsoft.AI.DependencyCollector.xml
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Microsoft.AI.Web.xml
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Microsoft.AI.WindowsServer.xml
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Microsoft.ApplicationInsights.xml
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDoc.Configuraciones.pdb
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDoc.Configuraciones.dll.config
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\DnsClient.xml
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Snappy.NET.xml
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\System.Buffers.xml
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Crc32C.NET.xml
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.csprojAssemblyReference.cache
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.csproj.CoreCompileInputs.cache
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.csproj.CopyComplete
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.pdb
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\roslyn\csc.exe
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\roslyn\csc.exe.config
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\roslyn\csc.rsp
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\roslyn\csi.exe
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\roslyn\csi.rsp
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\roslyn\System.AppContext.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\roslyn\System.Collections.Immutable.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\roslyn\System.IO.FileSystem.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\roslyn\System.Reflection.Metadata.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\roslyn\vbc.exe
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\roslyn\vbc.exe.config
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\roslyn\vbc.rsp
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\roslyn\VBCSCompiler.exe
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\roslyn\VBCSCompiler.exe.config
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ReportesViaDoc.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDocEnvioCorreo.Negocios.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\CodeQR.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.WebForms.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.WinForms.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\itextsharp.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\GenCode128.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.Common.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\BouncyCastle.Crypto.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ReportesViaDoc.pdb
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ReportesViaDoc.dll.config
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDocEnvioCorreo.Negocios.pdb
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\ViaDocEnvioCorreo.Negocios.dll.config
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\itextsharp.xml
+C:\FacturacionElectronica\ViaDoc.ServicioWcf\bin\BouncyCastle.Crypto.xml
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ApplicationInsights.config
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\mongocrypt.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.ServicioWcf.dll.config
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.ServicioWcf.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.ServicioWcf.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csc.exe
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csc.exe.config
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csc.rsp
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csi.exe
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csi.rsp
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.AppContext.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\vbc.exe
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\vbc.exe.config
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\vbc.rsp
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\VBCSCompiler.exe
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.Web.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Newtonsoft.Json.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ReportesViaDoc.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.AccesoDatos.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.EntidadNegocios.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.LogicaNegocios.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Utilitarios.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocEnvioCorreo.Negocios.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocLogMongoDB.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\CodeQR.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\itextsharp.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Configuraciones.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\GenCode128.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MongoDB.Driver.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MongoDB.Bson.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MongoDB.Driver.Core.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\BouncyCastle.Crypto.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MongoDB.Libmongocrypt.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\DnsClient.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\SharpCompress.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Snappy.NET.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Buffers.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Crc32C.NET.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ReportesViaDoc.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ReportesViaDoc.dll.config
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.AccesoDatos.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.EntidadNegocios.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.LogicaNegocios.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.LogicaNegocios.dll.config
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Utilitarios.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocEnvioCorreo.Negocios.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocEnvioCorreo.Negocios.dll.config
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocLogMongoDB.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocLogMongoDB.dll.config
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.Web.xml
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\itextsharp.xml
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Configuraciones.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Configuraciones.dll.config
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\BouncyCastle.Crypto.xml
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\DnsClient.xml
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Snappy.NET.xml
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Buffers.xml
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Crc32C.NET.xml
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.csproj.AssemblyReference.cache
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.csproj.CoreCompileInputs.cache
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.csproj.CopyComplete
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.csproj.AssemblyReference.cache
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.csproj.CoreCompileInputs.cache
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\mongocrypt.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ApplicationInsights.config
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.ServicioWcf.dll.config
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.ServicioWcf.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.ServicioWcf.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csc.exe
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csc.exe.config
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csc.rsp
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csi.exe
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csi.rsp
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.AppContext.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\vbc.exe
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\vbc.exe.config
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\vbc.rsp
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\VBCSCompiler.exe
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.Web.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Newtonsoft.Json.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ReportesViaDoc.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.AccesoDatos.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.EntidadNegocios.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.LogicaNegocios.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Utilitarios.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocEnvioCorreo.Negocios.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocLogMongoDB.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\CodeQR.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\itextsharp.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Configuraciones.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\GenCode128.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MimeKit.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MailKit.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MongoDB.Driver.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MongoDB.Bson.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MongoDB.Driver.Core.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Memory.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\BouncyCastle.Crypto.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Buffers.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MongoDB.Libmongocrypt.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\DnsClient.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\SharpCompress.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Snappy.NET.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Crc32C.NET.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ReportesViaDoc.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ReportesViaDoc.dll.config
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.AccesoDatos.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.EntidadNegocios.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.LogicaNegocios.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.LogicaNegocios.dll.config
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Utilitarios.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocEnvioCorreo.Negocios.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocEnvioCorreo.Negocios.dll.config
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocLogMongoDB.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocLogMongoDB.dll.config
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.Web.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\itextsharp.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Configuraciones.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Configuraciones.dll.config
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MimeKit.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MimeKit.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MailKit.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MailKit.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Memory.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\BouncyCastle.Crypto.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Buffers.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\DnsClient.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Snappy.NET.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Crc32C.NET.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.csproj.CopyComplete
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ApplicationInsights.config
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\mongocrypt.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.ServicioWcf.dll.config
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.ServicioWcf.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.ServicioWcf.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csc.exe.config
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csc.rsp
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csi.exe
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csi.rsp
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\vbc.rsp
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.Web.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ReportesViaDoc.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.AccesoDatos.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.EntidadNegocios.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.LogicaNegocios.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Utilitarios.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocEnvioCorreo.Negocios.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocLogMongoDB.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\CodeQR.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\itextsharp.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Configuraciones.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\GenCode128.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MimeKit.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MailKit.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MongoDB.Driver.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MongoDB.Bson.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MongoDB.Driver.Core.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Memory.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\BouncyCastle.Crypto.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Buffers.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MongoDB.Libmongocrypt.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\DnsClient.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\SharpCompress.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Snappy.NET.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Crc32C.NET.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ReportesViaDoc.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ReportesViaDoc.dll.config
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.AccesoDatos.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.EntidadNegocios.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.LogicaNegocios.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.LogicaNegocios.dll.config
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Utilitarios.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocEnvioCorreo.Negocios.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocEnvioCorreo.Negocios.dll.config
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocLogMongoDB.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocLogMongoDB.dll.config
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.Web.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\itextsharp.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Configuraciones.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Configuraciones.dll.config
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MimeKit.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MimeKit.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MailKit.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MailKit.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Memory.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\BouncyCastle.Crypto.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Buffers.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\DnsClient.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Snappy.NET.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Crc32C.NET.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.csproj.CopyComplete
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ApplicationInsights.config
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\mongocrypt.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.ServicioWcf.dll.config
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.ServicioWcf.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.ServicioWcf.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csc.exe
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csc.exe.config
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csc.rsp
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csi.exe
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csi.rsp
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.AppContext.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\vbc.exe
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\vbc.exe.config
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\vbc.rsp
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\VBCSCompiler.exe
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.Web.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ReportesViaDoc.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.AccesoDatos.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.EntidadNegocios.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.LogicaNegocios.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Utilitarios.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocEnvioCorreo.Negocios.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocLogMongoDB.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\CodeQR.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\itextsharp.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Configuraciones.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\GenCode128.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MimeKit.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MailKit.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MongoDB.Driver.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MongoDB.Bson.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MongoDB.Driver.Core.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Memory.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\BouncyCastle.Crypto.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Buffers.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MongoDB.Libmongocrypt.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\DnsClient.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\SharpCompress.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Snappy.NET.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Crc32C.NET.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ReportesViaDoc.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ReportesViaDoc.dll.config
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.AccesoDatos.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.EntidadNegocios.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.LogicaNegocios.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.LogicaNegocios.dll.config
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Utilitarios.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocEnvioCorreo.Negocios.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocEnvioCorreo.Negocios.dll.config
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocLogMongoDB.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocLogMongoDB.dll.config
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.Web.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\itextsharp.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Configuraciones.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Configuraciones.dll.config
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MimeKit.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MimeKit.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MailKit.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MailKit.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Memory.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\BouncyCastle.Crypto.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Buffers.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\DnsClient.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Snappy.NET.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Crc32C.NET.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.csproj.CopyComplete
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ApplicationInsights.config
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\mongocrypt.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.ServicioWcf.dll.config
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.ServicioWcf.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.ServicioWcf.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csc.exe
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csc.exe.config
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csc.rsp
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csi.exe
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csi.rsp
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\vbc.exe
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\vbc.exe.config
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\vbc.rsp
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.Web.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ReportesViaDoc.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.AccesoDatos.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.EntidadNegocios.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.LogicaNegocios.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Utilitarios.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocEnvioCorreo.Negocios.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocLogMongoDB.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\CodeQR.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\itextsharp.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Configuraciones.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\GenCode128.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MimeKit.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MailKit.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MongoDB.Driver.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MongoDB.Bson.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MongoDB.Driver.Core.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Memory.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\BouncyCastle.Crypto.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Buffers.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MongoDB.Libmongocrypt.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\DnsClient.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\SharpCompress.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Snappy.NET.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Crc32C.NET.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ReportesViaDoc.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ReportesViaDoc.dll.config
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.AccesoDatos.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.EntidadNegocios.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.LogicaNegocios.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.LogicaNegocios.dll.config
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Utilitarios.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocEnvioCorreo.Negocios.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocEnvioCorreo.Negocios.dll.config
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocLogMongoDB.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocLogMongoDB.dll.config
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.Web.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\itextsharp.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Configuraciones.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Configuraciones.dll.config
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MimeKit.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MimeKit.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MailKit.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MailKit.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Memory.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\BouncyCastle.Crypto.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Buffers.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\DnsClient.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Snappy.NET.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Crc32C.NET.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.csproj.CopyComplete
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ApplicationInsights.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\mongocrypt.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.ServicioWcf.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.ServicioWcf.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.ServicioWcf.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csc.exe
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csc.exe.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csc.rsp
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csi.exe
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csi.rsp
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.AppContext.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\vbc.exe
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\vbc.exe.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\vbc.rsp
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\VBCSCompiler.exe
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.Web.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.Toolkit.HighPerformance.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Newtonsoft.Json.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ReportesViaDoc.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Buffers.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Memory.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Numerics.Vectors.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.AccesoDatos.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.EntidadNegocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.LogicaNegocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Utilitarios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocEnvioCorreo.Negocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocLogMongoDB.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\CodeQR.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\itextsharp.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Configuraciones.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\GenCode128.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MimeKit.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MailKit.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MongoDB.Driver.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MongoDB.Bson.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MongoDB.Driver.Core.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\BouncyCastle.Cryptography.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\BouncyCastle.Crypto.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MongoDB.Libmongocrypt.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\DnsClient.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\SharpCompress.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Snappy.NET.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Crc32C.NET.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ReportesViaDoc.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ReportesViaDoc.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.AccesoDatos.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.EntidadNegocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.LogicaNegocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.LogicaNegocios.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Utilitarios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocEnvioCorreo.Negocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocEnvioCorreo.Negocios.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocLogMongoDB.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocLogMongoDB.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.DependencyCollector.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.PerfCounterCollector.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.PerfCounterCollector.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.ServerTelemetryChannel.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.Web.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.Web.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.WindowsServer.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ApplicationInsights.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.Toolkit.HighPerformance.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.Toolkit.HighPerformance.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Buffers.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Memory.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Numerics.Vectors.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\itextsharp.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Configuraciones.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Configuraciones.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MimeKit.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MimeKit.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MimeKit.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MailKit.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MailKit.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\BouncyCastle.Cryptography.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\BouncyCastle.Crypto.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\DnsClient.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Snappy.NET.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Crc32C.NET.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.csproj.CopyComplete
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ApplicationInsights.config
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\mongocrypt.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.ServicioWcf.dll.config
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.ServicioWcf.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.ServicioWcf.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csc.exe
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csc.exe.config
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csc.rsp
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csi.exe
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csi.rsp
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.AppContext.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\vbc.exe
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\vbc.exe.config
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\vbc.rsp
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.Web.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.Toolkit.HighPerformance.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Newtonsoft.Json.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ReportesViaDoc.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Buffers.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Memory.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Numerics.Vectors.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.AccesoDatos.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.EntidadNegocios.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.LogicaNegocios.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Utilitarios.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocEnvioCorreo.Negocios.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocLogMongoDB.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\CodeQR.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\itextsharp.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Configuraciones.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\GenCode128.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MimeKit.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MailKit.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MongoDB.Driver.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MongoDB.Bson.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MongoDB.Driver.Core.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\BouncyCastle.Cryptography.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\BouncyCastle.Crypto.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MongoDB.Libmongocrypt.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\DnsClient.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\SharpCompress.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Snappy.NET.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Crc32C.NET.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ReportesViaDoc.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ReportesViaDoc.dll.config
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.AccesoDatos.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.EntidadNegocios.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.LogicaNegocios.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.LogicaNegocios.dll.config
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Utilitarios.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocEnvioCorreo.Negocios.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocEnvioCorreo.Negocios.dll.config
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocLogMongoDB.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocLogMongoDB.dll.config
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.DependencyCollector.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.PerfCounterCollector.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.PerfCounterCollector.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.ServerTelemetryChannel.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.Web.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.Web.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.WindowsServer.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ApplicationInsights.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.Toolkit.HighPerformance.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.Toolkit.HighPerformance.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Buffers.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Memory.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Numerics.Vectors.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\itextsharp.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Configuraciones.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Configuraciones.dll.config
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MimeKit.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MimeKit.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MimeKit.dll.config
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MailKit.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MailKit.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\BouncyCastle.Cryptography.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\BouncyCastle.Crypto.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\DnsClient.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Snappy.NET.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Crc32C.NET.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.csproj.AssemblyReference.cache
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.csproj.CopyComplete
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ApplicationInsights.config
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\mongocrypt.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.ServicioWcf.dll.config
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.ServicioWcf.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.ServicioWcf.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csc.exe
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csc.exe.config
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csc.rsp
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csi.exe
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csi.rsp
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.AppContext.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.Collections.Immutable.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.IO.FileSystem.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.Reflection.Metadata.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\vbc.exe
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\vbc.exe.config
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\vbc.rsp
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\VBCSCompiler.exe
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\VBCSCompiler.exe.config
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.Agent.Intercept.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.DependencyCollector.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.Web.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.WindowsServer.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ApplicationInsights.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.Bcl.HashCode.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.Toolkit.HighPerformance.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Newtonsoft.Json.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ReportesViaDoc.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Buffers.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Diagnostics.DiagnosticSource.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Memory.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Numerics.Vectors.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Threading.Tasks.Extensions.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.AccesoDatos.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.EntidadNegocios.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.LogicaNegocios.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Utilitarios.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocEnvioCorreo.Negocios.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocLogMongoDB.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\CodeQR.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.WebForms.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.WinForms.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\itextsharp.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Configuraciones.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\GenCode128.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MimeKit.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MailKit.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\EPPlus.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MongoDB.Driver.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MongoDB.Bson.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MongoDB.Driver.Core.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.Common.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\BouncyCastle.Cryptography.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\BouncyCastle.Crypto.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MongoDB.Libmongocrypt.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\DnsClient.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\SharpCompress.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Snappy.NET.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Crc32C.NET.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ReportesViaDoc.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ReportesViaDoc.dll.config
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.AccesoDatos.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.EntidadNegocios.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.LogicaNegocios.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.LogicaNegocios.dll.config
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Utilitarios.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocEnvioCorreo.Negocios.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocEnvioCorreo.Negocios.dll.config
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocLogMongoDB.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocLogMongoDB.dll.config
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.DependencyCollector.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.DependencyCollector.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.PerfCounterCollector.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.PerfCounterCollector.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.ServerTelemetryChannel.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.Web.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.Web.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.WindowsServer.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.WindowsServer.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ApplicationInsights.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ApplicationInsights.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.Bcl.HashCode.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.Toolkit.HighPerformance.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.Toolkit.HighPerformance.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Buffers.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Diagnostics.DiagnosticSource.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Memory.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Numerics.Vectors.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Threading.Tasks.Extensions.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\itextsharp.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Configuraciones.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Configuraciones.dll.config
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MimeKit.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MimeKit.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MimeKit.dll.config
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MailKit.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MailKit.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\EPPlus.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\BouncyCastle.Cryptography.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\BouncyCastle.Crypto.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\DnsClient.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Snappy.NET.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Crc32C.NET.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.csproj.AssemblyReference.cache
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.csproj.CoreCompileInputs.cache
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.csproj.CopyComplete
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ApplicationInsights.config
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\mongocrypt.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.ServicioWcf.dll.config
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.ServicioWcf.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.ServicioWcf.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csc.exe
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csc.exe.config
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csc.rsp
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csi.exe
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\csi.rsp
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.AppContext.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.Collections.Immutable.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.IO.FileSystem.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\System.Reflection.Metadata.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\vbc.exe
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\vbc.exe.config
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\vbc.rsp
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\VBCSCompiler.exe
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\roslyn\VBCSCompiler.exe.config
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.DependencyCollector.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.Web.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.WindowsServer.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ApplicationInsights.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.Bcl.HashCode.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.Toolkit.HighPerformance.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Newtonsoft.Json.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ReportesViaDoc.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Buffers.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Memory.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Numerics.Vectors.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Threading.Tasks.Extensions.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.AccesoDatos.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.EntidadNegocios.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.LogicaNegocios.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Utilitarios.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocEnvioCorreo.Negocios.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocLogMongoDB.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\CodeQR.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.WebForms.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.WinForms.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\itextsharp.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Configuraciones.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\GenCode128.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MimeKit.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MailKit.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\EPPlus.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MongoDB.Driver.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MongoDB.Bson.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MongoDB.Driver.Core.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.Common.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\BouncyCastle.Cryptography.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\BouncyCastle.Crypto.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MongoDB.Libmongocrypt.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\DnsClient.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\SharpCompress.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Snappy.NET.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ReportViewer.DataVisualization.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Crc32C.NET.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ReportesViaDoc.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ReportesViaDoc.dll.config
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.AccesoDatos.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.EntidadNegocios.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.LogicaNegocios.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.LogicaNegocios.dll.config
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Utilitarios.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocEnvioCorreo.Negocios.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocEnvioCorreo.Negocios.dll.config
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocLogMongoDB.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDocLogMongoDB.dll.config
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.DependencyCollector.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.DependencyCollector.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.PerfCounterCollector.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.PerfCounterCollector.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.ServerTelemetryChannel.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.Web.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.Web.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.WindowsServer.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AI.WindowsServer.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ApplicationInsights.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.ApplicationInsights.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.Bcl.HashCode.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.Toolkit.HighPerformance.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Microsoft.Toolkit.HighPerformance.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Buffers.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Memory.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Numerics.Vectors.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\System.Threading.Tasks.Extensions.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\itextsharp.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Configuraciones.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\ViaDoc.Configuraciones.dll.config
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MimeKit.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MimeKit.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MimeKit.dll.config
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MailKit.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\MailKit.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\EPPlus.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\BouncyCastle.Cryptography.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\BouncyCastle.Crypto.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\DnsClient.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Snappy.NET.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\bin\Crc32C.NET.xml
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.csproj.AssemblyReference.cache
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.csproj.CoreCompileInputs.cache
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.S.083171D7.Up2Date
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.ServicioWcf\obj\Debug\ViaDoc.ServicioWcf.pdb

@@ -1,0 +1,3 @@
+[CustomError]: 31/10/2024 14:39:32
+[Metodo]: Mensaje 0Todo Correcto
+[CustomError]: FIN 

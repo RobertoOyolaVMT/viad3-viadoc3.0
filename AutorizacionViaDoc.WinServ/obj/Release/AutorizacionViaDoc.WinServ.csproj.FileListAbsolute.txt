@@ -1,0 +1,115 @@
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\AutorizacionViaDoc.WinServ\bin\Release\AutorizacionViaDoc.WinServ.exe.config
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\AutorizacionViaDoc.WinServ\bin\Release\AutorizacionViaDoc.WinServ.exe
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\AutorizacionViaDoc.WinServ\bin\Release\AutorizacionViaDoc.WinServ.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.AccesoDatos.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.Configuraciones.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.Utilitarios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\AutorizacionViaDoc.WinServ\bin\Release\ViaDocAutorizacion.LogicaNegocios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.EntidadNegocios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\AutorizacionViaDoc.WinServ\bin\Release\eSync.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.Configuraciones.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.Utilitarios.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\AutorizacionViaDoc.WinServ\bin\Release\ViaDocAutorizacion.LogicaNegocios.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.EntidadNegocios.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\AutorizacionViaDoc.WinServ\bin\Release\eSync.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\AutorizacionViaDoc.WinServ\obj\Release\AutorizacionViaDoc.WinServ.csprojAssemblyReference.cache
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\AutorizacionViaDoc.WinServ\obj\Release\AutorizacionViaDoc.WinServ.ProjectInstaller.resources
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\AutorizacionViaDoc.WinServ\obj\Release\AutorizacionViaDoc.WinServ.csproj.GenerateResource.cache
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\AutorizacionViaDoc.WinServ\obj\Release\AutorizacionViaDoc.WinServ.csproj.CoreCompileInputs.cache
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\AutorizacionViaDoc.WinServ\obj\Release\AutorizacionViaDoc.WinServ.csproj.CopyComplete
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\AutorizacionViaDoc.WinServ\obj\Release\AutorizacionViaDoc.WinServ.exe
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\AutorizacionViaDoc.WinServ\obj\Release\AutorizacionViaDoc.WinServ.pdb
+C:\FacturacionElectronica\AutorizacionViaDoc.WinServ\bin\Release\AutorizacionViaDoc.WinServ.exe.config
+C:\FacturacionElectronica\AutorizacionViaDoc.WinServ\bin\Release\AutorizacionViaDoc.WinServ.exe
+C:\FacturacionElectronica\AutorizacionViaDoc.WinServ\bin\Release\AutorizacionViaDoc.WinServ.pdb
+C:\FacturacionElectronica\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.AccesoDatos.dll
+C:\FacturacionElectronica\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.Configuraciones.dll
+C:\FacturacionElectronica\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.Utilitarios.dll
+C:\FacturacionElectronica\AutorizacionViaDoc.WinServ\bin\Release\ViaDocAutorizacion.LogicaNegocios.dll
+C:\FacturacionElectronica\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.EntidadNegocios.dll
+C:\FacturacionElectronica\AutorizacionViaDoc.WinServ\bin\Release\eSync.dll
+C:\FacturacionElectronica\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\FacturacionElectronica\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.Configuraciones.pdb
+C:\FacturacionElectronica\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\FacturacionElectronica\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.Utilitarios.pdb
+C:\FacturacionElectronica\AutorizacionViaDoc.WinServ\bin\Release\ViaDocAutorizacion.LogicaNegocios.pdb
+C:\FacturacionElectronica\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.EntidadNegocios.pdb
+C:\FacturacionElectronica\AutorizacionViaDoc.WinServ\bin\Release\eSync.pdb
+C:\FacturacionElectronica\AutorizacionViaDoc.WinServ\obj\Release\AutorizacionViaDoc.WinServ.csprojAssemblyReference.cache
+C:\FacturacionElectronica\AutorizacionViaDoc.WinServ\obj\Release\AutorizacionViaDoc.WinServ.ProjectInstaller.resources
+C:\FacturacionElectronica\AutorizacionViaDoc.WinServ\obj\Release\AutorizacionViaDoc.WinServ.csproj.GenerateResource.cache
+C:\FacturacionElectronica\AutorizacionViaDoc.WinServ\obj\Release\AutorizacionViaDoc.WinServ.csproj.CoreCompileInputs.cache
+C:\FacturacionElectronica\AutorizacionViaDoc.WinServ\obj\Release\AutorizacionViaDoc.WinServ.csproj.CopyComplete
+C:\FacturacionElectronica\AutorizacionViaDoc.WinServ\obj\Release\AutorizacionViaDoc.WinServ.exe
+C:\FacturacionElectronica\AutorizacionViaDoc.WinServ\obj\Release\AutorizacionViaDoc.WinServ.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\AutorizacionViaDoc.WinServ.exe.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\AutorizacionViaDoc.WinServ.exe
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\AutorizacionViaDoc.WinServ.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.AccesoDatos.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.Configuraciones.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.Utilitarios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\ViaDocAutorizacion.LogicaNegocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.EntidadNegocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\eSync.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.Configuraciones.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.Utilitarios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\ViaDocAutorizacion.LogicaNegocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.EntidadNegocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\eSync.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\obj\Release\AutorizacionViaDoc.WinServ.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\obj\Release\AutorizacionViaDoc.WinServ.ProjectInstaller.resources
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\obj\Release\AutorizacionViaDoc.WinServ.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\obj\Release\AutorizacionViaDoc.WinServ.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\obj\Release\AutorizacionViaDoc.WinServ.csproj.CopyComplete
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\obj\Release\AutorizacionViaDoc.WinServ.exe
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\obj\Release\AutorizacionViaDoc.WinServ.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\AutorizacionViaDoc.WinServ.exe.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\AutorizacionViaDoc.WinServ.exe
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\AutorizacionViaDoc.WinServ.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.AccesoDatos.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.Configuraciones.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.Utilitarios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\ViaDocAutorizacion.LogicaNegocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.EntidadNegocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\eSync.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.Configuraciones.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.Utilitarios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\ViaDocAutorizacion.LogicaNegocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.EntidadNegocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\eSync.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\obj\Release\AutorizacionViaDoc.WinServ.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\obj\Release\AutorizacionViaDoc.WinServ.ProjectInstaller.resources
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\obj\Release\AutorizacionViaDoc.WinServ.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\obj\Release\AutorizacionViaDoc.WinServ.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\obj\Release\AutorizacionViaDoc.WinServ.csproj.CopyComplete
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\obj\Release\AutorizacionViaDoc.WinServ.exe
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\obj\Release\AutorizacionViaDoc.WinServ.pdb
+C:\Viadoc\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\AutorizacionViaDoc.WinServ.exe.config
+C:\Viadoc\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\AutorizacionViaDoc.WinServ.exe
+C:\Viadoc\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\AutorizacionViaDoc.WinServ.pdb
+C:\Viadoc\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.AccesoDatos.dll
+C:\Viadoc\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.Configuraciones.dll
+C:\Viadoc\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.Utilitarios.dll
+C:\Viadoc\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\ViaDocAutorizacion.LogicaNegocios.dll
+C:\Viadoc\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.EntidadNegocios.dll
+C:\Viadoc\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\eSync.dll
+C:\Viadoc\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\Viadoc\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.Configuraciones.pdb
+C:\Viadoc\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\Viadoc\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.Utilitarios.pdb
+C:\Viadoc\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\ViaDocAutorizacion.LogicaNegocios.pdb
+C:\Viadoc\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\ViaDoc.EntidadNegocios.pdb
+C:\Viadoc\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\bin\Release\eSync.pdb
+C:\Viadoc\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\obj\Release\AutorizacionViaDoc.WinServ.csproj.AssemblyReference.cache
+C:\Viadoc\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\obj\Release\AutorizacionViaDoc.WinServ.ProjectInstaller.resources
+C:\Viadoc\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\obj\Release\AutorizacionViaDoc.WinServ.csproj.GenerateResource.cache
+C:\Viadoc\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\obj\Release\AutorizacionViaDoc.WinServ.csproj.CoreCompileInputs.cache
+C:\Viadoc\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\obj\Release\Autoriza.E8B6FB68.Up2Date
+C:\Viadoc\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\obj\Release\AutorizacionViaDoc.WinServ.exe
+C:\Viadoc\viad3-viadoc3.0\AutorizacionViaDoc.WinServ\obj\Release\AutorizacionViaDoc.WinServ.pdb

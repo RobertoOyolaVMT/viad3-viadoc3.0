@@ -1,0 +1,216 @@
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDocAutorizacion.LogicaNegocios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDocAutorizacion.LogicaNegocios.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\bin\Release\eSync.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\bin\Release\eSync.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.csprojAssemblyReference.cache
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.csproj.CopyComplete
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.pdb
+C:\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDocAutorizacion.LogicaNegocios.dll
+C:\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDocAutorizacion.LogicaNegocios.pdb
+C:\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\bin\Release\eSync.dll
+C:\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.dll
+C:\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll
+C:\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.dll
+C:\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.dll
+C:\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\bin\Release\eSync.pdb
+C:\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.pdb
+C:\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.pdb
+C:\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.pdb
+C:\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.csprojAssemblyReference.cache
+C:\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.csproj.CopyComplete
+C:\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.dll
+C:\FacturacionElectronica\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDocAutorizacion.LogicaNegocios.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDocAutorizacion.LogicaNegocios.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\eSync.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\eSync.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.csproj.CopyComplete
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDocAutorizacion.LogicaNegocios.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDocAutorizacion.LogicaNegocios.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\eSync.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\eSync.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.csproj.CopyComplete
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDocAutorizacion.LogicaNegocios.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDocAutorizacion.LogicaNegocios.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\eSync.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\eSync.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.csproj.CopyComplete
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDocAutorizacion.LogicaNegocios.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDocAutorizacion.LogicaNegocios.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\eSync.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\eSync.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.csproj.CopyComplete
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDocAutorizacion.LogicaNegocios.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDocAutorizacion.LogicaNegocios.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\eSync.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\eSync.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.csproj.CopyComplete
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDocAutorizacion.LogicaNegocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDocAutorizacion.LogicaNegocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\eSync.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\eSync.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.csproj.CopyComplete
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDocAutorizacion.LogicaNegocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDocAutorizacion.LogicaNegocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\eSync.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\eSync.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.csproj.CopyComplete
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDocAutorizacion.LogicaNegocios.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDocAutorizacion.LogicaNegocios.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\eSync.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\eSync.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.csproj.CopyComplete
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDocAutorizacion.LogicaNegocios.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDocAutorizacion.LogicaNegocios.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\eSync.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\eSync.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.csproj.AssemblyReference.cache
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.csproj.CopyComplete
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDocAutorizacion.LogicaNegocios.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDocAutorizacion.LogicaNegocios.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\eSync.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\eSync.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\Viadoc\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.EntidadNegocios.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\bin\Release\ViaDoc.Utilitarios.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.csproj.AssemblyReference.cache
+C:\Viadoc\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Viadoc\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAu.99BCC131.Up2Date
+C:\Viadoc\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDocAutorizacion.LogicaNegocios\obj\Release\ViaDocAutorizacion.LogicaNegocios.pdb

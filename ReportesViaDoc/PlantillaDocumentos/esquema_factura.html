@@ -1,0 +1,472 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <meta http-equiv="Last-Modified" content="0">
+    <style type="text/css">
+
+        body {
+            margin-left: 0px;
+            margin-top: 0px;
+            margin-right: 0px;
+            margin-bottom: 0px;
+        }
+
+        .cabe_der {
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+
+        .distancia_nd {
+            padding-bottom: 15px;
+        }
+
+        .cab_fp {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 12px;
+            border: 1px solid black;
+            text-align: center;
+        }
+
+        .body_fp {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 11px;
+            border: 1px solid black;
+            text-align: center;
+        }
+
+        .detalles {
+            border: 1px solid black;
+            text-align: center;
+        }
+
+        .descripcion {
+            border: 1px solid black;
+            text-align: center;
+        }
+
+        .cabeceraDetalles {
+            border: 1px solid black;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <table style="width: 100%;" align="center" cellpadding="1" cellspacing="1">
+        <tbody>
+
+            <tr>
+                <td style=" width: 60%;">
+                    <div style="width: 290px; height: 170px;" align="center">
+                        <!--<img style="height: 80%; width: 85%; margin-left: 10%; padding-top:10px " src="file://" align="right">-->
+                        <img src="http://facturacion.viadoc.com.ec/images/logo-facturacion-electronica.png" alt="" class="margin-top" height="150" width="200">
+                    </div>
+                </td>
+                <td rowspan="2" align="left" style="vertical-align: initial;border: 1px solid #000000;border-radius: 15px; width: 46%" class="cabe_der">
+                    <table style="width: 99%; " cellpadding="10">
+                        <tr>
+                            <td colspan="2" height="20" align="left" valign="middle">
+                                <span style="font-family:Arial, Helvetica, sans-serif; font-size:11px">
+                                    <strong>R.U.C.:</strong>
+                                    &nbsp;
+                                    &nbsp;
+                                    &nbsp;
+                                    <span style="font-size: 15px">
+                                        {{comprobante.infoTributaria.ruc}}
+                                    </span>
+                                </span>
+                            </td>
+
+                        </tr>
+                        <tr>
+                            <td colspan="2" headers="20" align="left" valign="middle" class="distancia_nd">
+                                <span style="font-family:Arial, Helvetica, sans-serif; font-size:14px">
+                                    <strong>
+                                        F&nbsp;A&nbsp;C&nbsp;T&nbsp;U&nbsp;R&nbsp;A
+                                    </strong>
+                                </span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" height="20" align="left" valign="middle" class="distancia_nd">
+                                <span style="font-family:Arial, Helvetica, sans-serif; font-size:11px">
+                                    <strong>No.</strong>
+                                    &nbsp;
+                                    &nbsp;{{numeroDocumento}}
+                                </span>
+                            </td>
+
+                        </tr>
+                        <tr>
+                            <td colspan="2" height="20" align="left" valign="middle" class="distancia_nd">
+                                <span style="font-family:Arial, Helvetica, sans-serif; font-size:11px">
+                                    <strong>NÚMERO DE AUTORIZACIÓN</strong>
+                                </span>
+                                <span style="font-family:Arial, Helvetica, sans-serif; font-size:11px">
+                                    {{numeroAutorizacion}}
+                                </span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td height="20" align="left" valign="middle" class="distancia_nd">
+                                <span style="font-family:Arial, Helvetica, sans-serif; font-size:11px">
+                                    FECHA Y HORA DE AUTORIZACIÓN
+                                </span>
+                            </td>
+                            <td height="30" align="left" valign="middle" class="cabe_der distancia_nd">
+                                <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px">
+                                    {{fechaAutorizacion}}
+                                </span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td height="20" align="left" valign="middle" class="distancia_nd">
+                                <span style="font-family:Arial, Helvetica, sans-serif; font-size:11px">
+                                    <strong>AMBIENTE:</strong>
+                                </span>
+                            </td>
+                            <td height="30" align="left" valign="middle" class="cabe_der distancia_nd">
+                                <span style="font-family:Arial, Helvetica, sans-serif; font-size:11px">
+                                    {{tipoAmbiente}}
+                                </span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td height="20" align="left" valign="middle" class="distancia_nd">
+                                <span style="font-family:Arial, Helvetica, sans-serif; font-size:11px">
+                                    <strong>EMISIÓN:</strong>
+                                </span>
+                            </td>
+                            <td height="30" align="left" valign="middle" class="cabe_der distancia_nd">
+                                <span style="font-family:Arial, Helvetica, sans-serif; font-size:11px">
+                                    {{tipoEmision}}
+                                </span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" height="20" align="left" valign="middle" class="distancia_nd">
+                                <span style="font-family:Arial, Helvetica, sans-serif; font-size:11px">
+                                    <strong>CLAVE DE ACCESO</strong>
+                                </span>
+                                <img src="file://{{code_bar}}" border="0" style="width: 100%; height: 60px; margin-bottom: -5%;" />
+                                <span style="width: 100%;font-size: 10px;">
+                                    {{comprobante.infoTributaria.claveAcceso}}
+                                </span>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+
+            <tr>
+                <td class="cabe_der" style="border: 1px solid #000000;  border-radius: 15px; vertical-align:initial;">
+                    <table style="padding-top: 10px">
+                        <tr>
+                            <td height="20" align="left" valign="middle" style="padding-bottom: 10px">
+                                <span style="font-family:Arial, Helvetica, sans-serif; font-size:11px">
+                                    {{comprobante.infoTributaria.nombreComercial}}
+                                </span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td height="20" align="left" valign="middle">
+                                <span style="font-family:Arial, Helvetica, sans-serif; font-size:8px">
+                                    {{comprobante.infoTributaria.nombreComercial}}
+                                </span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td height="20" align="left" valign="middle">
+                                <span style="font-family:Arial, Helvetica, sans-serif; font-size:11px;">
+                                    <strong>Dirección Matriz:</strong>
+                                </span>
+                            </td>
+                            <td height="30" align="left" valign="middle" class="cabe_der">
+                                <span style="font-family:Arial, Helvetica, sans-serif; font-size:8px">
+                                    {{comprobante.infoTributaria.dirMatriz}}
+                                </span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td height="20" align="left" valign="middle">
+                                <span style="font-family:Arial, Helvetica, sans-serif; font-size:11px">
+                                    <strong>Dirección Sucursal:</strong>
+                                </span>
+                            </td>
+                            <td height="30" align="left" valign="middle" class="cabe_der">
+                                <span style="font-family:Arial, Helvetica, sans-serif; font-size:8px">
+                                    {{comprobante.infoFactura.dirEstablecimiento}}
+                                </span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td height="20" align="left" valign="middle" colspan="2">
+                                <span style="font-family:Arial, Helvetica, sans-serif; font-size:11px">
+                                    <strong>
+                                        Contribuyente Especial Nro
+                                        {{comprobante.infoFactura.contribuyenteEspecial}}
+                                    </strong>
+                                </span>
+                            </td>
+
+                        </tr>
+                        <tr>
+                            <td height="20" align="left" valign="middle" colspan="2">
+                                <span style="font-family:Arial, Helvetica, sans-serif; font-size:11px">
+                                    <strong>
+                                        OBLIGADO A LLEVAR CONTABILIDAD
+                                        {{comprobante.infoFactura.obligadoContabilidad}}
+                                    </strong>
+                                </span>
+                            </td>
+
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+
+            <tr><td colspan="12"></td></tr>
+            <!--CUERPO-->
+        </tbody>
+    </table>
+
+    <table style="width: 96.5%; border: 1px;" border="1">
+        <tr>
+            <td colspan="12" style="border: 1px solid black;">
+                <table width="100%" border="0" cellpadding="1" cellspacing="0">
+                    <tr>
+                    <tr>
+                        <td>
+                            <span style="font-family:Arial, Helvetica, sans-serif; font-size:11px">
+                                <strong>Razón Social/ Nombres y Apellidos:</strong>
+                            </span>
+                        </td>
+                        <td style="padding-right: 20px;">
+                            <span style="font-family:Arial, Helvetica, sans-serif; font-size:11px">
+                                {{comprobante.infoFactura.razonSocialComprador}}
+                            </span>
+                        </td>
+                        <td>
+                            <span style="font-family:Arial, Helvetica, sans-serif; font-size:11px">
+                                <strong>Identificación:</strong>
+                            </span>
+                        </td>
+                        <td>
+                            <span style="font-family:Arial, Helvetica, sans-serif; font-size:11px">
+                                {{comprobante.infoFactura.identificacionComprador}}
+                            </span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td rowspan="1">
+                            <span style="font-family:Arial, Helvetica, sans-serif; font-size:11px">
+                                <strong>Fecha Emisión:</strong>
+                                <span style="font-family:Arial, Helvetica, sans-serif; font-size:11px">
+                                    {{comprobante.infoFactura.fechaEmision}}
+                                </span>
+                            </span>
+                        </td>
+
+                    </tr>
+        </tr>
+    </table>
+    </td>
+    </tr>
+    <tr><td colspan="12"></td></tr>
+    <tr><td colspan="12"></td></tr>
+    </table>
+
+    <td colspan="12">
+        <table style="width: 100%;">
+            <tr>
+                <td class="cabeceraDetalles"><span style="font-family:Arial, Helvetica, sans-serif; font-size:12px;"><strong>Cod.</strong><br /><strong>Principal</strong></span></td>
+                <td class="cabeceraDetalles"><span style="font-family:Arial, Helvetica, sans-serif; font-size:12px;"><strong>Cod.</strong><br /><strong>Auxiliar</strong></span></td>
+                <td class="cabeceraDetalles"><span style="font-family:Arial, Helvetica, sans-serif; font-size:12px;"><strong>Cant.</strong></span></td>
+                <td class="cabeceraDetalles"><span style="font-family:Arial, Helvetica, sans-serif; font-size:12px;"><strong>Descripción</strong></span></td>
+                <td class="cabeceraDetalles"><span style="font-family:Arial, Helvetica, sans-serif; font-size:12px;"><strong>Precio Unitario</strong></span></td>
+                <td class="cabeceraDetalles"><span style="font-family:Arial, Helvetica, sans-serif; font-size:12px;"><strong>SubTotal</strong></span></td>
+                <td class="cabeceraDetalles"><span style="font-family:Arial, Helvetica, sans-serif; font-size:12px;"><strong>Descuento</strong></span></td>
+                <td class="cabeceraDetalles"><span style="font-family:Arial, Helvetica, sans-serif; font-size:12px;;"><strong>Precio Total</strong></span></td>
+            </tr>
+            <!--body-->
+            {%for d in comprobante.detalles%}
+            <tr>
+                <td class="detalles"><span style="font-family:Arial, Helvetica, sans-serif; font-size:12px;"> {{d.detalle.codigoPrincipal}}</span></td>
+                <td class="detalles"><span style="font-family:Arial, Helvetica, sans-serif; font-size:12px;"> {{d.detalle.codigoAuxiliar}}</span></td>
+                <td class="detalles"><span style="font-family:Arial, Helvetica, sans-serif; font-size:12px;">{{ "%.0f"|format(d.detalle.cantidad)}}</span></td>
+                <td class="descripcion"><span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;"> {{d.detalle.descripcion}}</span></td>
+                <td class="detalles">
+                    <span style="font-family:Arial, Helvetica, sans-serif; font-size:12px;">
+                        {{ "%.2f"|format(d.detalle.precioUnitario)}}
+                    </span>
+                </td>
+                <td class="detalles">
+                    <span style="font-family:Arial, Helvetica, sans-serif; font-size:12px;">
+                        {{ "%.2f"|format(d.detalle.precioUnitario * d.detalle.cantidad) }}
+                    </span>
+                </td>
+                <td class="detalles"><span style="font-family:Arial, Helvetica, sans-serif; font-size:12px;">{{"%.2f"|format(d.detalle.descuento)}}</span></td>
+                <td class="detalles"><span style="font-family:Arial, Helvetica, sans-serif; font-size:12px;">{{"%.2f"|format(d.detalle.precioTotalSinImpuesto)}}</span></td>
+            </tr>
+            {%endfor%}
+        </table>
+    </td>
+
+    <table>
+        <tr>
+            <td style="border: 1px solid black; width: 55%">
+                <table border="1" cellpadding="2" cellspacing="0" style="width: 100%">
+                    <tr>
+                        <td style="padding-right:20px;">
+                            <span style="font-family:Arial, Helvetica, sans-serif; font-size:14px;">
+                                <strong>Información Adicional</strong>
+                            </span>
+                        </td>
+                    </tr>
+                    {{comprobante.infoAdicional}}
+                </table>
+            </td>
+            <td style="width: 10%"></td>
+            <td rowspan="2" style="width: 100%;">
+                <table border="0" cellspacing="0" cellpadding="1">
+                    <tr style="width: 100%">
+                        <td colspan="1" cellpadding="10" align="left" valign="middle" style="border: 1px solid #000000; width: 50%">
+                            <span style="font-family:Arial, Helvetica, sans-serif; font-size:8px;">
+                                <strong>SUBTOTAL {{ comprobante.totales.iva_tarifa.tarifa}}%</strong>
+                            </span>
+                        </td>
+                        <td colspan="3" cellpadding="10" align="right" valign="middle" style="border: 1px solid #000000; width:50%; text-align: right;">
+                            <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;">
+                                {{"%.2f"|format(comprobante.totales.sub_tar_vigente|float)}}
+
+
+                            </span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="1" cellpadding="10" align="left" valign="middle" style="border: 1px solid #000000;">
+                            <span style="font-family:Arial, Helvetica, sans-serif; font-size:8px;">
+                                <strong>SUBTOTAL 0%</strong>
+                            </span>
+                        </td>
+                        <td colspan="3" cellpadding="10" align="right" valign="middle" style="border: 1px solid #000000; text-align: right;">
+                            <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px; ">
+                                {{"%.2f"|format(comprobante.totales.sub_tar_cero|float)}}
+                            </span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="1" cellpadding="10" align="left" valign="middle" style="border: 1px solid #000000;">
+                            <span style="font-family:Arial, Helvetica, sans-serif; font-size:8px;">
+                                <strong>SUBTOTAL NO OBJETO A IVA</strong>
+                            </span>
+                        </td>
+                        <td colspan="3" cellpadding="10" align="right" valign="middle" style="border: 1px solid #000000; text-align: right;">
+                            <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;">
+                                {{"%.2f"|format(comprobante.totales.sub_tar_no|float)}}
+                            </span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="1" cellpadding="10" align="left" valign="middle" style="border: 1px solid #000000;">
+                            <span style="font-family:Arial, Helvetica, sans-serif; font-size:8px;">
+                                <strong>SUBTOTAL EXENTO IVA</strong>
+                            </span>
+                        </td>
+                        <td colspan="3" cellpadding="10" align="right" valign="middle" style="border: 1px solid #000000; text-align: right;">
+                            <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;">
+                                {{"%.2f"|format(comprobante.totales.sub_tar_ex|float)}}
+                            </span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="1" cellpadding="10" align="left" valign="middle" style="border: 1px solid #000000;">
+                            <span style="font-family:Arial, Helvetica, sans-serif; font-size:8px; text-align: right;">
+                                <strong>SUBTOTAL SIN IMPUESTOS</strong>
+                            </span>
+                        </td>
+                        <td colspan="3" cellpadding="10" align="right" valign="middle" style="border: 1px solid #000000; text-align: right;">
+                            <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px; ">
+                                {{"%.2f"|format(comprobante.totales.sub_sin_imp|float)}}
+                            </span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="1" cellpadding="10" align="left" valign="middle" style="border: 1px solid #000000;">
+                            <span style="font-family:Arial, Helvetica, sans-serif; font-size:8px;">
+                                <strong>ICE</strong>
+                            </span>
+                        </td>
+                        <td colspan="3" cellpadding="10" align="right" valign="middle" style="border: 1px solid #000000; text-align: right;">
+                            <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;">
+                                {{"%.2f"|format(comprobante.totales.valor_ice|float)}}
+                            </span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="1" cellpadding="10" align="left" valign="middle" style="border: 1px solid #000000; ">
+                            <span style="font-family:Arial, Helvetica, sans-serif; font-size:8px;">
+                                <strong>IVA {{comprobante.totales.iva_tarifa.tarifa}}%</strong>
+                            </span>
+                        </td>
+                        <td colspan="3" cellpadding="10" align="right" valign="middle" style="border: 1px solid #000000; text-align: right;">
+                            <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;">
+                                {{"%.2f"|format(comprobante.totales.iva_tarifa.valor|float)}}
+                            </span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="1" cellpadding="10" align="left" valign="middle" style="border: 1px solid #000000; ">
+                            <span style="font-family:Arial, Helvetica, sans-serif; font-size:8px;">
+                                <strong>IRBPNR</strong>
+                            </span>
+                        </td>
+                        <td colspan="3" cellpadding="10" align="right" valign="middle" style="border: 1px solid #000000; text-align: right;">
+                            <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;">
+                                {{"%.2f"|format(comprobante.totales.valor_ir|float)}}
+                            </span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="1" cellpadding="10" align="left" valign="middle" style="border: 1px solid #000000;">
+                            <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;">
+                                <strong>VALOR TOTAL</strong>
+                            </span>
+                        </td>
+                        <td colspan="3" cellpadding="10" align="right" valign="middle" style="border: 1px solid #000000; text-align: right;">
+                            <span style="font-family:Arial, Helvetica, sans-serif; font-size:10px;">
+                                <strong>{{"%.2f"|format(comprobante.infoFactura.importeTotal|float)}}</strong>
+                            </span>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr style="vertical-align: initial;">
+            <td>
+                <table style="width: 100%;" border="1">
+                    <tr>
+                        <td class="cab_fp">
+                            <strong>
+                                Forma de Pago
+                            </strong>
+                        </td>
+                        <td class="cab_fp">
+                            <strong>
+                                Valor
+                            </strong>
+                        </td>
+                    </tr>
+                    {{comprobante.infoFactura.pagos}}
+                </table>
+            </td>
+        </tr>
+    </table>
+
+
+</body>
+</html>

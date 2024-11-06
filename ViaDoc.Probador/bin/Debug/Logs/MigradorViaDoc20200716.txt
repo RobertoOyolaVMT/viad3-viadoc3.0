@@ -1,0 +1,47 @@
+[CustomError]: 16/07/2020 10:11:30
+[Metodo]: Excpetion___ 1: El valor no puede ser nulo.
+Nombre del parámetro: path
+[CustomError]: FIN 
+[CustomError]: 16/07/2020 10:12:43
+[Metodo]: Excpetion___ 1: El valor no puede ser nulo.
+Nombre del parámetro: path
+[CustomError]: FIN 
+[CustomError]: 16/07/2020 10:16:42
+[Metodo]: Excpetion___ 1: El valor no puede ser nulo.
+Nombre del parámetro: path
+[CustomError]: FIN 
+[CustomError]: 16/07/2020 10:33:14
+[Metodo]: Excpetion___ 1: El valor no puede ser nulo.
+Nombre del parámetro: path
+[CustomError]: FIN 
+[CustomError]: 16/07/2020 10:33:20
+[Metodo]: Excpetion___ 1: El valor no puede ser nulo.
+Nombre del parámetro: path
+[CustomError]: FIN 
+[CustomError]: 16/07/2020 10:41:56
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 16/07/2020 10:47:11
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 16/07/2020 10:52:55
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 16/07/2020 10:53:17
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 16/07/2020 10:55:29
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 16/07/2020 10:55:35
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 16/07/2020 10:57:00
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 16/07/2020 10:57:12
+[Metodo]: 7
+[CustomError]: FIN 
+[CustomError]: 16/07/2020 10:58:19
+[Metodo]: 7
+[CustomError]: FIN 

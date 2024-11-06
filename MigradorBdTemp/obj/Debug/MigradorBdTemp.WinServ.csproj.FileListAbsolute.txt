@@ -1,0 +1,183 @@
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\MigradorBdTemp\bin\Debug\mongocrypt.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\MigradorBdTemp\bin\Debug\MigradorBdTemp.exe.config
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\MigradorBdTemp\bin\Debug\MigradorBdTemp.exe
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\MigradorBdTemp\bin\Debug\MigradorBdTemp.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\MigradorBdTemp\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\MigradorBdTemp\bin\Debug\ViaDoc.Configuraciones.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\MigradorBdTemp\bin\Debug\ViaDoc.Utilitarios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\MigradorBdTemp\bin\Debug\ViaDocMigrador.LogicaNegocios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\MigradorBdTemp\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\MigradorBdTemp\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\MigradorBdTemp\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\MigradorBdTemp\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\MigradorBdTemp\bin\Debug\ViaDocMigrador.LogicaNegocios.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\MigradorBdTemp\obj\Debug\MigradorBdTemp.WinServ.csprojAssemblyReference.cache
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\MigradorBdTemp\obj\Debug\MigradorBdTemp.WinServ.csproj.CoreCompileInputs.cache
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\MigradorBdTemp\obj\Debug\MigradorBdTemp.WinServ.csproj.CopyComplete
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\MigradorBdTemp\obj\Debug\MigradorBdTemp.exe
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\MigradorBdTemp\obj\Debug\MigradorBdTemp.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\MigradorBdTemp\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\MigradorBdTemp\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\FacturacionElectronica\MigradorBdTemp\bin\Debug\mongocrypt.dll
+C:\FacturacionElectronica\MigradorBdTemp\bin\Debug\MigradorBdTemp.exe.config
+C:\FacturacionElectronica\MigradorBdTemp\bin\Debug\MigradorBdTemp.exe
+C:\FacturacionElectronica\MigradorBdTemp\bin\Debug\MigradorBdTemp.pdb
+C:\FacturacionElectronica\MigradorBdTemp\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\FacturacionElectronica\MigradorBdTemp\bin\Debug\ViaDoc.Configuraciones.dll
+C:\FacturacionElectronica\MigradorBdTemp\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\FacturacionElectronica\MigradorBdTemp\bin\Debug\ViaDoc.Utilitarios.dll
+C:\FacturacionElectronica\MigradorBdTemp\bin\Debug\ViaDocMigrador.LogicaNegocios.dll
+C:\FacturacionElectronica\MigradorBdTemp\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\FacturacionElectronica\MigradorBdTemp\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\FacturacionElectronica\MigradorBdTemp\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\FacturacionElectronica\MigradorBdTemp\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\FacturacionElectronica\MigradorBdTemp\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\FacturacionElectronica\MigradorBdTemp\bin\Debug\ViaDocMigrador.LogicaNegocios.pdb
+C:\FacturacionElectronica\MigradorBdTemp\obj\Debug\MigradorBdTemp.WinServ.csprojAssemblyReference.cache
+C:\FacturacionElectronica\MigradorBdTemp\obj\Debug\MigradorBdTemp.WinServ.csproj.CoreCompileInputs.cache
+C:\FacturacionElectronica\MigradorBdTemp\obj\Debug\MigradorBdTemp.WinServ.csproj.CopyComplete
+C:\FacturacionElectronica\MigradorBdTemp\obj\Debug\MigradorBdTemp.exe
+C:\FacturacionElectronica\MigradorBdTemp\obj\Debug\MigradorBdTemp.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\mongocrypt.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\MigradorBdTemp.exe.config
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\MigradorBdTemp.exe
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\MigradorBdTemp.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDocMigrador.LogicaNegocios.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDocMigrador.LogicaNegocios.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\MigradorBdTemp\obj\Debug\MigradorBdTemp.WinServ.csproj.AssemblyReference.cache
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\MigradorBdTemp\obj\Debug\MigradorBdTemp.WinServ.csproj.CoreCompileInputs.cache
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\MigradorBdTemp\obj\Debug\MigradorBdTemp.WinServ.csproj.CopyComplete
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\MigradorBdTemp\obj\Debug\MigradorBdTemp.exe
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\MigradorBdTemp\obj\Debug\MigradorBdTemp.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\mongocrypt.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\MigradorBdTemp.exe.config
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\MigradorBdTemp.exe
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\MigradorBdTemp.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDocMigrador.LogicaNegocios.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDocMigrador.LogicaNegocios.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\obj\Debug\MigradorBdTemp.WinServ.csproj.AssemblyReference.cache
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\obj\Debug\MigradorBdTemp.WinServ.csproj.CoreCompileInputs.cache
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\obj\Debug\MigradorBdTemp.WinServ.csproj.CopyComplete
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\obj\Debug\MigradorBdTemp.exe
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\obj\Debug\MigradorBdTemp.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\mongocrypt.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\MigradorBdTemp.exe.config
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\MigradorBdTemp.exe
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\MigradorBdTemp.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDocMigrador.LogicaNegocios.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDocMigrador.LogicaNegocios.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\obj\Debug\MigradorBdTemp.WinServ.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\obj\Debug\MigradorBdTemp.WinServ.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\obj\Debug\MigradorBdTemp.WinServ.csproj.CopyComplete
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\obj\Debug\MigradorBdTemp.exe
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\MigradorBdTemp\obj\Debug\MigradorBdTemp.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\mongocrypt.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\MigradorBdTemp.exe.config
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\MigradorBdTemp.exe
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\MigradorBdTemp.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDocMigrador.LogicaNegocios.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDocMigrador.LogicaNegocios.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\MigradorBdTemp\obj\Debug\MigradorBdTemp.WinServ.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\MigradorBdTemp\obj\Debug\MigradorBdTemp.WinServ.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\MigradorBdTemp\obj\Debug\MigradorBdTemp.WinServ.csproj.CopyComplete
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\MigradorBdTemp\obj\Debug\MigradorBdTemp.exe
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\MigradorBdTemp\obj\Debug\MigradorBdTemp.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\mongocrypt.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\MigradorBdTemp.exe.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\MigradorBdTemp.exe
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\MigradorBdTemp.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDocMigrador.LogicaNegocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDocMigrador.LogicaNegocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\MigradorBdTemp\obj\Debug\MigradorBdTemp.WinServ.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\MigradorBdTemp\obj\Debug\MigradorBdTemp.WinServ.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\MigradorBdTemp\obj\Debug\MigradorBdTemp.WinServ.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\MigradorBdTemp\obj\Debug\MigradorBdTemp.WinServ.csproj.CopyComplete
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\MigradorBdTemp\obj\Debug\MigradorBdTemp.exe
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\MigradorBdTemp\obj\Debug\MigradorBdTemp.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\mongocrypt.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\MigradorBdTemp.exe.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\MigradorBdTemp.exe
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\MigradorBdTemp.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDocMigrador.LogicaNegocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDocMigrador.LogicaNegocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDocMigrador.LogicaNegocios.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\MigradorBdTemp\obj\Debug\MigradorBdTemp.WinServ.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\MigradorBdTemp\obj\Debug\MigradorBdTemp.WinServ.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\MigradorBdTemp\obj\Debug\MigradorBdTemp.WinServ.csproj.CopyComplete
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\MigradorBdTemp\obj\Debug\MigradorBdTemp.exe
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\MigradorBdTemp\obj\Debug\MigradorBdTemp.pdb
+C:\Viadoc\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\mongocrypt.dll
+C:\Viadoc\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\MigradorBdTemp.exe.config
+C:\Viadoc\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\MigradorBdTemp.exe
+C:\Viadoc\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\MigradorBdTemp.pdb
+C:\Viadoc\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\Viadoc\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Viadoc\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\Viadoc\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Viadoc\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDocMigrador.LogicaNegocios.dll
+C:\Viadoc\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\Viadoc\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Viadoc\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Viadoc\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\Viadoc\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Viadoc\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDocMigrador.LogicaNegocios.pdb
+C:\Viadoc\viad3-viadoc3.0\MigradorBdTemp\bin\Debug\ViaDocMigrador.LogicaNegocios.dll.config
+C:\Viadoc\viad3-viadoc3.0\MigradorBdTemp\obj\Debug\MigradorBdTemp.WinServ.csproj.AssemblyReference.cache
+C:\Viadoc\viad3-viadoc3.0\MigradorBdTemp\obj\Debug\MigradorBdTemp.WinServ.csproj.CoreCompileInputs.cache
+C:\Viadoc\viad3-viadoc3.0\MigradorBdTemp\obj\Debug\Migrador.5C505F22.Up2Date
+C:\Viadoc\viad3-viadoc3.0\MigradorBdTemp\obj\Debug\MigradorBdTemp.exe
+C:\Viadoc\viad3-viadoc3.0\MigradorBdTemp\obj\Debug\MigradorBdTemp.pdb

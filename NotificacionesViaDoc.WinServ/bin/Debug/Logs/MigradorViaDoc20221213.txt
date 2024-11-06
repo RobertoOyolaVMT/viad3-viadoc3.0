@@ -1,0 +1,102 @@
+[CustomError]: 13/12/2022 14:21:30
+[Metodo]: Todo bien al iniciar el metodo
+[CustomError]: FIN 
+[CustomError]: 13/12/2022 14:21:30
+[Metodo]: Retención
+[CustomError]: FIN 
+[CustomError]: 13/12/2022 14:24:12
+[Metodo]: Todo bien al iniciar el metodo
+[CustomError]: FIN 
+[CustomError]: 13/12/2022 14:24:13
+[Metodo]: Retención
+[CustomError]: FIN 
+[CustomError]: 13/12/2022 14:26:27
+[Metodo]: Todo bien al iniciar el metodo
+[CustomError]: FIN 
+[CustomError]: 13/12/2022 14:26:27
+[Metodo]: Retención
+[CustomError]: FIN 
+[CustomError]: 13/12/2022 14:43:21
+[Metodo]: Todo bien al iniciar el metodo
+[CustomError]: FIN 
+[CustomError]: 13/12/2022 14:43:21
+[Metodo]: Retención
+[CustomError]: FIN 
+[CustomError]: 13/12/2022 14:47:11
+[Metodo]: Todo bien al iniciar el metodo
+[CustomError]: FIN 
+[CustomError]: 13/12/2022 14:47:11
+[Metodo]: Retención
+[CustomError]: FIN 
+[CustomError]: 13/12/2022 14:50:55
+[Metodo]: Todo bien al iniciar el metodo
+[CustomError]: FIN 
+[CustomError]: 13/12/2022 14:50:55
+[Metodo]: Retención
+[CustomError]: FIN 
+[CustomError]: 13/12/2022 14:54:02
+[Metodo]: Todo bien al iniciar el metodo
+[CustomError]: FIN 
+[CustomError]: 13/12/2022 14:54:02
+[Metodo]: Retención
+[CustomError]: FIN 
+[CustomError]: 13/12/2022 15:15:12
+[Metodo]: Todo bien al iniciar el metodo
+[CustomError]: FIN 
+[CustomError]: 13/12/2022 15:15:12
+[Metodo]: Retención
+[CustomError]: FIN 
+[CustomError]: 13/12/2022 15:32:32
+[Metodo]: Todo bien al iniciar el metodo
+[CustomError]: FIN 
+[CustomError]: 13/12/2022 15:32:32
+[Metodo]: Retención
+[CustomError]: FIN 
+[CustomError]: 13/12/2022 15:42:28
+[Metodo]: Todo bien al iniciar el metodo
+[CustomError]: FIN 
+[CustomError]: 13/12/2022 15:42:28
+[Metodo]: Retención
+[CustomError]: FIN 
+[CustomError]: 13/12/2022 15:43:23
+[Metodo]: El tipo de error del mensaje es: no hubo error
+[CustomError]: FIN 
+[CustomError]: 13/12/2022 15:43:23
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 13/12/2022 15:44:41
+[Metodo]: Todo bien al iniciar el metodo
+[CustomError]: FIN 
+[CustomError]: 13/12/2022 15:44:41
+[Metodo]: Retención
+[CustomError]: FIN 
+[CustomError]: 13/12/2022 15:45:04
+[Metodo]: El tipo de error del mensaje es: no hubo error
+[CustomError]: FIN 
+[CustomError]: 13/12/2022 15:45:04
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 13/12/2022 15:53:56
+[Metodo]: Todo bien al iniciar el metodo
+[CustomError]: FIN 
+[CustomError]: 13/12/2022 15:53:56
+[Metodo]: Retención
+[CustomError]: FIN 
+[CustomError]: 13/12/2022 15:54:14
+[Metodo]: El tipo de error del mensaje es: no hubo error
+[CustomError]: FIN 
+[CustomError]: 13/12/2022 15:54:14
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 13/12/2022 15:55:00
+[Metodo]: Todo bien al iniciar el metodo
+[CustomError]: FIN 
+[CustomError]: 13/12/2022 15:55:00
+[Metodo]: Retención
+[CustomError]: FIN 
+[CustomError]: 13/12/2022 15:55:41
+[Metodo]: El tipo de error del mensaje es: no hubo error
+[CustomError]: FIN 
+[CustomError]: 13/12/2022 15:55:41
+[Metodo]: valor de i0
+[CustomError]: FIN 

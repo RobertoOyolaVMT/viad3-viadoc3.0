@@ -1,0 +1,18 @@
+[CustomError]: 7/10/2024 8:19:46
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 7/10/2024 8:19:46
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 7/10/2024 8:19:50
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 7/10/2024 8:22:28
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 7/10/2024 8:22:28
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 7/10/2024 8:22:31
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 

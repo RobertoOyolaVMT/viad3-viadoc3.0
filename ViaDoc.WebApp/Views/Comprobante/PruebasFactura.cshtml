@@ -1,0 +1,105 @@
+﻿
+@{
+    ViewBag.Title = "PruebasFactura";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<main>
+    <section>
+        <h2>Pruebas Factura</h2>
+        <div class="box-body">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="col-md-12">
+                        <div class="form-group">
+                            <h1>Tabla Cabecera</h1>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-12">
+                    <div class="col-md-4">
+                        <div class="form-group">
+                            <label>IdCompania:</label>
+                            <select class="form-control select2" style="width: 100%;">
+                                @foreach (var _listaCompania in ViewBag.listaCompania)
+                                {
+                                    <option value="@_listaCompania.idCompania">@_listaCompania.razonSocial</option>
+                                }
+                            </select>
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        <div class="form-group">
+                            <label>Secuencial:</label>
+                            <input class="form-control" type="number" id="puntoEmision" />
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        <div class="form-group">
+                            <label>Punto Emision:</label>
+                            <input class="form-control" type="number" id="puntoEmision" />
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        <div class="form-group">
+                            <label>Establecimiento:</label>
+                            <input class="form-control" type="number" id="establecimiento" />
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        <div class="form-group">
+                            <label>Fecha Emision:</label>
+                            <input class="form-control" type="number" id="fechaEmision" />
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-12">
+                    <div class="col-md-2">
+                        <div class="form-group">
+                            <label>Identificacion:</label>
+                            <input class="form-control" type="number" id="identificacion" />
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        <div class="form-group">
+                            <label>RazonSocialComprador:</label>
+                            <input class="form-control" type="number" id="puntoEmision" />
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        <div class="form-group">
+                            <label>Secuencial:</label>
+                            <input class="form-control" type="number" id="puntoEmision" />
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        <div class="form-group">
+                            <label>Punto Emision:</label>
+                            <input class="form-control" type="number" id="puntoEmision" />
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        <div class="form-group">
+                            <label>Establecimiento:</label>
+                            <input class="form-control" type="number" id="establecimiento" />
+                        </div>
+                    </div>
+                    <div class="col-md-2">
+                        <div class="form-group">
+                            <label>Fecha Emision:</label>
+                            <input class="form-control" type="number" id="fechaEmision" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+    </section>
+
+
+</main>
+
+

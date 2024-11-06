@@ -1,0 +1,59 @@
+[CustomError]: 17/6/2024 14:05:45
+[Metodo]: Excpetion: El identificador formado por varias partes 'ec.txtNameEstado' no se pudo enlazar.
+[CustomError]: FIN 
+[CustomError]: 17/6/2024 14:05:47
+[Metodo]: Excpetion: El identificador formado por varias partes 'ec.txtNameEstado' no se pudo enlazar.
+[CustomError]: FIN 
+[CustomError]: 17/6/2024 14:05:49
+[Metodo]: Excpetion: El identificador formado por varias partes 'ec.txtNameEstado' no se pudo enlazar.
+[CustomError]: FIN 
+[CustomError]: 17/6/2024 14:05:51
+[Metodo]: Excpetion: El nombre de columna 'txFechaEmision' no es válido.
+El identificador formado por varias partes 'ec.txtNameEstado' no se pudo enlazar.
+[CustomError]: FIN 
+[CustomError]: 17/6/2024 14:05:53
+[Metodo]: Excpetion: El identificador formado por varias partes 'ec.txtNameEstado' no se pudo enlazar.
+[CustomError]: FIN 
+[CustomError]: 17/6/2024 14:06:07
+[Metodo]: Excpetion: El identificador formado por varias partes 'ec.txtNameEstado' no se pudo enlazar.
+[CustomError]: FIN 
+[CustomError]: 17/6/2024 15:45:14
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 17/6/2024 15:45:16
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 17/6/2024 15:45:38
+[Metodo]: Excpetion: El nombre de columna 'txFechaEmision' no es válido.
+El nombre de columna 'txFechaEmision' no es válido.
+[CustomError]: FIN 
+[CustomError]: 17/6/2024 15:47:51
+[Metodo]: Excpetion: El nombre de columna 'txFechaEmision' no es válido.
+El nombre de columna 'txFechaEmision' no es válido.
+[CustomError]: FIN 
+[CustomError]: 17/6/2024 15:48:22
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 17/6/2024 15:48:23
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 17/6/2024 15:48:24
+[Metodo]: Excpetion: El nombre de columna 'txFechaEmision' no es válido.
+El nombre de columna 'txFechaEmision' no es válido.
+[CustomError]: FIN 
+[CustomError]: 17/6/2024 15:49:08
+[Metodo]: Metodo: NotificacinDocAtrasados, Mensaje: No se encontrados documentos con error
+[CustomError]: FIN 
+[CustomError]: 17/6/2024 15:58:15
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 17/6/2024 15:58:17
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 17/6/2024 15:58:35
+[Metodo]: Excpetion: El nombre de columna 'txFechaEmision' no es válido.
+El nombre de columna 'txFechaEmision' no es válido.
+[CustomError]: FIN 
+[CustomError]: 17/6/2024 15:58:45
+[Metodo]: Metodo: NotificacinDocAtrasados, Mensaje: No se encontrados documentos con error
+[CustomError]: FIN 

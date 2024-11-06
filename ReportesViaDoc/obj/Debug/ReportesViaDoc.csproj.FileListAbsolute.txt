@@ -1,0 +1,456 @@
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ReportesViaDoc\bin\Debug\ReportesViaDoc.dll.config
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ReportesViaDoc\bin\Debug\ReportesViaDoc.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ReportesViaDoc\bin\Debug\ReportesViaDoc.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ReportesViaDoc\bin\Debug\ViaDoc.Configuraciones.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ReportesViaDoc\bin\Debug\ViaDoc.Utilitarios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ReportesViaDoc\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ReportesViaDoc\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ReportesViaDoc\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ReportesViaDoc\obj\Debug\ReportesViaDoc.csprojAssemblyReference.cache
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ReportesViaDoc\obj\Debug\RdlCompile.cache
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ReportesViaDoc\obj\Debug\RdlCompile.compiled
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ReportesViaDoc\obj\Debug\ReportesViaDoc.csproj.CoreCompileInputs.cache
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ReportesViaDoc\obj\Debug\ReportesViaDoc.csproj.CopyComplete
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ReportesViaDoc\obj\Debug\ReportesViaDoc.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ReportesViaDoc\obj\Debug\ReportesViaDoc.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ReportesViaDoc\bin\Debug\log4net.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ReportesViaDoc\bin\Debug\log4net.xml
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ReportesViaDoc\bin\Debug\itextsharp.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ReportesViaDoc\bin\Debug\itextsharp.xml
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ReportesViaDoc\bin\Debug\BouncyCastle.Crypto.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ReportesViaDoc\bin\Debug\BouncyCastle.Crypto.xml
+C:\FacturacionElectronica\ReportesViaDoc\bin\Debug\ReportesViaDoc.dll.config
+C:\FacturacionElectronica\ReportesViaDoc\bin\Debug\ReportesViaDoc.dll
+C:\FacturacionElectronica\ReportesViaDoc\bin\Debug\ReportesViaDoc.pdb
+C:\FacturacionElectronica\ReportesViaDoc\bin\Debug\BouncyCastle.Crypto.dll
+C:\FacturacionElectronica\ReportesViaDoc\bin\Debug\itextsharp.dll
+C:\FacturacionElectronica\ReportesViaDoc\bin\Debug\log4net.dll
+C:\FacturacionElectronica\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\FacturacionElectronica\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\FacturacionElectronica\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\FacturacionElectronica\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\FacturacionElectronica\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\FacturacionElectronica\ReportesViaDoc\bin\Debug\ViaDoc.Configuraciones.dll
+C:\FacturacionElectronica\ReportesViaDoc\bin\Debug\ViaDoc.Utilitarios.dll
+C:\FacturacionElectronica\ReportesViaDoc\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\FacturacionElectronica\ReportesViaDoc\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\FacturacionElectronica\ReportesViaDoc\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\FacturacionElectronica\ReportesViaDoc\bin\Debug\BouncyCastle.Crypto.xml
+C:\FacturacionElectronica\ReportesViaDoc\bin\Debug\itextsharp.xml
+C:\FacturacionElectronica\ReportesViaDoc\bin\Debug\log4net.xml
+C:\FacturacionElectronica\ReportesViaDoc\obj\Debug\ReportesViaDoc.csprojAssemblyReference.cache
+C:\FacturacionElectronica\ReportesViaDoc\obj\Debug\ReportesViaDoc.csproj.CoreCompileInputs.cache
+C:\FacturacionElectronica\ReportesViaDoc\obj\Debug\ReportesViaDoc.csproj.CopyComplete
+C:\FacturacionElectronica\ReportesViaDoc\obj\Debug\ReportesViaDoc.dll
+C:\FacturacionElectronica\ReportesViaDoc\obj\Debug\ReportesViaDoc.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ApplicationInsights.config
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ReportesViaDoc.dll.config
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ReportesViaDoc.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ReportesViaDoc.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\itextsharp.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\log4net.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.DependencyCollector.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.Web.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.WindowsServer.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\itextsharp.xml
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\log4net.xml
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.DependencyCollector.xml
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.Web.xml
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.WindowsServer.xml
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ApplicationInsights.xml
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.csproj.AssemblyReference.cache
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\RdlCompile.cache
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\RdlCompile.compiled
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.csproj.CoreCompileInputs.cache
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.csproj.CopyComplete
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ApplicationInsights.config
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ReportesViaDoc.dll.config
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ReportesViaDoc.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ReportesViaDoc.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\itextsharp.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\log4net.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.DependencyCollector.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.Web.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.WindowsServer.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\itextsharp.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\log4net.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.DependencyCollector.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.Web.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.WindowsServer.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ApplicationInsights.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.csproj.AssemblyReference.cache
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\RdlCompile.cache
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\RdlCompile.compiled
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.csproj.CoreCompileInputs.cache
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.csproj.CopyComplete
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ApplicationInsights.config
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ReportesViaDoc.dll.config
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ReportesViaDoc.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ReportesViaDoc.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\itextsharp.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\log4net.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.DependencyCollector.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.Web.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.WindowsServer.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\itextsharp.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\log4net.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.DependencyCollector.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.Web.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.WindowsServer.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ApplicationInsights.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\RdlCompile.cache
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\RdlCompile.compiled
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.csproj.CopyComplete
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ApplicationInsights.config
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ReportesViaDoc.dll.config
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ReportesViaDoc.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ReportesViaDoc.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\itextsharp.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\log4net.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.DependencyCollector.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.Web.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.WindowsServer.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\itextsharp.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\log4net.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.DependencyCollector.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.Web.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.WindowsServer.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ApplicationInsights.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\RdlCompile.cache
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\RdlCompile.compiled
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.csproj.CopyComplete
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ApplicationInsights.config
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ReportesViaDoc.dll.config
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ReportesViaDoc.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ReportesViaDoc.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\itextsharp.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\log4net.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.DependencyCollector.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.Web.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.WindowsServer.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\itextsharp.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\log4net.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.DependencyCollector.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.Web.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.WindowsServer.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ApplicationInsights.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.csproj.CopyComplete
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ApplicationInsights.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ReportesViaDoc.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ReportesViaDoc.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ReportesViaDoc.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\itextsharp.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\log4net.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.DependencyCollector.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.Web.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.WindowsServer.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\itextsharp.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\log4net.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.DependencyCollector.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.Web.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.WindowsServer.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ApplicationInsights.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\RdlCompile.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\RdlCompile.compiled
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.csproj.CopyComplete
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ApplicationInsights.config
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ReportesViaDoc.dll.config
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ReportesViaDoc.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ReportesViaDoc.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\itextsharp.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\log4net.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.Web.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\System.Buffers.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\System.Memory.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\itextsharp.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\log4net.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.PerfCounterCollector.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.ServerTelemetryChannel.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.Web.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ApplicationInsights.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ApplicationInsights.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\System.Buffers.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\System.Memory.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.csproj.AssemblyReference.cache
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.csproj.CopyComplete
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ApplicationInsights.config
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ReportesViaDoc.dll.config
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ReportesViaDoc.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ReportesViaDoc.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\BouncyCastle.Crypto.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\itextsharp.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\log4net.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.Agent.Intercept.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.DependencyCollector.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.PerfCounterCollector.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.ServerTelemetryChannel.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.Web.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.WindowsServer.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Newtonsoft.Json.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\System.Buffers.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\System.Drawing.Common.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\System.Memory.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\System.Numerics.Vectors.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Configuraciones.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Utilitarios.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\zxing.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\zxing.presentation.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\BouncyCastle.Crypto.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\itextsharp.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\log4net.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.DependencyCollector.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.PerfCounterCollector.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.ServerTelemetryChannel.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.ServerTelemetryChannel.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.Web.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.WindowsServer.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ApplicationInsights.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ApplicationInsights.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\System.Buffers.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\System.Memory.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\System.Numerics.Vectors.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\zxing.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\zxing.presentation.xml
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.csproj.AssemblyReference.cache
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.csproj.CoreCompileInputs.cache
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.csproj.CopyComplete
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.pdb
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ApplicationInsights.config
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ReportesViaDoc.dll.config
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ReportesViaDoc.dll
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ReportesViaDoc.pdb
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\BouncyCastle.Crypto.dll
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\itextsharp.dll
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\log4net.dll
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.Agent.Intercept.dll
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.DependencyCollector.dll
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.PerfCounterCollector.dll
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.Web.dll
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.WindowsServer.dll
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ApplicationInsights.dll
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Newtonsoft.Json.dll
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\System.Buffers.dll
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\System.Drawing.Common.dll
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\System.Memory.dll
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\System.Numerics.Vectors.dll
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\zxing.dll
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\zxing.presentation.dll
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\BouncyCastle.Crypto.xml
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\itextsharp.xml
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\log4net.xml
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.DependencyCollector.xml
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.PerfCounterCollector.xml
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.ServerTelemetryChannel.pdb
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.Web.xml
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AI.WindowsServer.xml
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ApplicationInsights.pdb
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.ApplicationInsights.xml
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\System.Buffers.xml
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\System.Memory.xml
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\System.Numerics.Vectors.xml
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\zxing.xml
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\bin\Debug\zxing.presentation.xml
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.csproj.AssemblyReference.cache
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.csproj.CoreCompileInputs.cache
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\Reportes.7820DE39.Up2Date
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.dll
+C:\Viadoc\viad3-viadoc3.0\ReportesViaDoc\obj\Debug\ReportesViaDoc.pdb

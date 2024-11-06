@@ -1,0 +1,269 @@
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[Metodo]: error: System.ArgumentException: La columna 'documentoAutorizado' no pertenece a la tabla Table.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDoc.LogicaNegocios.portalweb.ProcesoDocumento.ConsultarDocumentosTodos(Documento documento, Int32& codigoRetorno, String& mensajeRetorno) en C:\Viadoc\viad3-viadoc3.0\ViaDoc.LogicaNegocios\portalweb\ProcesoDocumento.cs:línea 34
+[CustomError]: 4/10/2024 8:52:29
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 4/10/2024 8:52:29
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 4/10/2024 8:52:32
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 4/10/2024 8:53:13
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 4/10/2024 8:53:13
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 4/10/2024 8:53:13
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 4/10/2024 8:58:13
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 4/10/2024 8:58:13
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 4/10/2024 8:58:22
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 4/10/2024 8:59:10
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 4/10/2024 8:59:10
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 4/10/2024 9:00:11
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 4/10/2024 9:12:14
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 4/10/2024 9:12:14
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 4/10/2024 9:26:54
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 4/10/2024 9:26:54
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 4/10/2024 9:26:57
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 4/10/2024 15:10:37
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 4/10/2024 15:10:37
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 4/10/2024 15:10:38
+[Metodo]: Error al generar del byte[] para elo ride Factura. Mensaje Error: An error occurred during local report processing.. En: Void EnsureExecutionSession(). Origen error: Microsoft.ReportViewer.WinForms
+[CustomError]: FIN 
+[CustomError]: 4/10/2024 15:15:15
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 4/10/2024 15:15:15
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 4/10/2024 15:15:17
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 

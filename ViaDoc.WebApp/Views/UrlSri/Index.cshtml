@@ -1,0 +1,96 @@
+﻿@using ViaDoc.EntidadNegocios;
+
+@{
+    ViewBag.Title = "Url Sri";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (ViewData["mensajeError"] != null)
+{
+    <script type="text/javascript">
+        var respuesta = '@Html.Encode(ViewData["mensajeError"].ToString())';
+        llamaModal('warning', respuesta, 2500);
+    </script>
+}
+
+<section class="content">
+    <section class="content-header" style="padding-bottom:5px; padding-top:8px">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="#">Configuración</a></li>
+                        <li class="breadcrumb-item active">Url Sri</li>
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <div class="container-fluid">
+        <div class="card card-success">
+            <div class="card-header">
+                <h3 class="card-title">Filtros de Búsquedas</h3>
+                <div class="card-tools">
+                    <button type="button" class="btn btn-tool" data-card-widget="collapse">
+                        <i class="fas fa-minus"></i>
+                    </button>
+                </div>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-sm-4">
+                        <div class="form-group">
+                            <label>Compañía:</label>
+                            <select id="txtIdTipoAmbiente" class="form-control js-example-basic-single">
+                                @if (ViewData["listAmbientes"] != null)
+                                {
+                                    foreach (CatAmbiente item in ViewData["listAmbientes"] as List<CatAmbiente>)
+                                    {
+                                        <option value="@item.idTipoAmbiente">@item.descripcion</option>
+                                    }
+                                }
+                            </select>
+                        </div>
+                    </div>
+                </div>
+                <center>
+                    <div class="col-sm-3">
+                        <input type="button" id="btnBuscar" class="btn btn-block btn-primary" value="Buscar" />
+                    </div>
+                </center>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="container-fluid">
+        <div class="card card-success">
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="form-group">
+                            <label>Url Recepción:</label>
+                            <input id="txUrlRecepcion" type="text" class="form-control">
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="form-group">
+                            <label>Url Autorización:</label>
+                            <input id="txUrlAutorizacion" type="text" class="form-control">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<script>
+
+    $('#btnBuscar').on('click', function () {
+        CargarUrlSri();
+    });
+
+</script>

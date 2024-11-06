@@ -1,0 +1,67 @@
+﻿@using ViaDoc.EntidadNegocios.portalWeb
+
+@model List<ViaDoc.EntidadNegocios.portalWeb.Autorizar>
+
+
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                <table id="tblDocumentosAutorizar" class="table table-bordered table-striped" style="font-size:13px">
+                    <thead>
+                        <tr>
+                            <th>Num. Documento</th>
+                            <th>Documento</th>
+                            <th>Identificación</th>
+                            <th>Clave de Acceso</th>
+                            <th>Autorizar</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.NumeroDocumento</td>
+                                <td>@item.descripcion</td>
+                                <td>@item.identificacionComprador</td>
+                                <td>@item.claveAcceso</td>
+                                <td>
+                                    <center>
+                                        <input type="hidden" id="txClaveAcceso" value="@item.claveAcceso" />
+                                        <input type="button" onclick="autorizar(@item.idCompania)" class="btn btn-success" value="Autorizar">
+                                    </center>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+        $('#tblDocumentosAutorizar').DataTable({
+            "paging": true,
+            "searching": true,
+            "ordering": true,
+            "autoWidth": false,
+            "pageLength": 10,
+            "responsive": true,
+            "language": {
+                url: "../Content/idioma/espaniol.json"
+            }
+        });
+    });
+
+
+    function autorizar(txtIdCompania, buttonElement) {
+        var row = $(buttonElement).closest("tr"); // Get the closest row of the button clicked
+        var txClaveAcceso = row.find(".txClaveAcceso").val(); // Find the hidden input within that row
+
+        EnviaAutorizacion(txClaveAcceso, $("#txtIdTipoDocumento").val(), txtIdCompania);
+    }
+
+</script>
+

@@ -1,0 +1,4 @@
+[CustomError]: 13/9/2024 10:41:13
+[Metodo]: System.ArgumentException: Buffer retornó 0
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 119
+[CustomError]: FIN 

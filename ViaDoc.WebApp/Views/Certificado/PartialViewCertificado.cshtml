@@ -1,0 +1,52 @@
+﻿@using ViaDoc.EntidadNegocios
+
+@model ViaDoc.EntidadNegocios.CertificadoLista
+
+
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                <table id="tblCertificado" class="table table-bordered table-striped" style="font-size:13px">
+                    <thead>
+                        <tr>
+                            <th>Razón Social</th>
+                            <th>Ruc</th>
+                            <th>Fecha Desde</th>
+                            <th>Fecha Hasta</th>
+                            <th>Estado</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.objListaCertificado)
+                        {
+                            <tr>
+                                <td>@item.razonSocial</td>
+                                <td>@item.ruc</td>
+                                <td>@item.FcDesde</td>
+                                <td>@item.FcHasta</td>
+                                <td>@item.estado</td>                                
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $('#tblCertificado').DataTable({
+        "paging": true,
+        "searching": true,
+        "ordering": true,
+        "autoWidth": false,
+        "pageLength": 10,
+        "responsive": true,
+        "language": {
+            url: "../Content/idioma/espaniol.json"
+        },
+    });    
+</script>
+
+

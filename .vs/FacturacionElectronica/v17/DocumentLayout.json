@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Viadoc\\viad3-viadoc3.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B9F05D-A966-4A5A-9DE8-92F0D6AF7918}|ReportesViaDoc\\ReportesViaDoc.csproj|c:\\viadoc\\viad3-viadoc3.0\\reportesviadoc\\logicareporte\\procesarridenotacredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B9F05D-A966-4A5A-9DE8-92F0D6AF7918}|ReportesViaDoc\\ReportesViaDoc.csproj|solutionrelative:reportesviadoc\\logicareporte\\procesarridenotacredito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A43169-8FA3-4E4F-90E6-88B75191503E}|ViaDoc.WebApp\\ViaDoc.WebApp.csproj|C:\\Viadoc\\viad3-viadoc3.0\\viadoc.webapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{17A43169-8FA3-4E4F-90E6-88B75191503E}|ViaDoc.WebApp\\ViaDoc.WebApp.csproj|solutionrelative:viadoc.webapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B9F05D-A966-4A5A-9DE8-92F0D6AF7918}|ReportesViaDoc\\ReportesViaDoc.csproj|C:\\Viadoc\\viad3-viadoc3.0\\reportesviadoc\\generarridedocumentoelectronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B9F05D-A966-4A5A-9DE8-92F0D6AF7918}|ReportesViaDoc\\ReportesViaDoc.csproj|solutionrelative:reportesviadoc\\generarridedocumentoelectronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B9F05D-A966-4A5A-9DE8-92F0D6AF7918}|ReportesViaDoc\\ReportesViaDoc.csproj|C:\\Viadoc\\viad3-viadoc3.0\\reportesviadoc\\ride\\ridenotadebito.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{A8B9F05D-A966-4A5A-9DE8-92F0D6AF7918}|ReportesViaDoc\\ReportesViaDoc.csproj|solutionrelative:reportesviadoc\\ride\\ridenotadebito.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24018DAC-C151-48DD-89F7-574C03FAA0A4}|ViaDocFirma.LogicaNegocios\\ViaDocFirma.LogicaNegocios.csproj|C:\\Viadoc\\viad3-viadoc3.0\\viadocfirma.logicanegocios\\procesos\\procesofacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24018DAC-C151-48DD-89F7-574C03FAA0A4}|ViaDocFirma.LogicaNegocios\\ViaDocFirma.LogicaNegocios.csproj|solutionrelative:viadocfirma.logicanegocios\\procesos\\procesofacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0E2599-FFC9-48C1-96C8-A064E133BDCB}|ViaDoc.LogicaNegocios\\ViaDoc.LogicaNegocios.csproj|C:\\Viadoc\\viad3-viadoc3.0\\viadoc.logicanegocios\\documentos\\procesofactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0E2599-FFC9-48C1-96C8-A064E133BDCB}|ViaDoc.LogicaNegocios\\ViaDoc.LogicaNegocios.csproj|solutionrelative:viadoc.logicanegocios\\documentos\\procesofactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91512FFF-91EA-4D77-9B66-5ABA419FD3F2}|ViaDocAutorizacion.LogicaNegocios\\ViaDocAutorizacion.LogicaNegocios.csproj|C:\\Viadoc\\viad3-viadoc3.0\\viadocautorizacion.logicanegocios\\metodosdocumentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91512FFF-91EA-4D77-9B66-5ABA419FD3F2}|ViaDocAutorizacion.LogicaNegocios\\ViaDocAutorizacion.LogicaNegocios.csproj|solutionrelative:viadocautorizacion.logicanegocios\\metodosdocumentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24018DAC-C151-48DD-89F7-574C03FAA0A4}|ViaDocFirma.LogicaNegocios\\ViaDocFirma.LogicaNegocios.csproj|C:\\Viadoc\\viad3-viadoc3.0\\viadocfirma.logicanegocios\\firmadocumentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24018DAC-C151-48DD-89F7-574C03FAA0A4}|ViaDocFirma.LogicaNegocios\\ViaDocFirma.LogicaNegocios.csproj|solutionrelative:viadocfirma.logicanegocios\\firmadocumentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D608A9-20B2-4EBF-8DFC-4C1EFC4148AC}|ViaDocEnvioCorreo.Negocios\\ViaDocEnvioCorreo.LogicaNegocios.csproj|C:\\Viadoc\\viad3-viadoc3.0\\viadocenviocorreo.negocios\\enviarmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D608A9-20B2-4EBF-8DFC-4C1EFC4148AC}|ViaDocEnvioCorreo.Negocios\\ViaDocEnvioCorreo.LogicaNegocios.csproj|solutionrelative:viadocenviocorreo.negocios\\enviarmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8658073B-1840-43AD-855A-C698E1F4A411}|eSync\\eSync.csproj|C:\\Viadoc\\viad3-viadoc3.0\\esync\\serviciosri\\wshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8658073B-1840-43AD-855A-C698E1F4A411}|eSync\\eSync.csproj|solutionrelative:esync\\serviciosri\\wshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8658073B-1840-43AD-855A-C698E1F4A411}|eSync\\eSync.csproj|C:\\Viadoc\\viad3-viadoc3.0\\esync\\serviciosri\\respuestasri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8658073B-1840-43AD-855A-C698E1F4A411}|eSync\\eSync.csproj|solutionrelative:esync\\serviciosri\\respuestasri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8658073B-1840-43AD-855A-C698E1F4A411}|eSync\\eSync.csproj|C:\\Viadoc\\viad3-viadoc3.0\\esync\\serviciosri\\confighelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8658073B-1840-43AD-855A-C698E1F4A411}|eSync\\eSync.csproj|solutionrelative:esync\\serviciosri\\confighelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Viadoc\\viad3-viadoc3.0\\ViaDoc.WebApp\\Web.config",
+              "RelativeDocumentMoniker": "ViaDoc.WebApp\\Web.config",
+              "ToolTip": "C:\\Viadoc\\viad3-viadoc3.0\\ViaDoc.WebApp\\Web.config",
+              "RelativeToolTip": "ViaDoc.WebApp\\Web.config",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-31T20:25:32.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProcesarRideNotaCredito.cs",
+              "DocumentMoniker": "C:\\Viadoc\\viad3-viadoc3.0\\ReportesViaDoc\\LogicaReporte\\ProcesarRideNotaCredito.cs",
+              "RelativeDocumentMoniker": "ReportesViaDoc\\LogicaReporte\\ProcesarRideNotaCredito.cs",
+              "ToolTip": "C:\\Viadoc\\viad3-viadoc3.0\\ReportesViaDoc\\LogicaReporte\\ProcesarRideNotaCredito.cs",
+              "RelativeToolTip": "ReportesViaDoc\\LogicaReporte\\ProcesarRideNotaCredito.cs",
+              "ViewState": "AQIAAOgEAAAAAAAAAAAmwEQBAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:49:47.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenerarRideDocumentoElectronico.cs",
+              "DocumentMoniker": "C:\\Viadoc\\viad3-viadoc3.0\\ReportesViaDoc\\GenerarRideDocumentoElectronico.cs",
+              "RelativeDocumentMoniker": "ReportesViaDoc\\GenerarRideDocumentoElectronico.cs",
+              "ToolTip": "C:\\Viadoc\\viad3-viadoc3.0\\ReportesViaDoc\\GenerarRideDocumentoElectronico.cs",
+              "RelativeToolTip": "ReportesViaDoc\\GenerarRideDocumentoElectronico.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAYwIwAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:48:48.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RideNotaDebito.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Viadoc\\viad3-viadoc3.0\\ReportesViaDoc\\RIDE\\RideNotaDebito.rdlc",
+              "RelativeDocumentMoniker": "ReportesViaDoc\\RIDE\\RideNotaDebito.rdlc",
+              "ToolTip": "C:\\Viadoc\\viad3-viadoc3.0\\ReportesViaDoc\\RIDE\\RideNotaDebito.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "ReportesViaDoc\\RIDE\\RideNotaDebito.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-10-30T19:17:38.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProcesoFacturas.cs",
+              "DocumentMoniker": "C:\\Viadoc\\viad3-viadoc3.0\\ViaDocFirma.LogicaNegocios\\procesos\\ProcesoFacturas.cs",
+              "RelativeDocumentMoniker": "ViaDocFirma.LogicaNegocios\\procesos\\ProcesoFacturas.cs",
+              "ToolTip": "C:\\Viadoc\\viad3-viadoc3.0\\ViaDocFirma.LogicaNegocios\\procesos\\ProcesoFacturas.cs",
+              "RelativeToolTip": "ViaDocFirma.LogicaNegocios\\procesos\\ProcesoFacturas.cs",
+              "ViewState": "AQIAAEIBAAAAAAAAAAAgwOkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:16:08.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProcesoFactura.cs",
+              "DocumentMoniker": "C:\\Viadoc\\viad3-viadoc3.0\\ViaDoc.LogicaNegocios\\documentos\\ProcesoFactura.cs",
+              "RelativeDocumentMoniker": "ViaDoc.LogicaNegocios\\documentos\\ProcesoFactura.cs",
+              "ToolTip": "C:\\Viadoc\\viad3-viadoc3.0\\ViaDoc.LogicaNegocios\\documentos\\ProcesoFactura.cs",
+              "RelativeToolTip": "ViaDoc.LogicaNegocios\\documentos\\ProcesoFactura.cs",
+              "ViewState": "AQIAAHYBAAAAAAAAAAAUwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:15:03.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MetodosDocumentos.cs",
+              "DocumentMoniker": "C:\\Viadoc\\viad3-viadoc3.0\\ViaDocAutorizacion.LogicaNegocios\\MetodosDocumentos.cs",
+              "RelativeDocumentMoniker": "ViaDocAutorizacion.LogicaNegocios\\MetodosDocumentos.cs",
+              "ToolTip": "C:\\Viadoc\\viad3-viadoc3.0\\ViaDocAutorizacion.LogicaNegocios\\MetodosDocumentos.cs",
+              "RelativeToolTip": "ViaDocAutorizacion.LogicaNegocios\\MetodosDocumentos.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwCEAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:14:32.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FirmaDocumentos.cs",
+              "DocumentMoniker": "C:\\Viadoc\\viad3-viadoc3.0\\ViaDocFirma.LogicaNegocios\\FirmaDocumentos.cs",
+              "RelativeDocumentMoniker": "ViaDocFirma.LogicaNegocios\\FirmaDocumentos.cs",
+              "ToolTip": "C:\\Viadoc\\viad3-viadoc3.0\\ViaDocFirma.LogicaNegocios\\FirmaDocumentos.cs",
+              "RelativeToolTip": "ViaDocFirma.LogicaNegocios\\FirmaDocumentos.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCcAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:13:48.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnviarMail.cs",
+              "DocumentMoniker": "C:\\Viadoc\\viad3-viadoc3.0\\ViaDocEnvioCorreo.Negocios\\EnviarMail.cs",
+              "RelativeDocumentMoniker": "ViaDocEnvioCorreo.Negocios\\EnviarMail.cs",
+              "ToolTip": "C:\\Viadoc\\viad3-viadoc3.0\\ViaDocEnvioCorreo.Negocios\\EnviarMail.cs",
+              "RelativeToolTip": "ViaDocEnvioCorreo.Negocios\\EnviarMail.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T19:13:31.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WSHelper.cs",
+              "DocumentMoniker": "C:\\Viadoc\\viad3-viadoc3.0\\eSync\\ServicioSRI\\WSHelper.cs",
+              "RelativeDocumentMoniker": "eSync\\ServicioSRI\\WSHelper.cs",
+              "ToolTip": "C:\\Viadoc\\viad3-viadoc3.0\\eSync\\ServicioSRI\\WSHelper.cs",
+              "RelativeToolTip": "eSync\\ServicioSRI\\WSHelper.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:49:58.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RespuestaSRI.cs",
+              "DocumentMoniker": "C:\\Viadoc\\viad3-viadoc3.0\\eSync\\ServicioSRI\\RespuestaSRI.cs",
+              "RelativeDocumentMoniker": "eSync\\ServicioSRI\\RespuestaSRI.cs",
+              "ToolTip": "C:\\Viadoc\\viad3-viadoc3.0\\eSync\\ServicioSRI\\RespuestaSRI.cs",
+              "RelativeToolTip": "eSync\\ServicioSRI\\RespuestaSRI.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:49:10.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConfigHelper.cs",
+              "DocumentMoniker": "C:\\Viadoc\\viad3-viadoc3.0\\eSync\\ServicioSRI\\ConfigHelper.cs",
+              "RelativeDocumentMoniker": "eSync\\ServicioSRI\\ConfigHelper.cs",
+              "ToolTip": "C:\\Viadoc\\viad3-viadoc3.0\\eSync\\ServicioSRI\\ConfigHelper.cs",
+              "RelativeToolTip": "eSync\\ServicioSRI\\ConfigHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T18:48:51.463Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

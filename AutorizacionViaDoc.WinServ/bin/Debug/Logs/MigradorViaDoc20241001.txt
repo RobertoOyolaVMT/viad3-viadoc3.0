@@ -1,0 +1,18 @@
+[CustomError]: 1/10/2024 14:47:21
+[Metodo]: Exception ex....Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 1/10/2024 14:47:34
+[Metodo]: Exception ex....Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 1/10/2024 14:47:38
+[Metodo]: Exception ex....Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 1/10/2024 14:47:41
+[Metodo]: Exception ex....Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 1/10/2024 14:47:43
+[Metodo]: Exception ex....Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 1/10/2024 14:47:45
+[Metodo]: Exception ex....Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 

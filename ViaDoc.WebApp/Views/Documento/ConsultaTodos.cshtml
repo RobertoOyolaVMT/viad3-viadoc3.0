@@ -1,0 +1,307 @@
+﻿
+@{
+    ViewBag.Title = "ConsultaTodos";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<main>
+    <link href="~/Content/css/select2.min.css" rel="stylesheet" />
+    <section class="content-header">
+        <h1>Consulta Documentos</h1>
+        <ol class="breadcrumb">
+            <li><a href="#"><i class="fa fa-dashboard"></i> Documentos</a></li>
+            <li class="active">Consulta Documentos</li>
+        </ol>
+    </section>
+    <br />
+
+    <section class="content">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="box">
+                    <div class="box-header with-border">
+                        <br />
+                        <div class="box-tools pull-right">
+                            <button type="button" class="btn btn-box-tool" data-widget="collapse">
+                                <i class="fa fa-minus"></i>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="box-body">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="col-md-4">
+                                    <div class="form-group">
+                                        <label>Nombre de Empresa:</label>
+                                        <select class="form-control select2" style="width: 100%;">
+                                            @foreach (var _listaCompania in ViewBag.listaCompania)
+                                            {
+                                                <option value="@_listaCompania.idCompania">@_listaCompania.razonSocial</option>
+                                            }
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="form-group">
+                                        <label>Tipo Documentos:</label>
+                                        <select class="form-control select2" style="width: 100%;">
+                                            @foreach (var _listaDocumento in ViewBag.listaDocumento)
+                                            {
+                                                <option value="@_listaDocumento.idTipoDocumento">@_listaDocumento.descripcion</option>
+                                            }
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="col-md-3">
+                                    <div class="form-group">
+                                        <label>Numero Documento:</label>
+                                        <input type="text" class="form-control">
+                                    </div>
+                                </div>
+                                <div class="col-md-2">
+                                    <div class="form-group">
+                                        <h2 style="padding-top: 20px;font-weight: bold;"></h2>
+                                        <a id="btnMasFiltro" href="#" class="bg-button bg-link">
+                                            Mas Filtro...
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div id="idDivMasFiltro" class="col-md-12" style="display:none">
+                                <div class="col-ms-12">
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label>Numero Documento:</label>
+                                            <input type="text" class="form-control">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label>Clave Acceso:</label>
+                                            <input type="text" class="form-control">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label>No. de Identidad:</label>
+                                            <input type="text" class="form-control">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label>Razon Social Comprador:</label>
+                                            <input type="text" class="form-control">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-ms-12">
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label>Tipo :</label>
+                                            <select class="form-control select2" style="width: 100%;">
+                                                <option value="0">Autorización</option>
+                                                <option value="1">Emisión</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label>Fecha Inicio:</label>
+                                            <input type="text" name="date" data-filter="" data-limit="" data-counter="true" class="form-control">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <label>Fecha Fin:</label>
+                                            <input type="text" name="date" data-filter="" data-limit="" data-counter="true" class="form-control">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="form-group">
+                                            <h2 style="padding-top: 20px;font-weight: bold;"></h2>
+                                            <a id="btnOcultarFiltro" href="#" class="bg-button bg-link">
+                                                Ocultar Filtro...
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <br />
+                            <div class="col-md-12">
+                                <div class="col-sm-12">
+                                    <div class="form-group">
+                                        <a id="btnBuscarDocumentos" href="#" class="ViaDoc-button-filtro ViaDoc-principal">
+                                            Buscar
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <br />
+                <div class="box">
+                    <div class="box-header with-border">
+                        <br />
+                        <div class="box-tools pull-right">
+                            <button type="button" class="btn btn-box-tool" data-widget="collapse">
+                                <i class="fa fa-minus"></i>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="box-body">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <table id="tbl-Documentos" class="table table-bordered table-striped display responsive" style="width:100%">
+                                        <thead>
+                                            <tr>
+                                                <th>Comprador</th>
+                                                <th>Identificación</th>
+                                                <th>Descripción</th>
+                                                <th>Fecha Autorización</th>
+                                                <th>Número Documento</th>
+                                                <th>Clave Acceso</th>
+                                                <th>Nombre Estado</th>
+                                                <th>Emision</th>
+                                                <th>Razon Social</th>
+                                                <th>Razon Social Comprador</th>
+                                                <th>idEstado</th>
+                                                <th>idCompania</th>
+                                                <th>Tipo Documento</th>
+                                                @*<th width="10%">-</th>
+                                                    <th width="10%">-</th>*@
+                                            </tr>
+                                        </thead>
+                                        <tbody></tbody>
+                                    </table>
+                                </div>
+                            </div>
+                            <br />
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <div class="col-md-2">
+                                        <a id="btnNuevoParametros" href="#" class="ViaDoc-button-filtro ViaDoc-principal btn-block btn-flat">
+                                            Nuevo Documento
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <br />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <script src="~/Content/js/jquery-3.1.1.min.js"></script>
+    @*<script src="~/Content/js/select2.min.js"></script>*@
+    <script src="~/Content/js/select2.full.min.js"></script>
+    <script>
+
+        $('.select2').select2();
+
+        $('#btnMasFiltro').on('click', function () {
+            $("#idDivMasFiltro").css("display", "block");
+
+        });
+
+        $('#btnOcultarFiltro').on('click', function () {
+            $("#idDivMasFiltro").css("display", "none");
+        });
+
+
+        $(document).ready(function () {
+            $('#tbl-Documentos').DataTable({
+                'columnDefs': [{ 'visible': false, 'targets': [7, 8, 9, 10, 11, 12] }],
+                "responsive": true,
+                "order": [[0, "asc"]],
+                "pageLength": 5,
+                "language": {
+                    "lengthMenu": "Mostrar _MENU_ registros por página",
+                    "zeroRecords": "No se encontraron resultados",
+                    "sEmptyTable": "Ningún dato disponible en esta tabla",
+                    "info": "Mostrando página _PAGE_ de _PAGES_",
+                    "infoEmpty": "Ningún dato disponible en esta tabla",
+                    "infoFiltered": "(filtered from _MAX_ total records)",
+                    "sSearch": "Filtro:",
+                    "oPaginate": {
+                        "sFirst": "Primero",
+                        "sLast": "Último",
+                        "sNext": "Siguiente",
+                        "sPrevious": "Anterior"
+                    },
+                },
+                "columns": [
+                    { "data": "comprador", "orderable": false, "Title": "comprador" },
+                    { "data": "identificacion", "orderable": false, "Title": "identificacion" },
+                    { "data": "descripcion", "orderable": false, "Title": "descripcion" },
+                    { "data": "fechaAutorizacion", "orderable": false, "Title": "fechaAutorizacion" },
+                    { "data": "numeroDocumento", "orderable": false, "Title": "numeroDocumento" },
+                    { "data": "claveAcceso", "orderable": false, "Title": "claveAcceso" },
+                    { "data": "nombreEstado", "orderable": false, "Title": "nombreEstado" },
+                    { "data": "emision", "orderable": false, "Title": "emision" },
+                    { "data": "razonSocial", "orderable": false, "Title": "razonSocial" },
+                    { "data": "razonSocialComprador", "orderable": false, "Title": "razonSocialComprador" },
+                    { "data": "idEstado", "orderable": false, "Title": "idEstado" },
+                    { "data": "idCompania", "orderable": false, "Title": "idCompania" },
+                    { "data": "tipoDocumento", "orderable": false, "Title": "tipoDocumento" },
+                ],
+            });
+
+
+            ConsultaDocumentos("", "", "", "", "", "01", "", "", "", "0");
+        });
+
+
+
+        function ConsultaDocumentos(_razonSocial, _claveAcceso, _numeroAutorizacion, _numeroDocumento, _identificacionComprador, _tipoDocumento, _fechaDesde, _fechaHasta, _razonSocialComprador, _filtroFechaDH)
+        {
+
+             $.ajax({
+                type: "POST",
+                url: ("@Url.Content("~/" + @HttpContext.Current.Request.RequestContext.RouteData.Values["controller"].ToString() + "/ConsultarDocumentos")/"),
+                data: { razonSocial: _razonSocial, claveAcceso: _claveAcceso, numeroAutorizacion: _numeroAutorizacion, numeroDocumento: _numeroDocumento, identificacionComprador: _identificacionComprador, tipoDocumento: _tipoDocumento, fechaDesde:_fechaDesde, fechaHasta: _fechaHasta, razonSocialComprador: _razonSocialComprador, filtroFechaDH: _filtroFechaDH},
+                dataType: "json",
+                 success: function (respuesta) {
+                     if (respuesta.codigoRetorno == 0) {
+                         var table = $('#tbl-Documentos').DataTable();
+                         table.clear().draw();
+                         $.each(respuesta.data, function (index, objeto) {
+                             table.row.add({
+                                 "comprador": objeto.razonSocialComprador,
+                                 "identificacion": objeto.identificacionComprador,
+                                 "descripcion": objeto.descripcion,
+                                 "fechaAutorizacion": objeto.fechaHoraAutorizacion,
+                                 "numeroDocumento": objeto.numeroDocumento,
+                                 "claveAcceso": objeto.claveAcceso,
+                                 "nombreEstado": objeto.descripcionEstado,
+                                 "emision": objeto.descripcionEmision,
+                                 "razonSocial": objeto.razonSocial,
+                                 "razonSocialComprador": objeto.razonSocialComprador,
+                                 "idEstado": objeto.idEstado,
+                                 "idCompania": objeto.idCompania,
+                                 "tipoDocumento": objeto.tipoDocumento
+                            }).draw();
+                        });
+                     }
+                     else {
+                         alert(respuesta.mensajeRetorno);
+                        //MensajeSistema("warning", model_respuesta.mensaje);
+                     }
+                },
+                error: function () {
+                    alert("Error no definido frond-end.");
+                }
+            });
+        }
+    </script>
+</main>
+
+
+
+
+@*<h2>ConsultaTodos</h2>*@
+

@@ -1,0 +1,357 @@
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\NotificacionesViaDoc.WinServ.exe.config
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\NotificacionesViaDoc.WinServ.exe
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\NotificacionesViaDoc.WinServ.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\IKVM.OpenJDK.Sign.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\ReportesViaDoc.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.AccesoDatos.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.Configuraciones.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.Utilitarios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\ViaDocEnvioCorreo.Negocios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.EntidadNegocios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.LogicaNegocios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\IKVM.Runtime.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\IKVM.OpenJDK.Core.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\IKVM.OpenJDK.XML.API.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\IKVM.OpenJDK.Security.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\IKVM.OpenJDK.Text.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\IKVM.OpenJDK.Util.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\CodeQR.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\Microsoft.ReportViewer.WebForms.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\itextsharp.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\GenCode128.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\BouncyCastle.Crypto.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.Configuraciones.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.Utilitarios.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\ViaDocEnvioCorreo.Negocios.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\ViaDocEnvioCorreo.Negocios.dll.config
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\ReportesViaDoc.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.EntidadNegocios.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.LogicaNegocios.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.LogicaNegocios.dll.config
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\itextsharp.xml
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\BouncyCastle.Crypto.xml
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\ViaDocEnvioCorreo.Negocios.XmlSerializers.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.csprojAssemblyReference.cache
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.ProjectInstaller.resources
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.csproj.GenerateResource.cache
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.csproj.CoreCompileInputs.cache
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.csproj.CopyComplete
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.exe
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.pdb
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\NotificacionesViaDoc.WinServ.exe.config
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\NotificacionesViaDoc.WinServ.exe
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\NotificacionesViaDoc.WinServ.pdb
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\IKVM.OpenJDK.Sign.dll
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\ReportesViaDoc.dll
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.AccesoDatos.dll
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.Configuraciones.dll
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.Utilitarios.dll
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\ViaDocEnvioCorreo.Negocios.dll
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.EntidadNegocios.dll
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.LogicaNegocios.dll
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\IKVM.Runtime.dll
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\IKVM.OpenJDK.Core.dll
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\IKVM.OpenJDK.XML.API.dll
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\IKVM.OpenJDK.Security.dll
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\IKVM.OpenJDK.Text.dll
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\IKVM.OpenJDK.Util.dll
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\CodeQR.dll
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\Microsoft.ReportViewer.WebForms.dll
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\itextsharp.dll
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\GenCode128.dll
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\BouncyCastle.Crypto.dll
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.Configuraciones.pdb
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.Utilitarios.pdb
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\ViaDocEnvioCorreo.Negocios.pdb
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\ViaDocEnvioCorreo.Negocios.dll.config
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\ReportesViaDoc.pdb
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\ReportesViaDoc.dll.config
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.EntidadNegocios.pdb
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.LogicaNegocios.pdb
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.LogicaNegocios.dll.config
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\itextsharp.xml
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\BouncyCastle.Crypto.xml
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\bin\Release\ViaDocEnvioCorreo.Negocios.XmlSerializers.dll
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.csprojAssemblyReference.cache
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.ProjectInstaller.resources
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.csproj.GenerateResource.cache
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.csproj.CoreCompileInputs.cache
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.csproj.CopyComplete
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.exe
+C:\FacturacionElectronica\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\NotificacionesViaDoc.WinServ.exe.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\NotificacionesViaDoc.WinServ.exe
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\NotificacionesViaDoc.WinServ.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\IKVM.OpenJDK.Sign.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\MailKit.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\MimeKit.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Buffers.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Memory.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.AccesoDatos.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.Configuraciones.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.Utilitarios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDocEnvioCorreo.Negocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.EntidadNegocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.LogicaNegocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\IKVM.Runtime.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\IKVM.OpenJDK.Core.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\IKVM.OpenJDK.XML.API.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\IKVM.OpenJDK.Security.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\IKVM.OpenJDK.Text.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\IKVM.OpenJDK.Util.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.Configuraciones.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.Utilitarios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDocEnvioCorreo.Negocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDocEnvioCorreo.Negocios.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\MailKit.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\MailKit.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\MimeKit.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\MimeKit.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Buffers.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Memory.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.EntidadNegocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.LogicaNegocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.LogicaNegocios.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDocEnvioCorreo.Negocios.XmlSerializers.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.ProjectInstaller.resources
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.csproj.CopyComplete
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.exe
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\NotificacionesViaDoc.WinServ.exe.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\NotificacionesViaDoc.WinServ.exe
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\NotificacionesViaDoc.WinServ.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\IKVM.OpenJDK.Sign.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\MailKit.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\MimeKit.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ReportesViaDoc.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Buffers.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Memory.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.AccesoDatos.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.Configuraciones.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.Utilitarios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDocEnvioCorreo.Negocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.EntidadNegocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.LogicaNegocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\IKVM.Runtime.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\IKVM.OpenJDK.Core.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\IKVM.OpenJDK.XML.API.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\IKVM.OpenJDK.Security.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\IKVM.OpenJDK.Text.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\IKVM.OpenJDK.Util.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\CodeQR.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\Microsoft.ReportViewer.WebForms.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\itextsharp.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\Newtonsoft.Json.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\GenCode128.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.Configuraciones.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.Utilitarios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDocEnvioCorreo.Negocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDocEnvioCorreo.Negocios.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\MailKit.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\MailKit.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\MimeKit.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\MimeKit.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ReportesViaDoc.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ReportesViaDoc.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Buffers.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Memory.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.EntidadNegocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.LogicaNegocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.LogicaNegocios.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\itextsharp.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDocEnvioCorreo.Negocios.XmlSerializers.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.ProjectInstaller.resources
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.csproj.CopyComplete
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.exe
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ApplicationInsights.config
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\NotificacionesViaDoc.WinServ.exe.config
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\NotificacionesViaDoc.WinServ.exe
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\NotificacionesViaDoc.WinServ.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\BouncyCastle.Cryptography.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\IKVM.OpenJDK.Sign.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\MailKit.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\MimeKit.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ReportesViaDoc.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Buffers.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Formats.Asn1.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Memory.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Text.Encoding.CodePages.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.ValueTuple.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.AccesoDatos.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.Configuraciones.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.Utilitarios.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDocEnvioCorreo.Negocios.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.EntidadNegocios.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.LogicaNegocios.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\IKVM.Runtime.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\IKVM.OpenJDK.Core.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\IKVM.OpenJDK.XML.API.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\IKVM.OpenJDK.Security.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\IKVM.OpenJDK.Text.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\IKVM.OpenJDK.Util.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\CodeQR.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\Microsoft.ReportViewer.WebForms.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\itextsharp.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\Newtonsoft.Json.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\GenCode128.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.Configuraciones.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.Utilitarios.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDocEnvioCorreo.Negocios.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDocEnvioCorreo.Negocios.dll.config
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\BouncyCastle.Crypto.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\BouncyCastle.Cryptography.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\MailKit.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\MailKit.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\MailKit.dll.config
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\MimeKit.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\MimeKit.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\MimeKit.dll.config
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ReportesViaDoc.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ReportesViaDoc.dll.config
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Buffers.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Formats.Asn1.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Memory.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.ValueTuple.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.EntidadNegocios.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.LogicaNegocios.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.LogicaNegocios.dll.config
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\itextsharp.xml
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDocEnvioCorreo.Negocios.XmlSerializers.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.csproj.AssemblyReference.cache
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.exe.config
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.ProjectInstaller.resources
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.csproj.GenerateResource.cache
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.csproj.CopyComplete
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.exe
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.pdb
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ApplicationInsights.config
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\NotificacionesViaDoc.WinServ.exe.config
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\NotificacionesViaDoc.WinServ.exe
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\NotificacionesViaDoc.WinServ.pdb
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\BouncyCastle.Crypto.dll
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\BouncyCastle.Cryptography.dll
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\IKVM.OpenJDK.Sign.dll
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\MailKit.dll
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\MimeKit.dll
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ReportesViaDoc.dll
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Buffers.dll
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Formats.Asn1.dll
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Memory.dll
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Numerics.Vectors.dll
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Text.Encoding.CodePages.dll
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.ValueTuple.dll
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.AccesoDatos.dll
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.Configuraciones.dll
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.Utilitarios.dll
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDocEnvioCorreo.Negocios.dll
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.EntidadNegocios.dll
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\itextsharp.dll
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.LogicaNegocios.dll
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\EPPlus.dll
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\Newtonsoft.Json.dll
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\IKVM.Runtime.dll
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\IKVM.OpenJDK.Core.dll
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\IKVM.OpenJDK.XML.API.dll
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\IKVM.OpenJDK.Security.dll
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\IKVM.OpenJDK.Text.dll
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\IKVM.OpenJDK.Util.dll
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\CodeQR.dll
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\Microsoft.ReportViewer.WebForms.dll
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\GenCode128.dll
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.Configuraciones.pdb
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.Utilitarios.pdb
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDocEnvioCorreo.Negocios.pdb
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDocEnvioCorreo.Negocios.dll.config
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\BouncyCastle.Crypto.xml
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\BouncyCastle.Cryptography.xml
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\MailKit.pdb
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\MailKit.xml
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\MailKit.dll.config
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\MimeKit.pdb
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\MimeKit.xml
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\MimeKit.dll.config
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ReportesViaDoc.pdb
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ReportesViaDoc.dll.config
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Buffers.xml
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Formats.Asn1.xml
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Memory.xml
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Numerics.Vectors.xml
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\System.ValueTuple.xml
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.EntidadNegocios.pdb
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\itextsharp.xml
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.LogicaNegocios.pdb
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDoc.LogicaNegocios.dll.config
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\EPPlus.xml
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\bin\Release\ViaDocEnvioCorreo.Negocios.XmlSerializers.dll
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.csproj.AssemblyReference.cache
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.csproj.SuggestedBindingRedirects.cache
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.exe.config
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.ProjectInstaller.resources
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.csproj.GenerateResource.cache
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.csproj.CoreCompileInputs.cache
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\obj\Release\Notifica.6912B81A.Up2Date
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.exe
+C:\Viadoc\viad3-viadoc3.0\NotificacionesViaDoc.WinServ\obj\Release\NotificacionesViaDoc.WinServ.pdb

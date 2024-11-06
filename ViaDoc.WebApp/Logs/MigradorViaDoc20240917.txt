@@ -1,0 +1,306 @@
+[CustomError]: 17/9/2024 8:07:46
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 8:08:07
+[Metodo]: Servidor Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder 165.173.183.10:587
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 8:08:07
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 8:08:07
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 8:08:08
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 8:08:08
+[Metodo]: enviar mail The SmtpClient is not connected.
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 8:08:08
+[Metodo]: El tipo de error del mensaje es: Se ha presentado un error al enviar el comprobante al correo: icevallos@viamatica.com,contabilidad@viamatica.com,aifaadm@aifasa.com,khidalgo@aifasa.com,sushina@aifasa.com por favor revise las configuraciones de servidor de correos o verifique que el mail del cliente final sea valido
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 8:08:08
+[Metodo]: Error: La columna 'XmlEstado' no pertenece a la tabla XmlGenerados.
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 8:08:08
+[Metodo]: catch del paso 4 ActualizaEstado: Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 8:09:09
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 8:09:30
+[Metodo]: Servidor Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder 165.173.183.10:587
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 8:09:30
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 8:09:30
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 8:09:31
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 8:09:31
+[Metodo]: enviar mail The SmtpClient is not connected.
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 8:09:31
+[Metodo]: El tipo de error del mensaje es: Se ha presentado un error al enviar el comprobante al correo: icevallos@viamatica.com,contabilidad@viamatica.com,aifaadm@aifasa.com,khidalgo@aifasa.com,sushina@aifasa.com por favor revise las configuraciones de servidor de correos o verifique que el mail del cliente final sea valido
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 8:09:31
+[Metodo]: Error: La columna 'XmlEstado' no pertenece a la tabla XmlGenerados.
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 8:09:31
+[Metodo]: catch del paso 4 ActualizaEstado: Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 8:26:17
+[Metodo]: conectar puerto 465
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 8:26:19
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 8:26:20
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 8:26:20
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 8:26:21
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 8:26:22
+[Metodo]: El tipo de error del mensaje es: no hubo error
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 8:26:22
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 8:28:06
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 8:28:27
+[Metodo]: Servidor Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder 165.173.183.10:587
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 8:28:27
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 8:28:27
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 8:28:28
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 8:28:28
+[Metodo]: enviar mail The SmtpClient is not connected.
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 8:28:28
+[Metodo]: El tipo de error del mensaje es: Se ha presentado un error al enviar el comprobante al correo: icevallos@viamatica.com,contabilidad@viamatica.com,aifaadm@aifasa.com,khidalgo@aifasa.com,sushina@aifasa.com por favor revise las configuraciones de servidor de correos o verifique que el mail del cliente final sea valido
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 8:28:28
+[Metodo]: Error: La columna 'XmlEstado' no pertenece a la tabla XmlGenerados.
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 8:28:28
+[Metodo]: catch del paso 4 ActualizaEstado: Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:38:05
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:38:26
+[Metodo]: Servidor Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder 142.250.218.133:587
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:38:26
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:38:26
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:38:28
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:38:28
+[Metodo]: enviar mail The SmtpClient is not connected.
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:38:28
+[Metodo]: El tipo de error del mensaje es: Se ha presentado un error al enviar el comprobante al correo: icevallos@viamatica.com,contabilidad@viamatica.com,aifaadm@aifasa.com,khidalgo@aifasa.com,sushina@aifasa.com por favor revise las configuraciones de servidor de correos o verifique que el mail del cliente final sea valido
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:38:29
+[Metodo]: Error: La columna 'XmlEstado' no pertenece a la tabla XmlGenerados.
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:38:29
+[Metodo]: catch del paso 4 ActualizaEstado: Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:39:26
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:39:48
+[Metodo]: Servidor Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder 142.250.218.133:587
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:39:48
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:39:48
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:39:48
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:39:48
+[Metodo]: enviar mail The SmtpClient is not connected.
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:39:48
+[Metodo]: El tipo de error del mensaje es: Se ha presentado un error al enviar el comprobante al correo: icevallos@viamatica.com,contabilidad@viamatica.com,aifaadm@aifasa.com,khidalgo@aifasa.com,sushina@aifasa.com por favor revise las configuraciones de servidor de correos o verifique que el mail del cliente final sea valido
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:39:48
+[Metodo]: Error: La columna 'XmlEstado' no pertenece a la tabla XmlGenerados.
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:39:48
+[Metodo]: catch del paso 4 ActualizaEstado: Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:41:36
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:41:57
+[Metodo]: Servidor Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder 74.125.141.109:587
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:41:57
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:41:57
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:41:58
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:41:58
+[Metodo]: enviar mail The SmtpClient is not connected.
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:41:58
+[Metodo]: El tipo de error del mensaje es: Se ha presentado un error al enviar el comprobante al correo: icevallos@viamatica.com,contabilidad@viamatica.com,aifaadm@aifasa.com,khidalgo@aifasa.com,sushina@aifasa.com por favor revise las configuraciones de servidor de correos o verifique que el mail del cliente final sea valido
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:41:58
+[Metodo]: Error: La columna 'XmlEstado' no pertenece a la tabla XmlGenerados.
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:41:58
+[Metodo]: catch del paso 4 ActualizaEstado: Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:42:56
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:43:17
+[Metodo]: Servidor Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder 74.125.141.109:587
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:43:17
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:43:17
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:43:17
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:43:17
+[Metodo]: enviar mail The SmtpClient is not connected.
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:43:17
+[Metodo]: El tipo de error del mensaje es: Se ha presentado un error al enviar el comprobante al correo: icevallos@viamatica.com,contabilidad@viamatica.com,aifaadm@aifasa.com,khidalgo@aifasa.com,sushina@aifasa.com por favor revise las configuraciones de servidor de correos o verifique que el mail del cliente final sea valido
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:43:17
+[Metodo]: Error: La columna 'XmlEstado' no pertenece a la tabla XmlGenerados.
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:43:17
+[Metodo]: catch del paso 4 ActualizaEstado: Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:50:18
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:50:39
+[Metodo]: Servidor Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder 142.250.31.108:587
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:50:39
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:50:39
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:50:40
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:50:40
+[Metodo]: enviar mail The SmtpClient is not connected.
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:50:40
+[Metodo]: El tipo de error del mensaje es: Se ha presentado un error al enviar el comprobante al correo: icevallos@viamatica.com,contabilidad@viamatica.com,aifaadm@aifasa.com,khidalgo@aifasa.com,sushina@aifasa.com por favor revise las configuraciones de servidor de correos o verifique que el mail del cliente final sea valido
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:50:40
+[Metodo]: Error: La columna 'XmlEstado' no pertenece a la tabla XmlGenerados.
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:50:40
+[Metodo]: catch del paso 4 ActualizaEstado: Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:51:35
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:51:58
+[Metodo]: Servidor Se produjo un error durante el intento de conexión ya que la parte conectada no respondió adecuadamente tras un periodo de tiempo, o bien se produjo un error en la conexión establecida ya que el host conectado no ha podido responder 142.250.217.165:587
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:51:58
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:51:58
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:51:58
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:51:58
+[Metodo]: enviar mail The SmtpClient is not connected.
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:51:58
+[Metodo]: El tipo de error del mensaje es: Se ha presentado un error al enviar el comprobante al correo: icevallos@viamatica.com,contabilidad@viamatica.com,aifaadm@aifasa.com,khidalgo@aifasa.com,sushina@aifasa.com por favor revise las configuraciones de servidor de correos o verifique que el mail del cliente final sea valido
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:51:58
+[Metodo]: Error: La columna 'XmlEstado' no pertenece a la tabla XmlGenerados.
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 10:51:58
+[Metodo]: catch del paso 4 ActualizaEstado: Referencia a objeto no establecida como instancia de un objeto.
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 12:21:49
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 12:21:50
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 12:21:50
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 12:21:50
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 12:21:51
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 12:21:53
+[Metodo]: El tipo de error del mensaje es: no hubo error
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 12:21:54
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 12:24:44
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 12:24:45
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 12:24:45
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 12:24:45
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 12:24:46
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 12:24:47
+[Metodo]: El tipo de error del mensaje es: no hubo error
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 12:24:47
+[Metodo]: valor de i0
+[CustomError]: FIN 

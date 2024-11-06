@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\PublicaWebServices\Facturacion</_PublishTargetUrl>
+    <History>True|2023-10-19T14:02:47.6889285Z;True|2023-10-18T16:46:16.4192710-05:00;True|2023-10-18T09:53:01.8590337-05:00;True|2023-10-18T08:57:02.7242967-05:00;True|2023-10-17T17:28:05.8365665-05:00;True|2023-10-17T17:01:02.8694344-05:00;True|2023-10-17T16:11:00.8154124-05:00;True|2023-10-10T14:57:20.5897879-05:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApplicationInsights.config">
+      <publishTime>07/20/2021 12:32:55</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>07/20/2021 12:32:55</publishTime>
+    </File>
+    <File Include="bin/BouncyCastle.Crypto.dll">
+      <publishTime>10/19/2021 06:53:32</publishTime>
+    </File>
+    <File Include="bin/CodeQR.dll">
+      <publishTime>07/20/2021 12:32:52</publishTime>
+    </File>
+    <File Include="bin/Crc32C.NET.dll">
+      <publishTime>07/20/2021 12:33:04</publishTime>
+    </File>
+    <File Include="bin/DnsClient.dll">
+      <publishTime>07/20/2021 12:33:04</publishTime>
+    </File>
+    <File Include="bin/GenCode128.dll">
+      <publishTime>07/20/2021 12:32:52</publishTime>
+    </File>
+    <File Include="bin/itextsharp.dll">
+      <publishTime>07/20/2021 12:33:09</publishTime>
+    </File>
+    <File Include="bin/MailKit.dll">
+      <publishTime>03/26/2022 10:44:18</publishTime>
+    </File>
+    <File Include="bin/MailKit.pdb">
+      <publishTime>03/26/2022 10:44:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>07/20/2021 12:33:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>07/20/2021 12:33:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>07/20/2021 12:33:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>07/20/2021 12:33:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>07/20/2021 12:33:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>07/20/2021 12:33:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>07/20/2021 12:33:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>07/20/2021 12:33:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.Common.dll">
+      <publishTime>07/20/2021 12:33:06</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.DataVisualization.dll">
+      <publishTime>07/20/2021 12:33:06</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.ProcessingObjectModel.dll">
+      <publishTime>07/20/2021 12:33:06</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.WebForms.dll">
+      <publishTime>07/20/2021 12:33:06</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.WinForms.dll">
+      <publishTime>07/20/2021 12:33:06</publishTime>
+    </File>
+    <File Include="bin/MimeKit.dll">
+      <publishTime>03/26/2022 10:01:08</publishTime>
+    </File>
+    <File Include="bin/MimeKit.pdb">
+      <publishTime>03/26/2022 10:01:08</publishTime>
+    </File>
+    <File Include="bin/mongocrypt.dll">
+      <publishTime>07/20/2021 12:33:06</publishTime>
+    </File>
+    <File Include="bin/MongoDB.Bson.dll">
+      <publishTime>07/20/2021 12:33:03</publishTime>
+    </File>
+    <File Include="bin/MongoDB.Driver.Core.dll">
+      <publishTime>07/20/2021 12:33:03</publishTime>
+    </File>
+    <File Include="bin/MongoDB.Driver.dll">
+      <publishTime>07/20/2021 12:33:03</publishTime>
+    </File>
+    <File Include="bin/MongoDB.Libmongocrypt.dll">
+      <publishTime>07/20/2021 12:33:03</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>07/20/2021 12:32:55</publishTime>
+    </File>
+    <File Include="bin/ReportesViaDoc.dll">
+      <publishTime>10/19/2023 09:02:44</publishTime>
+    </File>
+    <File Include="bin/ReportesViaDoc.dll.config">
+      <publishTime>09/01/2023 08:31:39</publishTime>
+    </File>
+    <File Include="bin/ReportesViaDoc.pdb">
+      <publishTime>10/19/2023 09:02:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>07/20/2021 12:33:05</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>07/20/2021 12:33:05</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>07/20/2021 12:33:05</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>07/20/2021 12:33:05</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>07/20/2021 12:33:05</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>07/20/2021 12:33:05</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>07/20/2021 12:33:05</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>07/20/2021 12:33:05</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>07/20/2021 12:33:05</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>07/20/2021 12:33:05</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>07/20/2021 12:33:05</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>07/20/2021 12:33:05</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>07/20/2021 12:33:05</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>07/20/2021 12:33:05</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>07/20/2021 12:33:05</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>07/20/2021 12:33:05</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>07/20/2021 12:33:05</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>07/20/2021 12:33:05</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>07/20/2021 12:33:05</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>07/20/2021 12:33:05</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>07/20/2021 12:33:05</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>07/20/2021 12:33:05</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>07/20/2021 12:33:05</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>07/20/2021 12:33:05</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>07/20/2021 12:33:05</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>07/20/2021 12:33:05</publishTime>
+    </File>
+    <File Include="bin/SharpCompress.dll">
+      <publishTime>07/20/2021 12:33:07</publishTime>
+    </File>
+    <File Include="bin/Snappy.NET.dll">
+      <publishTime>07/20/2021 12:33:07</publishTime>
+    </File>
+    <File Include="bin/System.Buffers.dll">
+      <publishTime>02/19/2020 05:05:18</publishTime>
+    </File>
+    <File Include="bin/System.Memory.dll">
+      <publishTime>02/19/2020 05:05:18</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>02/19/2020 05:05:16</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.InteropServices.RuntimeInformation.dll">
+      <publishTime>07/20/2021 12:33:09</publishTime>
+    </File>
+    <File Include="bin/System.Threading.Tasks.Extensions.dll">
+      <publishTime>02/19/2020 05:05:18</publishTime>
+    </File>
+    <File Include="bin/ViaDoc.AccesoDatos.dll">
+      <publishTime>10/19/2023 09:02:43</publishTime>
+    </File>
+    <File Include="bin/ViaDoc.AccesoDatos.pdb">
+      <publishTime>10/19/2023 09:02:43</publishTime>
+    </File>
+    <File Include="bin/ViaDoc.Configuraciones.dll">
+      <publishTime>10/18/2023 08:56:58</publishTime>
+    </File>
+    <File Include="bin/ViaDoc.Configuraciones.dll.config">
+      <publishTime>07/20/2021 12:32:52</publishTime>
+    </File>
+    <File Include="bin/ViaDoc.Configuraciones.pdb">
+      <publishTime>10/18/2023 08:56:58</publishTime>
+    </File>
+    <File Include="bin/ViaDoc.EntidadNegocios.dll">
+      <publishTime>10/19/2023 09:02:44</publishTime>
+    </File>
+    <File Include="bin/ViaDoc.EntidadNegocios.pdb">
+      <publishTime>10/19/2023 09:02:44</publishTime>
+    </File>
+    <File Include="bin/ViaDoc.LogicaNegocios.dll">
+      <publishTime>10/19/2023 09:02:44</publishTime>
+    </File>
+    <File Include="bin/ViaDoc.LogicaNegocios.dll.config">
+      <publishTime>06/07/2021 14:24:41</publishTime>
+    </File>
+    <File Include="bin/ViaDoc.LogicaNegocios.pdb">
+      <publishTime>10/19/2023 09:02:44</publishTime>
+    </File>
+    <File Include="bin/ViaDoc.ServicioWcf.dll">
+      <publishTime>10/19/2023 09:02:47</publishTime>
+    </File>
+    <File Include="bin/ViaDoc.ServicioWcf.pdb">
+      <publishTime>10/19/2023 09:02:47</publishTime>
+    </File>
+    <File Include="bin/ViaDoc.Utilitarios.dll">
+      <publishTime>10/18/2023 08:56:58</publishTime>
+    </File>
+    <File Include="bin/ViaDoc.Utilitarios.pdb">
+      <publishTime>10/18/2023 08:56:58</publishTime>
+    </File>
+    <File Include="bin/ViaDocEnvioCorreo.Negocios.dll">
+      <publishTime>10/19/2023 09:02:45</publishTime>
+    </File>
+    <File Include="bin/ViaDocEnvioCorreo.Negocios.dll.config">
+      <publishTime>07/04/2022 11:23:39</publishTime>
+    </File>
+    <File Include="bin/ViaDocEnvioCorreo.Negocios.pdb">
+      <publishTime>10/19/2023 09:02:45</publishTime>
+    </File>
+    <File Include="bin/ViaDocEnvioCorreo.Negocios.XmlSerializers.dll">
+      <publishTime>10/19/2023 09:02:45</publishTime>
+    </File>
+    <File Include="bin/ViaDocLogMongoDB.dll">
+      <publishTime>10/19/2023 09:02:44</publishTime>
+    </File>
+    <File Include="bin/ViaDocLogMongoDB.dll.config">
+      <publishTime>07/20/2021 12:33:03</publishTime>
+    </File>
+    <File Include="bin/ViaDocLogMongoDB.pdb">
+      <publishTime>10/19/2023 09:02:44</publishTime>
+    </File>
+    <File Include="Factura.txt">
+      <publishTime>04/12/2023 10:52:19</publishTime>
+    </File>
+    <File Include="lib/Newtonsoft.Json.dll">
+      <publishTime>07/20/2021 12:32:55</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>07/20/2021 12:32:56</publishTime>
+    </File>
+    <File Include="Service1.svc">
+      <publishTime>07/20/2021 12:32:55</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/10/2023 14:57:20</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,370 @@
+﻿
+@{
+    ViewBag.Title = "Compania";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<main>
+    <link href="~/Content/css/select2.min.css" rel="stylesheet" />
+    <section class="content-header">
+        <h1>Parametrizar Compañia y Sucursal</h1>
+        <ol class="breadcrumb">
+            <li><a href="#"><i class="fa fa-dashboard"></i> Configuración</a></li>
+            <li class="active">Compañia</li>
+        </ol>
+    </section>
+
+    <section class="content">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="box">
+                    <div class="box-header with-border">
+                        <br />
+                        <div class="box-tools pull-right">
+                            <button type="button" class="btn btn-box-tool" data-widget="collapse">
+                                <i class="fa fa-minus"></i>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="box-body">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="col-md-4">
+                                    <div class="form-group">
+                                        <label>Nombre de Empresa:</label>
+                                        <select id="idCompania" class="form-control select2" style="width: 100%;">
+                                            @foreach (var _listaCompania in ViewBag.listaCompania)
+                                            {
+                                                <option value="@_listaCompania.idCompania">@_listaCompania.razonSocial</option>
+                                            }
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                            <br />
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <div class="col-md-2">
+                                        <a id="btnBuscarParametros" href="#" class="ViaDoc-button-filtro ViaDoc-principal btn-block btn-flat">
+                                            Buscar
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <br />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <div class="box">
+                    <div class="box-header with-border">
+                        <br />
+                        <div class="box-tools pull-right">
+                            <button type="button" class="btn btn-box-tool" data-widget="collapse">
+                                <i class="fa fa-minus"></i>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="box-body">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <table id="tbl-Compania" class="table table-bordered table-striped display responsive" style="width:100%">
+                                        <thead>
+                                            <tr>
+                                                <th>idCompania</th>
+                                                <th>Ruc</th>
+                                                <th>Nombre Comercial</th>
+                                                <th>Razón Social</th>
+                                                <th>Dirección Matriz</th>
+                                                <th>idTiempoAmbiente</th>
+                                                <th>Tiempo Ambiente</th>
+                                                <th>idEstado</th>
+                                                <th>Estado</th>
+                                                <th>claveActivacion</th>
+                                                <th>obligadoContabilidad</th>
+                                                <th>contribuyenteEspecial</th>
+                                                @*<th width="10%">-</th>
+        <th width="10%">-</th>
+        <th width="10%">-</th>*@
+                                            </tr>
+                                        </thead>
+                                        <tbody></tbody>
+                                    </table>
+                                </div>
+                            </div>
+                            <br />
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <div class="col-md-2">
+                                        <a id="btnNuevaCompania" href="#" class="ViaDoc-button-filtro ViaDoc-principal btn-block btn-flat">
+                                            Nuevo Compañia
+                                        </a>
+                                    </div>
+                                    <div class="col-md-2">
+                                        <a id="btnNuevaSurcusal" href="#" class="ViaDoc-button-filtro ViaDoc-principal btn-block btn-flat">
+                                            Nuevo Compañia
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <br />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal fade" id="modal-ModificacionCompania">
+            <div class="modal-dialog-lg">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <h1>Parametrizar Compañia</h1>
+                        <input type="hidden" id="idRegistroModIng" value="0" />
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <p>Parametrización Números Procesados</p>
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="col-md-4">
+                                <div class="form-group">
+                                    <label>Ruc Compañia:</label>
+                                    <input id="idRuc" type="number" class="form-control">
+                                </div>
+                            </div>
+                            <div class="col-md-5">
+                                <div class="form-group">
+                                    <label>Razón Social:</label>
+                                    <input id="idRazonSocial" type="number" class="form-control">
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+                                <div class="form-group">
+                                    <label>Clave Activación:</label>
+                                    <input id="idClaveActivacion" type="number" class="form-control">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="col-md-5">
+                                <div class="form-group">
+                                    <label>Nombre Comercial:</label>
+                                    <input id="idNombreComercial" type="number" class="form-control">
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="form-group">
+                                    <label>
+                                        <input id="idObligadoContabilidad" type="checkbox"> Obligado Contabilidad
+                                    </label>
+                                </div>
+                            </div>
+                            <div class="col-md-3">
+                                <div class="form-group">
+                                    <label>Contribuyente:</label>
+                                    <input id="idContribuyenteEspecial" type="number" class="form-control">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="col-md-8">
+                                <div class="form-group">
+                                    <label>Dirección Matriz:</label>
+                                    <input id="idDireccionMatriz" type="number" class="form-control">
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="form-group">
+                                    <label>Tipo Ambiente:</label>
+                                    <select id="idTipoAmbiente" class="form-control select2" style="width: 100%;">
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="col-md-4">
+                                <div class="form-group">
+                                    <label>Tipo Ambiente:</label>
+                                    <select id="idTipoAmbiente" class="form-control select2" style="width: 100%;">
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="form-group">
+                                    <label for="exampleInputFile">File input</label>
+                                    <input type="file" id="exampleInputFile">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <div class="col-md-3">
+                                <a id="btnGuardarParametro" href="#" class="ViaDoc-button-filtro ViaDoc-principal btn-block btn-flat">
+                                    Guardar
+                                </a>
+                            </div>
+                            <div class="col-md-3">
+                                <a id="btnBuscarDocumentos" href="#" class="ViaDoc-button-filtro ViaDoc-principal btn-block btn-flat" data-dismiss="modal">
+                                    Cancelar
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal fade" id="modal-ModificacionSucursal">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-body">
+                        <h1>Parametrizar Compañia</h1>
+                        <input type="hidden" id="idRegistroModIng" value="0" />
+                        <div class="col-md-12">
+                            <div class="form-group">
+                                <p>Parametrización Números Procesados</p>
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label>Cod. Sucursal:</label>
+                                    <input id="idCodSucursal" type="number" class="form-control">
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label>Dirección:</label>
+                                    <input id="idDireccionSurcusal" type="number" class="form-control">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label>Estado:</label>
+                                    <select id="idEstado" class="form-control select2" style="width: 100%;">
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <div class="col-md-3">
+                                <a id="btnGuardarParametro" href="#" class="ViaDoc-button-filtro ViaDoc-principal btn-block btn-flat">
+                                    Guardar
+                                </a>
+                            </div>
+                            <div class="col-md-3">
+                                <a id="btnBuscarDocumentos" href="#" class="ViaDoc-button-filtro ViaDoc-principal btn-block btn-flat" data-dismiss="modal">
+                                    Cancelar
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script src="~/Content/js/jquery-3.1.1.min.js"></script>
+    <script src="~/Content/js/select2.full.min.js"></script>
+    <script>
+        $('#btnNuevaCompania').on('click', function () {
+            $("#modal-ModificacionCompania").modal('show');
+        });
+
+        $('#btnNuevaSurcusal').on('click', function () {
+
+            $("#modal-ModificacionSucursal").modal('show');
+        });
+
+
+        $(document).ready(function () {
+            $('#tbl-Compania').DataTable({
+                'columnDefs': [{ 'visible': false, 'targets': [0, 3, 4, 5, 6, 7, 8, 10] }],
+                "responsive": true,
+                "order": [[0, "asc"]],
+                "pageLength": 5,
+                "language": {
+                    "lengthMenu": "Mostrar _MENU_ registros por página",
+                    "zeroRecords": "No se encontraron resultados",
+                    "sEmptyTable": "Ningún dato disponible en esta tabla",
+                    "info": "Mostrando página _PAGE_ de _PAGES_",
+                    "infoEmpty": "Ningún dato disponible en esta tabla",
+                    "infoFiltered": "(filtered from _MAX_ total records)",
+                    "sSearch": "Filtro:",
+                    "oPaginate": {
+                        "sFirst": "Primero",
+                        "sLast": "Último",
+                        "sNext": "Siguiente",
+                        "sPrevious": "Anterior"
+                    },
+                },
+                "columns": [
+                    { "data": "idCompania", "orderable": false, "Title": "idCompania" },
+                    { "data": "ruc", "orderable": false, "Title": "ruc" },
+                    { "data": "nombreComercial", "orderable": false, "Title": "nombreComercial" },
+                    { "data": "razonSocial", "orderable": false, "Title": "razonSocial" },
+                    { "data": "direccionMatriz", "orderable": false, "Title": "direccionMatriz" },
+                    { "data": "idTiempoAmbiente", "orderable": false, "Title": "idTiempoAmbiente" },
+                    { "data": "tiempoAmbiente", "orderable": false, "Title": "tiempoAmbiente" },
+                    { "data": "idEstado", "orderable": false, "Title": "idEstado" },
+                    { "data": "estado", "orderable": false, "Title": "estado" },
+                    { "data": "claveActivacion", "orderable": false, "Title": "claveActivacion" },
+                    { "data": "obligadoContabilidad", "orderable": false, "Title": "obligadoContabilidad" },
+                    { "data": "contribuyenteEspecial", "orderable": false, "Title": "contribuyenteEspecial" },
+                    //{
+                    //    "data": null, "title": "-", "orderable": false, "render": function (data, type, row) {
+                    //        var object_lista = (typeof data) == 'string' ? eval('(' + data + ')') : data;
+                    //        var idCompania = "'" + object_lista.idCompania + "'";
+                    //        var aux = 'href="javascript:AgregarSucursales(' + idCompania + ')"';
+                    //        var etiquea_a = "<a class='ViaDoc-button-filtro ViaDoc-principal' class='btnDetalleUsuario' " + aux + ">Eliminar</a>";
+                    //        return etiquea_a;
+                    //    }
+                    //},
+                    //{
+                    //    "data": null, "title": "-", "orderable": false, "render": function (data, type, row) {
+                    //        var object_lista = (typeof data) == 'string' ? eval('(' + data + ')') : data;
+                    //        var idCompania = "'" + object_lista.idCompania + "'";
+                    //        var ruc = "'" + object_lista.ruc + "'";
+                    //        var nombreComercial = "'" + object_lista.nombreComercial + "'";
+                    //        var razonSocial = "'" + object_lista.razonSocial + "'";
+                    //        var direccionMatriz = "'" + object_lista.direccionMatriz + "'";
+                    //        var idTiempoAmbiente = "'" + object_lista.idTiempoAmbiente + "'";
+                    //        var tiempoAmbiente = "'" + object_lista.tiempoAmbiente + "'";
+                    //        var idEstado = "'" + object_lista.idEstado + "'";
+                    //        var claveActivacion = "'" + object_lista.claveActivacion + "'";
+                    //        var obligadoContabilidad = "'" + object_lista.obligadoContabilidad + "'";
+                    //        var contribuyenteEspecial = "'" + object_lista.contribuyenteEspecial + "'";
+                    //        var aux = 'href="javascript:ModificarCompania(' + idCompania + ','+ ruc +','+cantidadFirma+','+cantidadCorreo+','+cantidadAutorizacion+','+reprocesoFirma+','+reprocesoCorreo+','+reprocesoAutorizacion+','+idCompania+')"';
+                    //        var etiquea_a = "<a class='ViaDoc-button-filtro ViaDoc-principal' class='btnDetalleUsuario' " + aux + ">Modificar</a>";
+                    //        return etiquea_a;
+                    //    }
+                    //},
+                    //{
+                    //    "data": null, "title": "-", "orderable": false, "render": function (data, type, row) {
+                    //        var object_lista = (typeof data) == 'string' ? eval('(' + data + ')') : data;
+                    //        var idCompania = "'" + object_lista.idCompania + "'";
+                    //        var aux = 'href="javascript:EliminarCompania(' + idCompania + ')"';
+                    //        var etiquea_a = "<a class='ViaDoc-button-filtro ViaDoc-principal' class='btnDetalleUsuario' " + aux + ">Eliminar</a>";
+                    //        return etiquea_a;
+                    //    }
+                    //},
+                ],
+            });
+            //var _idNombreEmpresa = $("#idCompania").val();
+            //ConsultaParametrizacion(_idNombreEmpresa);
+        });
+
+        function ModificarCompania(idCompania,ruc) {
+
+        }
+
+
+            //btnNuevaSurcusal
+    </script>
+</main>

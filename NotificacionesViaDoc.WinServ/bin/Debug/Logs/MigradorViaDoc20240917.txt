@@ -1,0 +1,172 @@
+[CustomError]: 17/9/2024 13:42:06
+[Metodo]: NotificacionCertificado: fecha actual17/09/2024
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 13:43:25
+[Metodo]: NotificacionCertificado: fecha actual17/09/2024
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 13:43:42
+[Metodo]: NotificacionCertificado: fecha actual17/09/2024
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 13:44:10
+[Metodo]: NotificacionCertificado: fecha actual17/09/2024
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 13:44:17
+[Metodo]: NotificacionCertificado: fecha actual17/09/2024
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 13:44:43
+[Metodo]: NotificacionCertificado: fecha actual17/09/2024
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 13:45:57
+[Metodo]: NotificacionCertificado: fecha actual17/09/2024
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 14:08:24
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 14:08:25
+[Metodo]: Servidor An error occurred while attempting to establish an SSL or TLS connection.
+
+The server's SSL certificate could not be validated for the following reasons:
+• The server certificate has the following errors:
+  • La función de revocación no puede comprobar la revocación para el certificado.
+
+  • La función de revocación no puede comprobar la revocación debido a que el servidor de revocación está sin conexión.
+
+• An intermediate certificate has the following errors:
+  • La función de revocación no puede comprobar la revocación para el certificado.
+
+  • La función de revocación no puede comprobar la revocación debido a que el servidor de revocación está sin conexión.
+
+
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 14:08:31
+[Metodo]: enviar mail The SmtpClient is not connected.
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 14:11:35
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 14:11:36
+[Metodo]: Servidor An error occurred while attempting to establish an SSL or TLS connection.
+
+The server's SSL certificate could not be validated for the following reasons:
+• The server certificate has the following errors:
+  • La función de revocación no puede comprobar la revocación para el certificado.
+
+  • La función de revocación no puede comprobar la revocación debido a que el servidor de revocación está sin conexión.
+
+• An intermediate certificate has the following errors:
+  • La función de revocación no puede comprobar la revocación para el certificado.
+
+  • La función de revocación no puede comprobar la revocación debido a que el servidor de revocación está sin conexión.
+
+
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 14:12:04
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 14:12:05
+[Metodo]: Servidor An error occurred while attempting to establish an SSL or TLS connection.
+
+The server's SSL certificate could not be validated for the following reasons:
+• The server certificate has the following errors:
+  • La función de revocación no puede comprobar la revocación para el certificado.
+
+  • La función de revocación no puede comprobar la revocación debido a que el servidor de revocación está sin conexión.
+
+• An intermediate certificate has the following errors:
+  • La función de revocación no puede comprobar la revocación para el certificado.
+
+  • La función de revocación no puede comprobar la revocación debido a que el servidor de revocación está sin conexión.
+
+
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 14:12:44
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 14:12:45
+[Metodo]: Servidor An error occurred while attempting to establish an SSL or TLS connection.
+
+The server's SSL certificate could not be validated for the following reasons:
+• The server certificate has the following errors:
+  • La función de revocación no puede comprobar la revocación para el certificado.
+
+  • La función de revocación no puede comprobar la revocación debido a que el servidor de revocación está sin conexión.
+
+• An intermediate certificate has the following errors:
+  • La función de revocación no puede comprobar la revocación para el certificado.
+
+  • La función de revocación no puede comprobar la revocación debido a que el servidor de revocación está sin conexión.
+
+
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 14:13:52
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 14:13:53
+[Metodo]: Servidor An error occurred while attempting to establish an SSL or TLS connection.
+
+The server's SSL certificate could not be validated for the following reasons:
+• The server certificate has the following errors:
+  • La función de revocación no puede comprobar la revocación para el certificado.
+
+  • La función de revocación no puede comprobar la revocación debido a que el servidor de revocación está sin conexión.
+
+• An intermediate certificate has the following errors:
+  • La función de revocación no puede comprobar la revocación para el certificado.
+
+  • La función de revocación no puede comprobar la revocación debido a que el servidor de revocación está sin conexión.
+
+
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 14:14:02
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 14:14:03
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 14:15:25
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 14:15:26
+[Metodo]: Servidor An error occurred while attempting to establish an SSL or TLS connection.
+
+The server's SSL certificate could not be validated for the following reasons:
+• The server certificate has the following errors:
+  • La función de revocación no puede comprobar la revocación para el certificado.
+
+  • La función de revocación no puede comprobar la revocación debido a que el servidor de revocación está sin conexión.
+
+• An intermediate certificate has the following errors:
+  • La función de revocación no puede comprobar la revocación para el certificado.
+
+  • La función de revocación no puede comprobar la revocación debido a que el servidor de revocación está sin conexión.
+
+
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 14:15:29
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 14:15:30
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 14:17:39
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 14:17:40
+[Metodo]: Servidor An error occurred while attempting to establish an SSL or TLS connection.
+
+The server's SSL certificate could not be validated for the following reasons:
+• The server certificate has the following errors:
+  • La función de revocación no puede comprobar la revocación para el certificado.
+
+  • La función de revocación no puede comprobar la revocación debido a que el servidor de revocación está sin conexión.
+
+• An intermediate certificate has the following errors:
+  • La función de revocación no puede comprobar la revocación para el certificado.
+
+  • La función de revocación no puede comprobar la revocación debido a que el servidor de revocación está sin conexión.
+
+
+[CustomError]: FIN 
+[CustomError]: 17/9/2024 14:20:08
+[Metodo]: NotificacionCertificado: fecha actual17/09/2024
+[CustomError]: FIN 

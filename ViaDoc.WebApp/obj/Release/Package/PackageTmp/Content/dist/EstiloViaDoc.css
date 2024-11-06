@@ -1,0 +1,103 @@
+﻿body {
+}
+
+.ViaDoc-textfield {
+    position: relative;
+    margin: 1.5rem 0;
+    width: 100%;
+    text-align: left;
+}
+
+    .ViaDoc-textfield input {
+        width: 100%;
+    }
+
+.ViaDoc-textbox {
+    padding: 1rem;
+    padding-right: 3rem;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    position: relative;
+    border: 0;
+    outline: 0;
+    color: #00003C;
+    background-color: #FAFAFC;
+    border-radius: 5px;
+    border: 1px solid #D9DBE8;
+    transition: all 300ms;
+    -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+}
+
+.ViaDoc-button {
+    /*border: none;
+    position: relative;*/
+    /*outline: none;*/
+    text-align: center;
+    padding: 1.4rem 2.5rem;
+    /*color: #ffffff;*/
+    /*text-decoration: none;*/
+    /*display: inline-block;
+    background-color: #00003C;*/
+    font-size: 1.6rem;
+    /*transition: all 0.4s ease-in-out;
+    overflow: hidden;*/
+    border-radius: 10px;
+    /*cursor: pointer;*/
+}
+
+
+    .ViaDoc-button.ViaDoc-primary {
+        color: #ffffff;
+        /*border: 1px solid #00003C;*/
+        background: linear-gradient(to top, #063b50, #006289);
+        text-decoration: none;
+    }
+
+        .ViaDoc-button.ViaDoc-primary:hover {
+            background: linear-gradient(to top, #063b50, #063b50 );
+            background-color: #00003C;
+            color: #ffffff;
+        }
+
+        .ViaDoc-button.ViaDoc-primary::after {
+            content: none;
+        }
+
+.ViaDoc-button-filtro {
+    text-align: center;
+    padding: 1.2rem 2.0rem;
+    border-radius: 10px;
+}
+
+    .ViaDoc-button-filtro.ViaDoc-principal {
+        color: #ffffff;
+        /*border: 1px solid #00003C;*/
+        background: linear-gradient(to top, #0a6837, #009245);
+        text-decoration: none;
+    }
+
+        .ViaDoc-button-filtro.ViaDoc-principal:hover {
+            background: linear-gradient(to top, #114e2e, #114e2e);
+            /*background-color: #00003C;*/
+            color: #ffffff;
+        }
+
+        .ViaDoc-button-filtro.ViaDoc-principal::after {
+            content: none;
+        }
+
+.bg-button.bg-link {
+    color: #00ace4;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+    .bg-button.bg-link:hover {
+        background-color: #dddddd;
+    }
+
+    .bg-button.bg-link::after {
+        content: none;
+    }
+
+/*#009245*/

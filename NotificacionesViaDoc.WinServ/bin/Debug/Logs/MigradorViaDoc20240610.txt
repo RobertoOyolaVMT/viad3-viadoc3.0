@@ -1,0 +1,338 @@
+[CustomError]: 10/6/2024 08:52:02
+[Metodo]: NotificacinDocAtrasados: La conversión especificada no es válida.
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 08:52:03
+[Metodo]: Excpetion: El nombre de columna 'txFechaEmision' no es válido.
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 09:06:26
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 09:06:27
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 09:06:51
+[Metodo]: NotificacinDocAtrasados: Please set the ExcelPackage.LicenseContext property. See https://epplussoftware.com/developers/licenseexception
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 09:06:51
+[Metodo]: Excpetion: El nombre de columna 'txFechaEmision' no es válido.
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 09:06:53
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 09:06:53
+[Metodo]: Servidor The SmtpClient is already connected.
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 09:08:02
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 09:08:03
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 09:12:12
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 09:12:13
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 09:20:27
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 09:20:28
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 09:20:54
+[Metodo]: Metodo: NotificacinDocAtrasados, Mensaje: No se genero el excel
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 09:21:10
+[Metodo]: Excpetion: El nombre de columna 'txFechaEmision' no es válido.
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 09:21:40
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 09:21:40
+[Metodo]: Servidor The SmtpClient is already connected.
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 09:21:41
+[Metodo]: Metodo: NotificacinDocAtrasados, Mensaje: Se envio de maenra correcta
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 09:24:02
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 09:24:04
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 09:24:05
+[Metodo]: Metodo: NotificacinDocAtrasados, Mensaje: Se envio de maenra correcta
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 09:24:05
+[Metodo]: Excpetion: El nombre de columna 'txFechaEmision' no es válido.
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 09:24:06
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 09:24:06
+[Metodo]: Servidor The SmtpClient is already connected.
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 09:24:07
+[Metodo]: Metodo: NotificacinDocAtrasados, Mensaje: Se envio de maenra correcta
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 09:30:48
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 09:30:49
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 09:30:54
+[Metodo]: Metodo: NotificacinDocAtrasados, Mensaje: Se envio de maenra correcta
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 09:30:55
+[Metodo]: Excpetion: El nombre de columna 'txFechaEmision' no es válido.
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 10:06:06
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 10:06:07
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 10:06:10
+[Metodo]: Metodo: NotificacinDocAtrasados, Mensaje: Se envio de maenra correcta
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 10:06:10
+[Metodo]: Excpetion: El nombre de columna 'txFechaEmision' no es válido.
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 10:06:11
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 10:06:11
+[Metodo]: Servidor The SmtpClient is already connected.
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 10:06:12
+[Metodo]: Metodo: NotificacinDocAtrasados, Mensaje: Se envio de maenra correcta
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 10:08:44
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 10:08:46
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 10:08:48
+[Metodo]: Metodo: NotificacinDocAtrasados, Mensaje: Se envio de maenra correcta
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 10:08:48
+[Metodo]: Excpetion: El nombre de columna 'txFechaEmision' no es válido.
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 10:08:49
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 10:08:49
+[Metodo]: Servidor The SmtpClient is already connected.
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 10:08:51
+[Metodo]: Metodo: NotificacinDocAtrasados, Mensaje: Se envio de maenra correcta
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 10:10:26
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 10:10:28
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 10:10:31
+[Metodo]: Metodo: NotificacinDocAtrasados, Mensaje: Se envio de maenra correcta
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 10:10:31
+[Metodo]: Excpetion: El nombre de columna 'txFechaEmision' no es válido.
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 10:38:10
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 10:38:11
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 10:38:26
+[Metodo]: Metodo: NotificacinDocAtrasados, Mensaje: Se envio de maenra correcta
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 10:38:26
+[Metodo]: Excpetion: El nombre de columna 'txFechaEmision' no es válido.
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 10:44:55
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 10:44:57
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 10:45:00
+[Metodo]: Metodo: NotificacinDocAtrasados, Mensaje: Se envio de maenra correcta
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 10:45:01
+[Metodo]: Excpetion: El nombre de columna 'txFechaEmision' no es válido.
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 10:52:33
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 10:52:36
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 10:52:39
+[Metodo]: NotificacinDocAtrasados: El proceso no puede obtener acceso al archivo 'C:\ArturoXD\ArchivoPrueba.xlsx' porque está siendo utilizado en otro proceso.
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 10:52:40
+[Metodo]: Excpetion: El nombre de columna 'txFechaEmision' no es válido.
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 10:57:34
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 10:57:37
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 10:57:39
+[Metodo]: Metodo: NotificacinDocAtrasados, Mensaje: Se envio de maenra correcta
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 10:57:40
+[Metodo]: Excpetion: El nombre de columna 'txFechaEmision' no es válido.
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 11:00:25
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 11:00:27
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 11:00:30
+[Metodo]: Metodo: NotificacinDocAtrasados, Mensaje: Se envio de maenra correcta
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 11:00:31
+[Metodo]: Excpetion: El nombre de columna 'txFechaEmision' no es válido.
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 12:45:35
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 12:45:36
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 12:45:55
+[Metodo]: NotificacinDocAtrasados: DataTable ya pertenece a otro DataSet.
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 12:46:05
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 12:46:07
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 12:53:44
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 12:53:45
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 12:54:01
+[Metodo]: NotificacinDocAtrasados: DataTable ya pertenece a otro DataSet.
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 12:54:06
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 12:54:08
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 13:08:15
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 13:08:16
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 14:17:48
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 14:17:49
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 14:18:03
+[Metodo]: Excpetion: El nombre de columna 'txFechaEmision' no es válido.
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 14:20:16
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 14:20:17
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 14:23:30
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 14:23:32
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 14:26:10
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 14:26:11
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 14:29:37
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 14:29:38
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 14:31:11
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 14:31:12
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 14:31:14
+[Metodo]: Excpetion: El nombre de columna 'txFechaEmision' no es válido.
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 14:36:23
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 14:36:24
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 14:36:26
+[Metodo]: Excpetion: El nombre de columna 'txFechaEmision' no es válido.
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 14:42:19
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 14:42:20
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 14:42:24
+[Metodo]: Excpetion: El nombre de columna 'txFechaEmision' no es válido.
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 14:43:07
+[Metodo]: Metodo: NotificacinDocAtrasados, Mensaje: Se envio de maenra correcta
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 15:43:30
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 15:43:32
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 15:43:32
+[Metodo]: Excpetion: El nombre de columna 'txFechaEmision' no es válido.
+El nombre de columna 'txFechaEmision' no es válido.
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 15:43:35
+[Metodo]: Metodo: NotificacinDocAtrasados, Mensaje: Se envio de maenra correcta
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 15:46:06
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 15:46:11
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 15:46:12
+[Metodo]: Excpetion: El nombre de columna 'txFechaEmision' no es válido.
+El nombre de columna 'txFechaEmision' no es válido.
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 15:46:15
+[Metodo]: Metodo: NotificacinDocAtrasados, Mensaje: Se envio de maenra correcta
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 16:37:15
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 16:37:17
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 10/6/2024 16:38:26
+[Metodo]: NotificacinDocAtrasados: La columna 'claveAcceso' no pertenece a la tabla Tbl_1.
+[CustomError]: FIN 

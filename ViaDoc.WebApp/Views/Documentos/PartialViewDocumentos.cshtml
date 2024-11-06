@@ -1,0 +1,116 @@
+﻿@using ViaDoc.EntidadNegocios.portalWeb
+
+@model ViaDoc.EntidadNegocios.portalWeb.DocumentosLista
+
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                <table id="tblDocumentos" class="table table-bordered table-striped" style="font-size:13px">
+                    <thead>
+                        <tr>
+                            <th>Comprador</th>
+                            <th>Identificación</th>
+                            <th>Documento</th>
+                            <th>Fecha Autorización</th>
+                            <th>Num. Documento</th>
+                            <th>Clave de Acceso</th>
+                            <th>Estado Documento</th>
+                            <th>Descargar XML</th>
+                            <th>Descargar PDF</th>
+                            <th>Enviar Correo</th>
+                            <th>Enviar al Portal</th>
+                        </tr>
+                    </thead>
+                    @*<tbody>
+                        @foreach (var item in Model.objListaDocumento)
+                        {
+                            <tr>
+                                <td>@item.razonSocialComprador</td>
+                                <td>@item.identificacionComprador</td>
+                                <td>@item.tipoDocumento</td>
+                                <td>@item.fechaHoraAutorizacion</td>
+                                <td>@item.NumeroDocumento</td>
+                                <td>@item.claveAcceso</td>
+                                <td>@item.descripcionEstado</td>
+                                <td>
+                                    @using (Html.BeginForm("DescargarXML", @HttpContext.Current.Request.RequestContext.RouteData.Values["controller"].ToString(), FormMethod.Post, new { enctype = "multipart/form-data" }))
+                                    {
+                                        <input type="hidden" name="txtClaveAcceso" value="@item.claveAcceso" />
+                                        <input type="hidden" name="txtTipoDocumento" value="@item.tipoDocumento" />
+
+                                        <button type="submit" class="btn btn-danger btn-sm">
+                                            <span class="glyphicon glyphicon-download-alt"></span> Descargar XML
+                                        </button>
+                                    }
+                                </td>
+                                <td>
+                                    @using (Html.BeginForm("DescargarPDF", @HttpContext.Current.Request.RequestContext.RouteData.Values["controller"].ToString(), FormMethod.Post, new { enctype = "multipart/form-data" }))
+                                    {
+                                        <input type="hidden" name="ciIdCompania" value="@item.idCompania" />
+                                        <input type="hidden" name="txFechaHoraAutorizacion" value="@item.fechaHoraAutorizacion" />
+                                        <input type="hidden" name="txNumeroAutorizacion" value="@item.numeroAutorizacion" />
+                                        <input type="hidden" name="txTipoDocumento" value="@item.tipoDocumento" />
+                                        <input type="hidden" name="txNumeroDocumento" value="@item.NumeroDocumento" />
+
+
+                                        <button type="submit" class="btn btn-success btn-sm">
+                                            <span class="glyphicon glyphicon-download-alt"></span> Descargar PDF
+                                        </button>
+                                    }
+                                </td>
+                                <td>
+                                    <input type="button" value="Enviar Email" class="btn btn-info" onclick="EnviaEmail('@item.idEstado', '@item.idCompania', '@item.tipoDocumento', '@item.claveAcceso', '@item.email', '@item.razonSocial')" />
+                                </td>
+                                <td>
+                                    <input type="button" value="Enviar Portal" class="btn btn-primary" onclick="EnviaPortal('@item.idEstado', '@item.idCompania', '@item.tipoDocumento', '@item.claveAcceso')" />
+                                </td>
+                            </tr>
+                        }
+                    </tbody>*@
+                </table>
+            </div>
+            <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+    </div>
+    <!-- /.col -->
+</div>
+
+<script>
+
+    var jsonData =  @ViewData["jsonData"];
+
+    $('#tblDocumentos').DataTable({
+        "data": jsonData,
+        "deferRender": true,
+        "scrollY": 200,
+        "scrollCollapse": true,
+        "scroller": true,
+        "paging": true,
+        "searching": false,
+        "ordering": true,
+        "autoWidth": false,
+        "pageLength": 10,
+        "responsive": true,
+        "language": {
+            url: "../Content/idioma/espaniol.json"
+        },
+    });
+
+    function EnviaEmail(ciEstado, ciIdCompania, txTipoDocumento, txClaveAcceso, txEmail, txRazonSocial) {
+        $("#txDocumento").val(txTipoDocumento);
+        $("#txClaveAcceso").val(txClaveAcceso);
+        $("#txRazonSocial").val(txRazonSocial);
+        $("#txEmail").val(txEmail);
+        $("#ciEstado").val(ciEstado);
+        $("#ciCompania").val(ciIdCompania);
+
+        $("#envioCorreo").modal('show');
+
+    }
+
+    function EnviaPortal(ciEstado, ciIdCompania, txTipoDocumento, txClaveAcceso) {
+        EnviaPortalCliente(ciEstado, ciIdCompania, txTipoDocumento, txClaveAcceso);
+    }
+</script>

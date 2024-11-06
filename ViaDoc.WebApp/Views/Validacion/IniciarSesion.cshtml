@@ -1,0 +1,128 @@
+﻿
+@{
+    ViewBag.Title = "IniciarSesion";
+    Layout = null;
+}
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>ViaDoc 3.0</title>
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+
+    <link href="~/Content/plugins/fontawesome-free/css/all.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+    <link href="~/Content/dist/css/adminlte.min.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
+    <link href="~/Content/plugins/sweetalert2-theme-bootstrap-4/bootstrap-4.min.css" rel="stylesheet" />
+    <link href="~/Content/plugins/toastr/toastr.min.css" rel="stylesheet" />
+    <link href="~/Content/dist/procesando.css" rel="stylesheet" />
+</head>
+
+<body class="hold-transition login-page">
+
+    @if (ViewData["mensajeError"] != null)
+    {
+        <script type="text/javascript">
+        var respuesta = '@Html.Encode(ViewData["mensajeError"].ToString())';
+        llamaModal('warning', respuesta, 2500);
+        </script>
+    }
+
+    <div class="content-header">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="row justify-content-center">
+                    <div class="col-sm-12 text-center"><img src="~/Content/img/viadoc.png" width="210" height="100"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="login-box">
+
+    </div>
+    @using (Html.BeginForm("ValidacionUsuario", @HttpContext.Current.Request.RequestContext.RouteData.Values["controller"].ToString(), FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+        <div class="card" id="divLogin">
+            <div class="card-body login-card-body">
+                <p class="login-box-msg">Bienvenidos al Sistema ViaDoc 3.0</p>
+
+                <form action="#" method="post">
+                    <div class="input-group mb-3">
+                        <input type="text" name="txtUsuario" required class="form-control" placeholder="Ingrese Usuario">
+                        <div class="input-group-append">
+                            <div class="input-group-text">
+                                <span class="fas fa-user"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="input-group mb-3">
+                        <input type="password" class="form-control" required name="txtPassword" placeholder="Ingrese Password">
+                        <div class="input-group-append">
+                            <div class="input-group-text">
+                                <span class="fas fa-lock"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <button type="submit" id="btnIngresar" class="btn btn-primary btn-block"> Ingresar </button>
+                    </div>
+                </form>
+
+            </div>
+        </div>
+    }
+
+    <div class="cartprocess" style="display: none;">
+        <center>
+            <div class="inbox">
+                <div>
+                    <img src=@Href("~/Content/img/procesando.gif") style="max-width:50%" />
+                </div>
+            </div>
+        </center>
+    </div>
+
+    <div align="center" style="color: #080808;">
+        <br />
+        <p> ViaDoc 3.0 | Desarrollado por:</p><p>
+            <a href="http://www.viamatica.com" target="_blank">
+                <img src="~/Content/img/logo-viamatica-2020-PNG.png" width="230" height="150" />
+            </a>
+        </p>
+    </div>
+
+    <script src="/Content/plugins/jquery/jquery.min.js"></script>
+    <script src="/Content/plugins/jquery-ui/jquery-ui.min.js"></script>
+
+    <script src="/Content/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="/Content/plugins/chart.js/Chart.min.js"></script>
+    <script src="/Content/dist/js/adminlte.min.js"></script>
+    <script src="/Content/dist/js/demo.js"></script>
+    <script src="~/Content/plugins/sweetalert2/sweetalert2.min.js"></script>
+
+    <script src="~/Content/plugins/toastr/toastr.min.js"></script>
+    <script src="~/Content/dist/validaciones.js"></script>
+
+    @if (ViewData["mensajeError"] != null)
+    {
+        <script type="text/javascript">
+            var respuesta = '@Html.Encode(ViewData["mensajeError"].ToString())';
+            llamaModal('warning', respuesta, 2500);
+        </script>
+    }
+
+    <script>
+        $('#btnIngresar').on('click', function () {
+            $(".cartprocess").fadeTo(30, 0.40, function () {
+            });
+        });
+    </script>
+
+</body>
+</html>
+
+
+

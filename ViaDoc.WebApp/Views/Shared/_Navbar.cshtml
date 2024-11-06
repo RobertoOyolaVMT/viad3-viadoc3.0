@@ -1,0 +1,29 @@
+﻿@model IEnumerable<ViaDoc.WebApp.Models.MPerfiles>
+
+<ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
+    @foreach (var listaMenu in Model)
+    {
+        var idCodigo = listaMenu.idCodigo;
+        <li class="nav-item has-treeview">
+            <a href="#" class="nav-link">
+                <i class="@listaMenu.iconoMenu"></i>
+                <p>
+                    @listaMenu.NombreMenu
+                    <i class="right fas fa-angle-left"></i>
+                </p>
+            </a>
+            <ul class="nav nav-treeview">
+                @foreach (var listaOpciones in listaMenu.listaOpciones)
+                {
+                    var idCodigoPerfil = listaOpciones.codigoOpcion;
+                    <li class="nav-item">
+                        <a href="@Url.Action(listaOpciones.rutaAccion, listaOpciones.rutaControlador)" class="nav-link">
+                            <i class="@listaOpciones.iconoOpcion"></i>
+                            <p style="font-size:15px">@listaOpciones.NombreOpcion</p>
+                        </a>
+                    </li>
+                }
+            </ul>
+        </li>
+    }
+</ul>

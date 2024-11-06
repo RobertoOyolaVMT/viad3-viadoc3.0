@@ -1,0 +1,61 @@
+﻿
+@using ViaDoc.EntidadNegocios.portalWeb
+
+@model ViaDoc.EntidadNegocios.portalWeb.EstadisticasDetalleLista
+
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                <table id="tblEstadisticasDetalles" class="table table-bordered table-striped" style="font-size:13px">
+                    <thead>
+                        <tr>
+                            <th>Número de Documento</th>
+                            <th>Clave de Acceso</th>
+                            <th>Ver Detalle</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.objListEstadisticasDetalle)
+                        {
+                            <tr>
+                                <td><center>@item.NumDocumento</center></td>
+                                <td><center>@item.txClaveAcceso</center></td>
+                                <td>
+                                    <center>
+                                        <input type="hidden" id="@item.txClaveAcceso" value="@item.TxMensajeError" />
+                                        <input type="button" class="btn btn-success" onclick="levantaModal('@item.txClaveAcceso')" value="Ver Error" />
+                                    </center>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+    </div>
+    <!-- /.col -->
+</div>
+
+<script>
+    $('#tblEstadisticasDetalles').DataTable({
+        "paging": true,
+        "searching": true,
+        "ordering": true,
+        "autoWidth": false,
+        "pageLength": 05,
+        "responsive": true,
+        "language": {
+            url: "../Content/idioma/espaniol.json"
+        },
+    });
+
+    function levantaModal(claveAcceso) {
+
+        $("#pTexto").html($("#" + claveAcceso).val());
+        $("#divDetalles").modal('show');
+    }
+
+</script>

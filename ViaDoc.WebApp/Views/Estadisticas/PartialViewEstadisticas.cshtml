@@ -1,0 +1,70 @@
+﻿@using ViaDoc.EntidadNegocios.portalWeb
+
+@model ViaDoc.EntidadNegocios.portalWeb.EstadisticasLista
+
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                <table id="tblEstadisticas" class="table table-bordered table-striped tblEstadisticasGeneral" style="font-size:13px">
+                    <thead>
+                        <tr>
+                            <th>Documento</th>
+                            <th>Sin Procesa</th>
+                            <th>Firmados</th>
+                            <th>Errores de Firmas</th>
+                            <th>Errores de Recepción</th>
+                            <th>En Proceso</th>
+                            <th>Errores de Autorización</th>
+                            <th>Autorizados</th>
+                            <th>No Enviado al Cliente</th>
+                            <th>No Enviado al Portal</th>
+                            <th>Total</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        @foreach (var item in Model.objListEstadisticas)
+                        {
+                            <tr>
+                                <td><center>@item.documento</center></td>
+                                <td><center>@item.sinProcesar</center></td>
+                                <td><center>@item.firmados</center></td>
+                                <td><center><input type="button" style="padding: 0px;" class="btn btn-link" onclick="llamaDetalle('@item.documento','EFI')" value="@item.errorFirma"></center></td>
+                                <td><center><input type="button" style="padding: 0px;" class="btn btn-link" onclick="llamaDetalle('@item.documento','ERE')" value="@item.errorRecepcion"></center></td>
+                                <td><center>@item.enProceso</center></td>
+                                <td><center><input type="button" style="padding: 0px;" class="btn btn-link" onclick="llamaDetalle('@item.documento','EAU')" value="@item.errorAutorizacion"></center></td>
+                                <td><center>@item.autorizado</center></td>
+                                <td><center>@item.noEnviadoCliente</center></td>
+                                <td><center>@item.noEnviadoPortal</center></td>
+                                <td><center>@item.total</center></td>
+                            </tr>
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+            <!-- /.card-body -->
+        </div>
+        <!-- /.card -->
+    </div>
+    <!-- /.col -->
+</div>
+
+<script>
+    $('.tblEstadisticasGeneral').DataTable({
+        "paging": false,
+        "searching": false,
+        "ordering": false,
+        "autoWidth": false,
+        "pageLength": 10,
+        "responsive": true,
+        "language": {
+            url: "../Content/idioma/espaniol.json"
+        },
+    });
+
+    function llamaDetalle(tipoDocumento, estado) {
+        DetalleEstadisticas($("#txtIdEmpresa").val(), $("#txtFechaInicio").val(), $("#txtFechaFin").val(), tipoDocumento, estado);
+    }
+</script>

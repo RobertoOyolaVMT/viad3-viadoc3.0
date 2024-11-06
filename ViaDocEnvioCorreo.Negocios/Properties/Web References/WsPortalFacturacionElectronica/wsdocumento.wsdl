@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns="urn:wsdocumento" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns="http://schemas.xmlsoap.org/wsdl/" targetNamespace="urn:wsdocumento" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="urn:wsdocumento">
+      <xsd:import namespace="http://schemas.xmlsoap.org/soap/encoding/" />
+      <xsd:import namespace="http://schemas.xmlsoap.org/wsdl/" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="insertarRequest">
+    <wsdl:part name="ruc_empresa" type="xsd:string" />
+    <wsdl:part name="tip_documento" type="xsd:string" />
+    <wsdl:part name="num_documento" type="xsd:string" />
+    <wsdl:part name="cedruc_cliente" type="xsd:string" />
+    <wsdl:part name="tipo_emision" type="xsd:string" />
+    <wsdl:part name="num_autorizacion" type="xsd:string" />
+    <wsdl:part name="xml_autorizado" type="xsd:string" />
+    <wsdl:part name="fec_emision" type="xsd:string" />
+    <wsdl:part name="fec_autorizacion" type="xsd:string" />
+    <wsdl:part name="ciContingenciaDet" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:message name="insertarResponse">
+    <wsdl:part name="respuesta" type="xsd:string" />
+  </wsdl:message>
+  <wsdl:portType name="wsdocumentoPortType">
+    <wsdl:operation name="insertar">
+      <documentation>insertar</documentation>
+      <wsdl:input message="tns:insertarRequest" />
+      <wsdl:output message="tns:insertarResponse" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="wsdocumentoBinding" type="tns:wsdocumentoPortType">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" style="rpc" />
+    <wsdl:operation name="insertar">
+      <soap:operation soapAction="urn:wsdocumento#insertar" style="rpc" />
+      <wsdl:input>
+        <soap:body use="encoded" namespace="urn:insertar" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="encoded" namespace="urn:insertar" encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="wsdocumento">
+    <wsdl:port name="wsdocumentoPort" binding="tns:wsdocumentoBinding">
+      <soap:address location="http://facturacion.viadoc.com.ec/wsdocumento.php" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

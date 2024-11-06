@@ -1,0 +1,60 @@
+﻿@using ViaDoc.EntidadNegocios.portalWeb
+
+@model ViaDoc.EntidadNegocios.portalWeb.ListaReproceso
+
+<div class="row">
+    <div class="col-sm-12">
+        <div class="card">
+            <div class="card-body">
+                <table id="tblDocumentos" class="table table-bordered table-striped" style="font-size:13px">
+                    <thead>
+                        <tr>
+                            <th>RazonSocial</th>
+                            <th>TipoDocumento</th>
+                            <th>NumeroDocumento</th>
+                            <th>ClaveAcceso</th>
+                            <th>FechaEmision</th>
+                            <th>FechaHoraAutorizacion</th>
+                            <th>Estado</th>
+                            <th>CodError</th>
+                            <th>MenError</th>
+                            <th>NumeroCiclos</th>
+                            <th>REPROCESO</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.objResproceso)
+                        {
+                            <tr>
+                                <td>@item.RazonSocial</td>
+                                <td>@item.TipoDocumento</td>
+                                <td>@item.NumeroDocumento</td>
+                                <td>@item.ClaveAcceso</td>
+                                <td>@item.FechaEmision</td>
+                                <td>@item.FechaHoraAutorizacion</td>
+                                <td>@item.Estado</td>
+                                <td>@item.CodError</td>
+                                <td>@item.MenError</td>
+                                <td>@item.NumeroCiclos</td>
+                                <td> <input type="button" value="REPROCESO" class="btn btn-primary" onclick="Reproceso('@item.ClaveAcceso', '@item.CiEstado')" /> </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    $('#tblDocumentos').DataTable({
+        "paging": true,
+        "searching": false,
+        "ordering": true,
+        "autoWidth": false,
+        "pageLength": 10,
+        "responsive": true,
+        "language": {
+            url: "../Content/idioma/espaniol.json"
+        },
+    });
+</script>

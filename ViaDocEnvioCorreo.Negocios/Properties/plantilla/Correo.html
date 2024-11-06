@@ -1,0 +1,559 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title></title>
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+    <style type="text/css">
+        @font-face {
+            font-family: 'Nunito Sans';
+            font-style: normal;
+            font-weight: 300;
+            src: local("Nunito Sans Light"), local("NunitoSans-Light"), url(https://fonts.gstatic.com/s/nunitosans/v3/pe03MImSLYBIv1o4X1M8cc8WAc5iU1ECVZl_86Y.woff2) format("woff2");
+            unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+        }
+
+        @font-face {
+            font-family: 'Nunito Sans';
+            font-style: normal;
+            font-weight: 300;
+            src: local("Nunito Sans Light"), local("NunitoSans-Light"), url(https://fonts.gstatic.com/s/nunitosans/v3/pe03MImSLYBIv1o4X1M8cc8WAc5jU1ECVZl_86Y.woff2) format("woff2");
+            unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+        }
+
+        @font-face {
+            font-family: 'Nunito Sans';
+            font-style: normal;
+            font-weight: 300;
+            src: local("Nunito Sans Light"), local("NunitoSans-Light"), url(https://fonts.gstatic.com/s/nunitosans/v3/pe03MImSLYBIv1o4X1M8cc8WAc5tU1ECVZl_.woff2) format("woff2");
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+        }
+
+        @font-face {
+            font-family: 'Nunito Sans';
+            font-style: normal;
+            font-weight: 400;
+            src: local("Nunito Sans Regular"), local("NunitoSans-Regular"), url(https://fonts.gstatic.com/s/nunitosans/v3/pe0qMImSLYBIv1o4X1M8cceyI9tAcVwob5A.woff2) format("woff2");
+            unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+        }
+
+        @font-face {
+            font-family: 'Nunito Sans';
+            font-style: normal;
+            font-weight: 400;
+            src: local("Nunito Sans Regular"), local("NunitoSans-Regular"), url(https://fonts.gstatic.com/s/nunitosans/v3/pe0qMImSLYBIv1o4X1M8ccezI9tAcVwob5A.woff2) format("woff2");
+            unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+        }
+
+        @font-face {
+            font-family: 'Nunito Sans';
+            font-style: normal;
+            font-weight: 400;
+            src: local("Nunito Sans Regular"), local("NunitoSans-Regular"), url(https://fonts.gstatic.com/s/nunitosans/v3/pe0qMImSLYBIv1o4X1M8cce9I9tAcVwo.woff2) format("woff2");
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+        }
+
+        @font-face {
+            font-family: 'Nunito Sans';
+            font-style: normal;
+            font-weight: 700;
+            src: local("Nunito Sans Bold"), local("NunitoSans-Bold"), url(https://fonts.gstatic.com/s/nunitosans/v3/pe03MImSLYBIv1o4X1M8cc8GBs5iU1ECVZl_86Y.woff2) format("woff2");
+            unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+        }
+
+        @font-face {
+            font-family: 'Nunito Sans';
+            font-style: normal;
+            font-weight: 700;
+            src: local("Nunito Sans Bold"), local("NunitoSans-Bold"), url(https://fonts.gstatic.com/s/nunitosans/v3/pe03MImSLYBIv1o4X1M8cc8GBs5jU1ECVZl_86Y.woff2) format("woff2");
+            unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+        }
+
+        @font-face {
+            font-family: 'Nunito Sans';
+            font-style: normal;
+            font-weight: 700;
+            src: local("Nunito Sans Bold"), local("NunitoSans-Bold"), url(https://fonts.gstatic.com/s/nunitosans/v3/pe03MImSLYBIv1o4X1M8cc8GBs5tU1ECVZl_.woff2) format("woff2");
+            unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+        }
+
+        body {
+            font-family: "Nunito Sans", sans-serif !important;
+        }
+
+        @media (max-width: 480px) {
+            h1, h2, h3, h4, h5, p, pre {
+                font-family: "Nunito Sans", sans-serif !important;
+            }
+
+            .signature {
+                margin-top: 0;
+                width: 100% !important;
+            }
+
+                .signature .button {
+                    font-size: 12px !important;
+                }
+
+            .bubble {
+                max-width: 100%;
+                width: 85% !important;
+                box-sizing: border-box;
+            }
+
+                .bubble img {
+                    width: 20px !important;
+                }
+
+            h1 {
+                font-size: 24px !important;
+            }
+
+            h2 {
+                font-size: 18px !important;
+            }
+
+            h5 {
+                font-size: 32px !important;
+            }
+
+            .banco_guayaquil_fullcolor {
+                width: 180px !important;
+                height: auto !important;
+            }
+
+            .banco_guayaquil_fullcolor_white {
+                width: 180px !important;
+                height: auto !important;
+            }
+
+            .banco_guayaquil_white {
+                width: 120px !important;
+                height: auto !important;
+            }
+
+            .amex_square {
+                width: 40px !important;
+                height: auto !important;
+            }
+
+            .amex {
+                width: 100px !important;
+                height: auto !important;
+            }
+
+            .amex_white {
+                width: 100px !important;
+                height: auto !important;
+            }
+
+            .evolution {
+                width: 120px !important;
+                height: auto !important;
+            }
+
+            .avanti {
+                width: 150px !important;
+                height: auto !important;
+            }
+
+            .amex_bluebox_banco_guayaquil {
+                width: 250px !important;
+                height: auto !important;
+            }
+
+            .visa_mastercard {
+                width: 300px !important;
+                height: auto !important;
+            }
+
+            .fluid {
+                height: auto !important;
+            }
+
+            .icon {
+                width: 30px !important;
+                height: auto !important;
+            }
+        }
+
+        @media (max-width: 600px) {
+            .inner {
+                width: 100% !important;
+            }
+        }
+
+        .preheader {
+            display: none;
+            visibility: hidden;
+            opacity: 0;
+            display: none;
+            max-height: 0px;
+            font-size: 0px;
+            overflow: hidden;
+            mso-hide: all;
+        }
+
+        @media (max-width: 600px) {
+            .contact-buttons {
+                display: block;
+                margin-right: 0 !important;
+                margin-bottom: 10px;
+                text-align: center;
+            }
+        }
+    </style><!--[iflte mso 15 | IE]>  <style type="text/css">body{font-family:"Calibri",sans-serif !important}.inner{width:500px !important}</style>  <![endif]-->
+    <style>
+        @media only screen and (min-width: 480px) {
+            .dplr-mobile-only {
+                display: none !important;
+            }
+        }
+    </style>
+</head>
+<body>
+    <img alt='' src="https://op.mydplr.com/cd7a29150bbfba4428289ae5772706d3-440092076a55339b26981faeda1a9a9b" /><table width="100%" cellpadding="0" cellspacing="0" border="0" align="center">
+        <tr>
+            <td width="100%" align="center">
+                <style type="text/css">
+                    @font-face {
+                        font-family: 'Nunito Sans';
+                        font-style: normal;
+                        font-weight: 300;
+                        src: local("Nunito Sans Light"), local("NunitoSans-Light"), url(https://fonts.gstatic.com/s/nunitosans/v3/pe03MImSLYBIv1o4X1M8cc8WAc5iU1ECVZl_86Y.woff2) format("woff2");
+                        unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+                    }
+
+                    @font-face {
+                        font-family: 'Nunito Sans';
+                        font-style: normal;
+                        font-weight: 300;
+                        src: local("Nunito Sans Light"), local("NunitoSans-Light"), url(https://fonts.gstatic.com/s/nunitosans/v3/pe03MImSLYBIv1o4X1M8cc8WAc5jU1ECVZl_86Y.woff2) format("woff2");
+                        unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+                    }
+
+                    @font-face {
+                        font-family: 'Nunito Sans';
+                        font-style: normal;
+                        font-weight: 300;
+                        src: local("Nunito Sans Light"), local("NunitoSans-Light"), url(https://fonts.gstatic.com/s/nunitosans/v3/pe03MImSLYBIv1o4X1M8cc8WAc5tU1ECVZl_.woff2) format("woff2");
+                        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+                    }
+
+                    @font-face {
+                        font-family: 'Nunito Sans';
+                        font-style: normal;
+                        font-weight: 400;
+                        src: local("Nunito Sans Regular"), local("NunitoSans-Regular"), url(https://fonts.gstatic.com/s/nunitosans/v3/pe0qMImSLYBIv1o4X1M8cceyI9tAcVwob5A.woff2) format("woff2");
+                        unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+                    }
+
+                    @font-face {
+                        font-family: 'Nunito Sans';
+                        font-style: normal;
+                        font-weight: 400;
+                        src: local("Nunito Sans Regular"), local("NunitoSans-Regular"), url(https://fonts.gstatic.com/s/nunitosans/v3/pe0qMImSLYBIv1o4X1M8ccezI9tAcVwob5A.woff2) format("woff2");
+                        unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+                    }
+
+                    @font-face {
+                        font-family: 'Nunito Sans';
+                        font-style: normal;
+                        font-weight: 400;
+                        src: local("Nunito Sans Regular"), local("NunitoSans-Regular"), url(https://fonts.gstatic.com/s/nunitosans/v3/pe0qMImSLYBIv1o4X1M8cce9I9tAcVwo.woff2) format("woff2");
+                        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+                    }
+
+                    @font-face {
+                        font-family: 'Nunito Sans';
+                        font-style: normal;
+                        font-weight: 700;
+                        src: local("Nunito Sans Bold"), local("NunitoSans-Bold"), url(https://fonts.gstatic.com/s/nunitosans/v3/pe03MImSLYBIv1o4X1M8cc8GBs5iU1ECVZl_86Y.woff2) format("woff2");
+                        unicode-range: U+0102-0103, U+0110-0111, U+1EA0-1EF9, U+20AB;
+                    }
+
+                    @font-face {
+                        font-family: 'Nunito Sans';
+                        font-style: normal;
+                        font-weight: 700;
+                        src: local("Nunito Sans Bold"), local("NunitoSans-Bold"), url(https://fonts.gstatic.com/s/nunitosans/v3/pe03MImSLYBIv1o4X1M8cc8GBs5jU1ECVZl_86Y.woff2) format("woff2");
+                        unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+                    }
+
+                    @font-face {
+                        font-family: 'Nunito Sans';
+                        font-style: normal;
+                        font-weight: 700;
+                        src: local("Nunito Sans Bold"), local("NunitoSans-Bold"), url(https://fonts.gstatic.com/s/nunitosans/v3/pe03MImSLYBIv1o4X1M8cc8GBs5tU1ECVZl_.woff2) format("woff2");
+                        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+                    }
+
+                    body {
+                        font-family: "Nunito Sans", sans-serif !important;
+                    }
+
+                    @media (max-width: 480px) {
+                        h1, h2, h3, h4, h5, p, pre {
+                            font-family: "Nunito Sans", sans-serif !important;
+                        }
+
+                        .signature {
+                            margin-top: 0;
+                            width: 100% !important;
+                        }
+
+                            .signature .button {
+                                font-size: 12px !important;
+                            }
+
+                        .bubble {
+                            max-width: 100%;
+                            width: 85% !important;
+                            box-sizing: border-box;
+                        }
+
+                            .bubble img {
+                                width: 20px !important;
+                            }
+
+                        h1 {
+                            font-size: 24px !important;
+                        }
+
+                        h2 {
+                            font-size: 18px !important;
+                        }
+
+                        h5 {
+                            font-size: 32px !important;
+                        }
+
+                        .banco_guayaquil_fullcolor {
+                            width: 180px !important;
+                            height: auto !important;
+                        }
+
+                        .banco_guayaquil_fullcolor_white {
+                            width: 180px !important;
+                            height: auto !important;
+                        }
+
+                        .banco_guayaquil_white {
+                            width: 120px !important;
+                            height: auto !important;
+                        }
+
+                        .amex_square {
+                            width: 40px !important;
+                            height: auto !important;
+                        }
+
+                        .amex {
+                            width: 100px !important;
+                            height: auto !important;
+                        }
+
+                        .amex_white {
+                            width: 100px !important;
+                            height: auto !important;
+                        }
+
+                        .evolution {
+                            width: 120px !important;
+                            height: auto !important;
+                        }
+
+                        .avanti {
+                            width: 150px !important;
+                            height: auto !important;
+                        }
+
+                        .amex_bluebox_banco_guayaquil {
+                            width: 250px !important;
+                            height: auto !important;
+                        }
+
+                        .visa_mastercard {
+                            width: 300px !important;
+                            height: auto !important;
+                        }
+
+                        .fluid {
+                            height: auto !important;
+                        }
+
+                        .icon {
+                            width: 30px !important;
+                            height: auto !important;
+                        }
+                    }
+
+                    @media (max-width: 600px) {
+                        .inner {
+                            width: 100% !important;
+                        }
+                    }
+
+                    .preheader {
+                        display: none;
+                        visibility: hidden;
+                        opacity: 0;
+                        display: none;
+                        max-height: 0px;
+                        font-size: 0px;
+                        overflow: hidden;
+                        mso-hide: all;
+                    }
+
+                    @media (max-width: 600px) {
+                        .contact-buttons {
+                            display: block;
+                            margin-right: 0 !important;
+                            margin-bottom: 10px;
+                            text-align: center;
+                        }
+                    }
+                </style>
+
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; border-collapse: collapse !important; margin: 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0;">
+                    <tbody>
+                        <tr>
+                            <td style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; background-position: top center; background-repeat: no-repeat; margin: 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0;" background="https://app2.dopplerfiles.com/Users/18718/Campaigns/10771467/institucional_background.png" class="bg" bgcolor="#F7F7F7" valign="top">
+                                <div>
+
+                                    <table class="header left" width="600" align="center" bgcolor="#012244" cellpadding="0" cellspacing="0" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; border-collapse: collapse !important; box-sizing: border-box; margin: auto; max-width: 600px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; text-align: left; width: 95%;">
+                                        <tbody>
+                                            <tr>
+                                                <td valign="bottom" width="70%" align="left" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 20px 0 20px 10px;">
+
+                                                    <img src="https://app2.dopplerfiles.com/Users/18718/Campaigns/10771467/banco_guayaquil_fullcolor_white.png" width="180" height="60" class="banco_guayaquil_fullcolor_white" style="-ms-interpolation-mode: bicubic; border: 0; height: 60px; line-height: 100%; max-width: 100%; outline: none; text-decoration: none; width: 180px;" alt=" " />
+
+                                                </td>
+                                                <td class="right" width="30%" valign="bottom" align="right" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 20px 10px 20px 0;"></td>
+                                                <td width="10" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"></td>
+                                            </tr>
+
+                                        </tbody>
+                                    </table>
+                                    <table class="container post center " width="600" align="center" cellpadding="0" cellspacing="0" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; background-color: #fff; border-collapse: collapse !important; box-sizing: border-box; margin: auto; margin-bottom:-25px;margin-top:auto; max-width: 600px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; text-align: center; width: 95%;">
+                                        <tbody>
+                                            <tr>
+                                                <td bgcolor="#FFFFFF" class="center" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-bottom:-25px; padding-top: 40px; text-align:center">
+                                                    <table class="inner" width="500" align="center" cellpadding="0" cellspacing="0" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; border-collapse: collapse !important; box-sizing: border-box; margin: auto; max-width: 500px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 500px;">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td align="center" class="center" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0 10px; text-align: center;">
+                                                                    <h2 style="color:#012244; font-size: 24px; font-weight: normal; line-height: 1.3;margin:0px;padding-bottom:10px">Preventa Exclusiva del 6 al 15 de enero</h2>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>                        <td align="center" style="padding:20px 10px">                                                                               </td>                        </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <table class="container post left " width="600" align="center" cellpadding="0" cellspacing="0" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; background-color: #fff; border-collapse: collapse !important; box-sizing: border-box; margin: auto; margin-bottom:0px;margin-top:0px; max-width: 600px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; text-align: left; width: 95%;">
+                                        <tbody>
+                                            <tr>
+                                                <td bgcolor="#FFFFFF" class="left" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-bottom:0px; padding-top: 0px; text-align:left">
+                                                    <table class="inner" width="500" align="center" cellpadding="0" cellspacing="0" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; border-collapse: collapse !important; box-sizing: border-box; margin: auto; max-width: 500px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 500px;">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td align="left" class="left" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0 10px; text-align: left;">
+                                                                    <p style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; color: #1D1D1D; font-size: 16px; letter-spacing: 0; line-height: 1.5;"></p>
+                                                                    <p>Te confirmamos que tu transacción fue realizada con éxito:</p>
+                                                                    <p>Comprobante de transferencia No: <strong> 1234</strong></p>
+                                                                    <p><strong> Datos del ordenante: </strong></p>
+                                                                    <p>Titular: Bryan Quiroz Rojas</p>
+                                                                    <p>No. Cuenta: 2819XXX77</p>
+                                                                    <p>Tipo de cuenta: Corriente</p>
+                                                                    <p><strong> Datos del ordenante: </strong></p>
+                                                                    <p><strong> Datos del ordenante: </strong></p>
+                                                                    <br />
+
+                                                                    <p> <strong>preventa exclusiva</strong> hasta el 15 de enero y obten el <strong>10% de descuento</strong> solo con tu <strong>Tarjeta de Débito de Banco Guayaquil. </strong></p><p>Lugar: Centro de Convenciones de Guayaquil</p><p>Fecha: 26 de Marzo de 2020</p><p>Hora: 20h30</p><p><strong>Compra tus entradas en TicketShow y aprovecha esta preventa <strong>EXCLUSIVA </strong>con tus tarjetas de Banco Guayaquil</strong></p>                            <p>
+                                                                        <table cellpadding="3" align="left" cellspacing="0" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; border-collapse: collapse !important; margin: 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                                                                            <tbody>
+                                                                                <tr>
+                                                                                    <td width="50%" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; height: 40px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding-left: 0 !important;">
+                                                                                        <a style="text-decoration:none" href="https://lt.mydplr.com/c86cee4aa03acf1bdf266b4ef2e5415b-440092076a55339b26981faeda1a9a9b" target="_blank">
+                                                                                            <table width="100%"><tbody><tr><td align="center" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; border-radius: 8px;  mso-table-lspace: 0pt; mso-table-rspace: 0pt;text-align: center;background-color:#E91771;text-decoration:none;font-weight:bold;padding:0 5px;">                                            <a href="https://lt.mydplr.com/c86cee4aa03acf1bdf266b4ef2e5415b-440092076a55339b26981faeda1a9a9b" style="mso-height-rule: exactly;text-decoration:none;color:#fff;" target="_blank"> <span style="display:block;height:40px;line-height:40px"> Comprar entradas </span></a></td></tr></tbody></table>
+                                                                                        </a>
+                                                                                    </td>
+                                                                                </tr>
+                                                                            </tbody>
+                                                                        </table>
+                                                                    </p>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>                        <td align="left" style="padding:20px 10px">                                                                              <table class="inner" width="100%" cellspacing="0" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; border-collapse: collapse !important; box-sizing: border-box; margin: auto; max-width: 500px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 500px;">                            <tbody>                                <tr>                                    <td>                                     <em style="color: #a0a0a0; display: block; font-size: 14px;">                                                              <font style="color:#acacac">*Vigencia de promoción del 6 de enero al 15 de enero de 2020.</font>                               </em>                                    </td>                                </tr>                            </tbody>                        </table>                                                                                                                 </td>                        </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                    <table class="container footer center" width="600" align="center" cellspacing="0" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; border-collapse: collapse !important; box-sizing: border-box; margin: auto; margin-bottom: 20px; max-width: 600px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; text-align: center; width: 95%;">
+                                        <tbody>
+                                            <tr>     <td style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">        </td>    </tr>
+                                            <tr>
+                                                <td style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+                                                    <table class="inner" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; border-collapse: collapse !important; box-sizing: border-box; margin: auto; max-width: 500px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 500px;">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td>
+                                                                    <table align="center" width="100%"><tbody><tr><td align="center" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0 10px; padding-bottom: 20px; padding-top: 40px;">                       <img src="https://app2.dopplerfiles.com/Users/18718/Campaigns/10771467/banco_guayaquil_fullcolor_center.png" width="114" height="114" class="banco_guayaquil_fullcolor_center" style="-ms-interpolation-mode: bicubic; border: 0; height: 114px; line-height: 100%; max-width: 100%; outline: none; text-decoration: none; width: 114px;" alt=" " /></td></tr></tbody></table>
+                                                                    <table width="100%">
+                                                                        <tbody>
+                                                                            <tr>
+                                                                                <td align="center" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0 10px;">
+                                                                                    <table cellspacing="0" cellpadding="0" width="300" align="center" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; border-collapse: collapse !important; margin: 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 300px;">
+                                                                                        <tbody>
+                                                                                            <tr>
+                                                                                                <td align="center" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0;"><a href="https://lt.mydplr.com/f8f32fda19143d9fabcde6a688efab38-440092076a55339b26981faeda1a9a9b" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; color: #0068B7; text-decoration: none;" target="_blank"><img src="https://app2.dopplerfiles.com/Users/18718/Campaigns/10771467/facebook.png" class="icon" width="40" height="40" style="-ms-interpolation-mode: bicubic; border: 0; height: 40px; line-height: 100%; max-width: 100%; outline: none; text-decoration: none; width: 40px;" alt=" " /></a></td>
+                                                                                                <td align="center" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0;"><a href="https://lt.mydplr.com/1e46239efc910a42215bc005f41223ba-440092076a55339b26981faeda1a9a9b" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; color: #0068B7; text-decoration: none;" target="_blank"><img src="https://app2.dopplerfiles.com/Users/18718/Campaigns/10771467/twitter.png" class="icon" width="40" height="40" style="-ms-interpolation-mode: bicubic; border: 0; height: 40px; line-height: 100%; max-width: 100%; outline: none; text-decoration: none; width: 40px;" alt=" " /></a></td>
+                                                                                                <td align="center" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0;"><a href="https://lt.mydplr.com/ca09ffeb9348c37dbfc0f1635f65de45-440092076a55339b26981faeda1a9a9b" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; color: #0068B7; text-decoration: none;" target="_blank"><img src="https://app2.dopplerfiles.com/Users/18718/Campaigns/10771467/instagram.png" class="icon" width="40" height="40" style="-ms-interpolation-mode: bicubic; border: 0; height: 40px; line-height: 100%; max-width: 100%; outline: none; text-decoration: none; width: 40px;" alt=" " /></a></td>
+                                                                                                <td align="center" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0;"><a href="https://lt.mydplr.com/fac3eb6e6adf4ace6fddf083ccb9d8e3-440092076a55339b26981faeda1a9a9b" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; color: #0068B7; text-decoration: none;" target="_blank"><img src="https://app2.dopplerfiles.com/Users/18718/Campaigns/10771467/linkedin.png" class="icon" width="40" height="40" style="-ms-interpolation-mode: bicubic; border: 0; height: 40px; line-height: 100%; max-width: 100%; outline: none; text-decoration: none; width: 40px;" alt=" " /></a></td>
+                                                                                                <td align="center" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: 0pt; padding: 0;"><a href="https://lt.mydplr.com/5fd7fecfec98b11d3261463b95afd9b2-440092076a55339b26981faeda1a9a9b" style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; color: #0068B7; text-decoration: none;" target="_blank"><img src="https://app2.dopplerfiles.com/Users/18718/Campaigns/10771467/youtube.png" class="icon" width="40" height="40" style="-ms-interpolation-mode: bicubic; border: 0; height: 40px; line-height: 100%; max-width: 100%; outline: none; text-decoration: none; width: 40px;" alt=" " /></a></td>
+                                                                                            </tr>
+                                                                                        </tbody>
+                                                                                    </table>
+                                                                                </td>
+                                                                            </tr>
+                                                                        </tbody>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td bgcolor="#ffffff" align="center" style="padding: 0 10px 0 10px;">
+                <table cellspacing="0" cellpadding="0" width="70%" border="0">
+                    <tbody>
+                        <tr>
+                            <td>
+                                <table cellspacing="0" cellpadding="0" width="100%" border="0"><tbody><tr><td><table cellspacing="0" cellpadding="10" width="100%" border="0"><tbody><tr><td align="center" style="padding: 0 0 0 0; font-size: 13px; font-family: Helvetica,  Arial, sans-serif; color: #999999; text-align: center !important; height: 40px; line-height: 1.4;">Ver versión <a href="https://vo.mydplr.com/cd7a29150bbfba4428289ae5772706d3-440092076a55339b26981faeda1a9a9b" style="font-size: 13px; font-family: Helvetica,  Arial, sans-serif; color: #2A5DB0 !important; text-decoration: underline !important; ">Online</a> | <a href="https://fw.mydplr.com/cd7a29150bbfba4428289ae5772706d3-440092076a55339b26981faeda1a9a9b" style="font-size: 13px; font-family: Helvetica,  Arial, sans-serif; color: #2A5DB0 !important; text-decoration: underline !important; ">Enviar</a> a un amigo | Actualizar mi <a href="https://up.mydplr.com/cd7a29150bbfba4428289ae5772706d3-440092076a55339b26981faeda1a9a9b" style="font-size: 13px; font-family: Helvetica,  Arial, sans-serif; color: #2A5DB0 !important; text-decoration: underline !important; ">Perfil</a> </td></tr></tbody></table></td></tr></tbody></table>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+        <tr><td bgcolor="#ffffff" align="center" style="padding: 0 10px 0 10px;"><table cellspacing="0" cellpadding="0" width="100%" border="0"><tbody><tr><td><table cellspacing="0" cellpadding="0" width="100%" border="0"><tbody><tr><td bgcolor="#ffffff" align="center" style="padding: 10px 10px 0 10px;"><table cellspacing="0" cellpadding="0" width="70%" border="0"><tbody><tr><td><table cellspacing="0" cellpadding="0" width="100%" border="0"><tbody><tr><td><table cellspacing="0" cellpadding="10" width="100%" border="0"><tbody><tr><td align="center" style="padding: 0 0 0 0; text-align: center !important; font-size: 13px; font-family: Helvetica,  Arial, sans-serif; color: #999999; height: 30px; line-height: 1.4;">¿Deseas dejar de recibir estos emails? Click <a href="https://un.mydplr.com/cd7a29150bbfba4428289ae5772706d3-440092076a55339b26981faeda1a9a9b-842b1979187904f5" style="font-size: 13px; font-family: Helvetica,  Arial, sans-serif; color: #2A5DB0 !important; text-decoration: underline !important; ">aquí</a></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr>
+        <tr><td bgcolor="#ffffff" align="center" style="padding: 0 10px 0 10px;"><table cellspacing="0" cellpadding="0" width="100%" border="0"><tbody><tr><td><table cellspacing="0" cellpadding="0" width="100%" border="0"><tbody><tr><td bgcolor="#ffffff" align="center" style="padding: 10px 10px 0 10px;"><table cellspacing="0" cellpadding="0" width="70%" border="0"><tbody><tr><td><table cellspacing="0" cellpadding="0" width="100%" border="0"><tbody><tr><td><table cellspacing="0" cellpadding="10" width="100%" border="0"><tbody><tr><td align="center" style="padding: 0 0 0 0; line-height: 1.4; height: 30px; text-align: center !important; font-size: 13px; font-family: Helvetica,  Arial, sans-serif; color: #999999;">Banco Guayaquil | Pichincha 107 y P. Icaza | Guayaquil | EC090112</td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr>
+    </table>
+</body>
+</html>

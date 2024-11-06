@@ -1,0 +1,507 @@
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\mongocrypt.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\FirmaViadoc.WinServ.exe.config
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\FirmaViadoc.WinServ.exe
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\FirmaViadoc.WinServ.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\eSync.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Configuraciones.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Utilitarios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\ViaDocFirma.LogicaNegocios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\ViaDocLogMongoDB.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\eSign.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\MongoDB.Driver.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\MongoDB.Bson.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\MongoDB.Driver.Core.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Sign.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\IKVM.Runtime.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\DnsClient.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\SharpCompress.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\Snappy.NET.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\System.Buffers.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\Crc32C.NET.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\ViaDocFirma.LogicaNegocios.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\ViaDocFirma.LogicaNegocios.dll.config
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\ViaDocLogMongoDB.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\ViaDocLogMongoDB.dll.config
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\eSync.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\DnsClient.xml
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\Snappy.NET.xml
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\System.Buffers.xml
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\Crc32C.NET.xml
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csprojAssemblyReference.cache
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.ProjectInstaller.resources
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.GenerateResource.cache
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.CoreCompileInputs.cache
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.CopyComplete
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.exe
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.pdb
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\mongocrypt.dll
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\FirmaViadoc.WinServ.exe.config
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\FirmaViadoc.WinServ.exe
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\FirmaViadoc.WinServ.pdb
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Configuraciones.dll
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Utilitarios.dll
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\ViaDocFirma.LogicaNegocios.dll
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\ViaDocLogMongoDB.dll
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\eSign.dll
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\MongoDB.Driver.dll
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\MongoDB.Bson.dll
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\MongoDB.Driver.Core.dll
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Sign.dll
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\IKVM.Runtime.dll
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\DnsClient.dll
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\SharpCompress.dll
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\Snappy.NET.dll
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\System.Buffers.dll
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\Crc32C.NET.dll
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\ViaDocFirma.LogicaNegocios.pdb
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\ViaDocFirma.LogicaNegocios.dll.config
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\ViaDocLogMongoDB.pdb
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\ViaDocLogMongoDB.dll.config
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\DnsClient.xml
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\Snappy.NET.xml
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\System.Buffers.xml
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\Crc32C.NET.xml
+C:\FacturacionElectronica\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csprojAssemblyReference.cache
+C:\FacturacionElectronica\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.ProjectInstaller.resources
+C:\FacturacionElectronica\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.GenerateResource.cache
+C:\FacturacionElectronica\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.CoreCompileInputs.cache
+C:\FacturacionElectronica\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.CopyComplete
+C:\FacturacionElectronica\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.exe
+C:\FacturacionElectronica\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.pdb
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\eSync.dll
+C:\FacturacionElectronica\FirmaViadoc.WinServ\bin\Debug\eSync.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\mongocrypt.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\FirmaViadoc.WinServ.exe.config
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\FirmaViadoc.WinServ.exe
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\FirmaViadoc.WinServ.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\eSync.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocFirma.LogicaNegocios.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocLogMongoDB.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\eSign.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\MongoDB.Driver.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\MongoDB.Bson.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Sign.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.Runtime.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\DnsClient.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\SharpCompress.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\Snappy.NET.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\System.Buffers.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\Crc32C.NET.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocFirma.LogicaNegocios.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocFirma.LogicaNegocios.dll.config
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocLogMongoDB.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocLogMongoDB.dll.config
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\eSync.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\DnsClient.xml
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\Snappy.NET.xml
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\System.Buffers.xml
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\Crc32C.NET.xml
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.AssemblyReference.cache
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.ProjectInstaller.resources
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.GenerateResource.cache
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.CoreCompileInputs.cache
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.CopyComplete
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.exe
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\mongocrypt.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\FirmaViadoc.WinServ.exe.config
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\FirmaViadoc.WinServ.exe
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\FirmaViadoc.WinServ.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\eSync.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocFirma.LogicaNegocios.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocLogMongoDB.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\eSign.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\MongoDB.Driver.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\MongoDB.Bson.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Sign.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.Runtime.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\DnsClient.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\SharpCompress.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\Snappy.NET.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\System.Buffers.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\Crc32C.NET.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocFirma.LogicaNegocios.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocFirma.LogicaNegocios.dll.config
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocLogMongoDB.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocLogMongoDB.dll.config
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\eSync.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\DnsClient.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\Snappy.NET.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\System.Buffers.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\Crc32C.NET.xml
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.AssemblyReference.cache
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.ProjectInstaller.resources
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.GenerateResource.cache
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.CoreCompileInputs.cache
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.CopyComplete
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.exe
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\mongocrypt.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\FirmaViadoc.WinServ.exe.config
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\FirmaViadoc.WinServ.exe
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\FirmaViadoc.WinServ.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\eSync.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocFirma.LogicaNegocios.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocLogMongoDB.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\eSign.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\MongoDB.Driver.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\MongoDB.Bson.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Sign.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.Runtime.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\DnsClient.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\SharpCompress.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\Snappy.NET.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\System.Buffers.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\Crc32C.NET.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocFirma.LogicaNegocios.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocFirma.LogicaNegocios.dll.config
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocLogMongoDB.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocLogMongoDB.dll.config
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\eSync.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\DnsClient.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\Snappy.NET.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\System.Buffers.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\Crc32C.NET.xml
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.ProjectInstaller.resources
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.CopyComplete
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.exe
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\mongocrypt.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\FirmaViadoc.WinServ.exe.config
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\FirmaViadoc.WinServ.exe
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\FirmaViadoc.WinServ.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\eSync.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocFirma.LogicaNegocios.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocLogMongoDB.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\eSign.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\MongoDB.Driver.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\MongoDB.Bson.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Sign.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.Runtime.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\DnsClient.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\SharpCompress.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\Snappy.NET.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\Crc32C.NET.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocFirma.LogicaNegocios.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocFirma.LogicaNegocios.dll.config
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocLogMongoDB.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocLogMongoDB.dll.config
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\eSync.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\DnsClient.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\Snappy.NET.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\Crc32C.NET.xml
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.ProjectInstaller.resources
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.CopyComplete
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.exe
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\mongocrypt.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\FirmaViadoc.WinServ.exe.config
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\FirmaViadoc.WinServ.exe
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\FirmaViadoc.WinServ.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocFirma.LogicaNegocios.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocLogMongoDB.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\eSign.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\MongoDB.Driver.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\MongoDB.Bson.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Sign.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.Runtime.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\DnsClient.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\SharpCompress.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\Snappy.NET.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\System.Buffers.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\Crc32C.NET.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocFirma.LogicaNegocios.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocFirma.LogicaNegocios.dll.config
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocLogMongoDB.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocLogMongoDB.dll.config
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\DnsClient.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\Snappy.NET.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\System.Buffers.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\Crc32C.NET.xml
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.ProjectInstaller.resources
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.CopyComplete
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.exe
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\mongocrypt.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\FirmaViadoc.WinServ.exe.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\FirmaViadoc.WinServ.exe
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\FirmaViadoc.WinServ.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\eSync.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocFirma.LogicaNegocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocLogMongoDB.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\eSign.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\MongoDB.Driver.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\MongoDB.Bson.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Sign.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.Runtime.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\DnsClient.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\SharpCompress.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\Snappy.NET.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\System.Buffers.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\Crc32C.NET.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocFirma.LogicaNegocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocFirma.LogicaNegocios.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocLogMongoDB.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocLogMongoDB.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\eSync.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\DnsClient.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\Snappy.NET.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\System.Buffers.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\Crc32C.NET.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.ProjectInstaller.resources
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.CopyComplete
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.exe
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\mongocrypt.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\FirmaViadoc.WinServ.exe.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\FirmaViadoc.WinServ.exe
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\FirmaViadoc.WinServ.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\eSync.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocFirma.LogicaNegocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocLogMongoDB.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\eSign.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\MongoDB.Driver.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\MongoDB.Bson.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Sign.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.Runtime.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\DnsClient.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\SharpCompress.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\Snappy.NET.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\System.Buffers.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\Crc32C.NET.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocFirma.LogicaNegocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocFirma.LogicaNegocios.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocLogMongoDB.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocLogMongoDB.dll.config
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\eSync.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\DnsClient.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\Snappy.NET.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\System.Buffers.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\Crc32C.NET.xml
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.ProjectInstaller.resources
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.CopyComplete
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.exe
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.pdb
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\mongocrypt.dll
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\FirmaViadoc.WinServ.exe.config
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\FirmaViadoc.WinServ.exe
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\FirmaViadoc.WinServ.pdb
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\eSync.dll
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.AccesoDatos.dll
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Configuraciones.dll
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Utilitarios.dll
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocFirma.LogicaNegocios.dll
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocLogMongoDB.dll
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.EntidadNegocios.dll
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\eSign.dll
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\MongoDB.Driver.dll
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\MongoDB.Bson.dll
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\MongoDB.Driver.Core.dll
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Sign.dll
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.Runtime.dll
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\DnsClient.dll
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\SharpCompress.dll
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\Snappy.NET.dll
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\System.Buffers.dll
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\Crc32C.NET.dll
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.AccesoDatos.pdb
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Configuraciones.pdb
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Configuraciones.dll.config
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.Utilitarios.pdb
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocFirma.LogicaNegocios.pdb
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocFirma.LogicaNegocios.dll.config
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocLogMongoDB.pdb
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDocLogMongoDB.dll.config
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\eSync.pdb
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\ViaDoc.EntidadNegocios.pdb
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\DnsClient.xml
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\Snappy.NET.xml
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\System.Buffers.xml
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\bin\Debug\Crc32C.NET.xml
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.AssemblyReference.cache
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.ProjectInstaller.resources
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.GenerateResource.cache
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.csproj.CoreCompileInputs.cache
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaVia.895D651D.Up2Date
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.exe
+C:\Viadoc\viad3-viadoc3.0\FirmaViadoc.WinServ\obj\Debug\FirmaViadoc.WinServ.pdb

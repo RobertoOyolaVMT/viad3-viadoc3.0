@@ -1,0 +1,99 @@
+﻿@using ViaDoc.WebApp.Models;
+@using ViaDoc.EntidadNegocios.portalWeb
+
+@model ViaDoc.EntidadNegocios.portalWeb.PorInicio.ListInicio
+
+@{
+    ViewBag.Title = "Bienvenido";
+}
+
+
+<section class="content">
+    <section class="content-header" style="padding-bottom:5px; padding-top:8px">
+        <div class="container-fluid">
+            <div class="row mb-2">
+                <div class="col-sm-6">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="#">Utilitarios</a></li>
+                        <li class="breadcrumb-item active">Inicio</li>
+                    </ol>
+                </div>
+                <div class="col-sm-6">
+
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="container-fluid">
+        <div class="card card-success">
+            <div class="card-header">
+                <h3 class="card-title">Reporte de Documentos</h3>
+            </div>
+        </div>
+        <div class="card card-success">
+            <div class="justify-content-center swal2-title"> <h1>DOCUMENTOS</h1> </div>
+            <div class="justify-content-center row">
+                <div class="col-ms-6 col-md-6 col-lg-6">
+                    <div id="piechart" style="width: auto; height: auto;"></div>
+                </div>
+                <div class="col-ms-6 col-md-6 col-lg-6">
+                    <div id="piechart_hoy" style="width: auto; height: auto;"></div>
+                </div>
+            </div>
+        </div>
+        <div class="card card-success">
+            <div class="justify-content-center row">
+                <div class="card-body">
+                    <div class="justify-content-center"><h2>Compañias</h2></div>
+                    <table id="tblConsultaCom" class="table table-bordered table-striped" style="font-size:14px">
+                        <thead>
+                            <tr>
+                                <th>Compañia</th>
+                                <th>Estado</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model.objComp)
+                            {
+                                <tr>
+                                    <td>@item.RazonSocial</td>
+                                    <td>@item.Estado</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+                <div class="card-body">
+                    <div class="justify-content-center"><h2>Documentos</h2></div>
+                    <table id="tblConsultaDoc" class="col-ms-6 table table-bordered table-striped" style="font-size:14px">
+                        <thead>
+                            <tr>
+                                <th>Documento</th>
+                                <th>Estado</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model.objDoc)
+                            {
+                                <tr>
+                                    <td>@item.Documento</td>
+                                    <td>@item.Estado</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <!-- /.col -->
+        </div>
+    </div>
+</section>
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript">
+
+    google.charts.load('current', { 'packages': ['corechart'] });
+    google.charts.setOnLoadCallback(ReporteEyer);
+    google.charts.setOnLoadCallback(ReporteActual);
+
+</script>
+

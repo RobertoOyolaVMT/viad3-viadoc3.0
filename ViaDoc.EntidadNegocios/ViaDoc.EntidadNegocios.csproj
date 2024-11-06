@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F195E26C-0D02-438E-A225-81616940DECC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ViaDoc.EntidadNegocios</RootNamespace>
+    <AssemblyName>ViaDoc.EntidadNegocios</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Catalogo.cs" />
+    <Compile Include="Certificado.cs" />
+    <Compile Include="Compania.cs" />
+    <Compile Include="compRetencion\CompRetencion.cs" />
+    <Compile Include="compRetencion\CompRetencionDetalle.cs" />
+    <Compile Include="compRetencion\CompRetencionDocSustento.cs" />
+    <Compile Include="compRetencion\CompRetencionFormaPago.cs" />
+    <Compile Include="compRetencion\CompRetencionInfoAdicional.cs" />
+    <Compile Include="DocumentoError.cs" />
+    <Compile Include="factura\Factura.cs" />
+    <Compile Include="factura\FacturaDetalle.cs" />
+    <Compile Include="factura\FacturaDetalleAdicional.cs" />
+    <Compile Include="factura\FacturaDetalleFormaPago.cs" />
+    <Compile Include="factura\FacturaDetalleImpuesto.cs" />
+    <Compile Include="factura\FacturaDetalleReembolso.cs" />
+    <Compile Include="factura\FacturaInfoAdicional.cs" />
+    <Compile Include="factura\FacturaTotalImpuesto.cs" />
+    <Compile Include="guiaRemision\GuiaRemision.cs" />
+    <Compile Include="guiaRemision\GuiaRemisionDestinatario.cs" />
+    <Compile Include="guiaRemision\GuiaRemisionDestinatarioDetalle.cs" />
+    <Compile Include="guiaRemision\GuiaRemisionDestinatarioDetalleAdicional.cs" />
+    <Compile Include="guiaRemision\GuiaRemisionInfoAdicional.cs" />
+    <Compile Include="HoraNotificacion.cs" />
+    <Compile Include="Liquidacion\Liquidacion.cs" />
+    <Compile Include="Liquidacion\LiquidacionDetalle.cs" />
+    <Compile Include="Liquidacion\LiquidacionDetalleAdicional.cs" />
+    <Compile Include="Liquidacion\LiquidacionDetalleFormaPago.cs" />
+    <Compile Include="Liquidacion\LiquidacionDetalleImpuesto.cs" />
+    <Compile Include="Liquidacion\LiquidacionInfoAdicional.cs" />
+    <Compile Include="Liquidacion\LiquidacionReembolso.cs" />
+    <Compile Include="Liquidacion\LiquidacionTotalImpuesto.cs" />
+    <Compile Include="notaCredito\NotaCredito.cs" />
+    <Compile Include="notaCredito\NotaCreditoDetalle.cs" />
+    <Compile Include="notaCredito\NotaCreditoDetalleAdicional.cs" />
+    <Compile Include="notaCredito\NotaCreditoDetalleImpuesto.cs" />
+    <Compile Include="notaCredito\NotaCreditoInfoAdicional.cs" />
+    <Compile Include="notaCredito\NotaCreditoTotalImpuesto.cs" />
+    <Compile Include="notaDebito\NotaDebito.cs" />
+    <Compile Include="notaDebito\NotaDebitoImpuesto.cs" />
+    <Compile Include="notaDebito\NotaDebitoInfoAdicional.cs" />
+    <Compile Include="notaDebito\NotaDebitoMotivo.cs" />
+    <Compile Include="portalWeb\Configuracion.cs" />
+    <Compile Include="portalWeb\Documento.cs" />
+    <Compile Include="portalWeb\GenerarPDF.cs" />
+    <Compile Include="portalWeb\PorInicio.cs" />
+    <Compile Include="portalWeb\ResprocesoMD.cs" />
+    <Compile Include="portalWeb\Sucursal.cs" />
+    <Compile Include="portalWeb\TiempoServicio.cs" />
+    <Compile Include="portalWeb\UrlSri.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Retorno.cs" />
+    <Compile Include="Smtp.cs" />
+    <Compile Include="usuario\Perfil.cs" />
+    <Compile Include="XmlGenerados.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ViaDoc.AccesoDatos\ViaDoc.AccesoDatos.csproj">
+      <Project>{929E630C-B415-47ED-AAED-D9EF417A853B}</Project>
+      <Name>ViaDoc.AccesoDatos</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="configuracion\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,20 @@
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.csproj.CoreCompileInputs.cache
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.csprojAssemblyReference.cache
+C:\FacturacionElectronica\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\FacturacionElectronica\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.dll
+C:\FacturacionElectronica\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.pdb
+C:\FacturacionElectronica\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.csproj.CoreCompileInputs.cache
+C:\FacturacionElectronica\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.dll
+C:\FacturacionElectronica\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.dll.config
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.Configuraciones\bin\Release\ViaDoc.Configuraciones.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.csproj.CoreCompileInputs.cache
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.Configuraciones\obj\Release\ViaDoc.Configuraciones.csproj.AssemblyReference.cache

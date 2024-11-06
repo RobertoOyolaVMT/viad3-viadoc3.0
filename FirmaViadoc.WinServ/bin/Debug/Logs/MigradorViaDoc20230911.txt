@@ -1,0 +1,85 @@
+[CustomError]: 11/09/2023 10:42:25 a. m.
+[Metodo]: System.ArgumentException: Error: 
+El elemento 'factura' tiene un elemento secundario 'reembolsos' no válido. Lista esperada de elementos posibles: 'detalles'.
+
+
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 109
+[CustomError]: FIN 
+[CustomError]: 11/09/2023 11:23:53 a. m.
+[Metodo]: System.ArgumentException: Error: 
+El elemento 'factura' tiene un elemento secundario 'reembolsos' no válido. Lista esperada de elementos posibles: 'detalles'.
+
+
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 109
+[CustomError]: FIN 
+[CustomError]: 11/09/2023 11:42:07 a. m.
+[Metodo]: System.ArgumentException: Error: 
+El elemento 'factura' tiene un elemento secundario 'reembolsos' no válido. Lista esperada de elementos posibles: 'detalles'.
+
+
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 109
+[CustomError]: FIN 
+[CustomError]: 11/09/2023 11:50:38 a. m.
+[Metodo]: System.ArgumentException: Error: 
+El elemento 'factura' tiene un elemento secundario 'reembolsos' no válido. Lista esperada de elementos posibles: 'detalles'.
+
+
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 109
+[CustomError]: FIN 
+[CustomError]: 11/09/2023 11:56:43 a. m.
+[Metodo]: System.ArgumentException: Error: 
+El elemento 'factura' tiene un elemento secundario 'reembolsos' no válido. Lista esperada de elementos posibles: 'detalles'.
+
+
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 109
+[CustomError]: FIN 
+[CustomError]: 11/09/2023 12:12:34 p. m.
+[Metodo]: System.ArgumentException: Error: 
+El elemento 'factura' tiene un elemento secundario 'reembolsos' no válido. Lista esperada de elementos posibles: 'detalles'.
+
+
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 109
+[CustomError]: FIN 
+[CustomError]: 11/09/2023 01:54:34 p. m.
+[Metodo]: System.ArgumentException: Error: 
+El elemento 'factura' tiene un elemento secundario 'reembolsos' no válido. Lista esperada de elementos posibles: 'detalles'.
+
+
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 109
+[CustomError]: FIN 
+[CustomError]: 11/09/2023 02:31:00 p. m.
+[Metodo]: System.ArgumentException: Error: 
+El elemento 'factura' tiene un elemento secundario 'reembolsos' no válido. Lista esperada de elementos posibles: 'detalles'.
+
+
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 109
+[CustomError]: FIN 
+[CustomError]: 11/09/2023 02:45:52 p. m.
+[Metodo]: System.ArgumentException: Error: 
+El elemento 'tarifa' no es válido. El valor '12.00' no es válido según su tipo de datos 'tarifaReembolso' - Error de restricción de patrón.
+
+Error: 
+El elemento 'tarifa' no es válido. El valor '12.00' no es válido según su tipo de datos 'tarifaReembolso' - Error de restricción de patrón.
+
+Error: 
+El elemento 'tarifa' no es válido. El valor '12.00' no es válido según su tipo de datos 'tarifaReembolso' - Error de restricción de patrón.
+
+Error: 
+El elemento 'tarifa' no es válido. El valor '12.00' no es válido según su tipo de datos 'tarifaReembolso' - Error de restricción de patrón.
+
+Error: 
+El elemento 'tarifa' no es válido. El valor '12.00' no es válido según su tipo de datos 'tarifaReembolso' - Error de restricción de patrón.
+
+Error: 
+El elemento 'tarifa' no es válido. El valor '12.00' no es válido según su tipo de datos 'tarifaReembolso' - Error de restricción de patrón.
+
+Error: 
+El elemento 'tarifa' no es válido. El valor '12.00' no es válido según su tipo de datos 'tarifaReembolso' - Error de restricción de patrón.
+
+
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 109
+[CustomError]: FIN 
+[CustomError]: 11/09/2023 03:34:52 p. m.
+[Metodo]: System.ArgumentException: Buffer retornó 0
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 119
+[CustomError]: FIN 

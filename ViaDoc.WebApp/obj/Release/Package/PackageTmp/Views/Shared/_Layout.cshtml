@@ -1,0 +1,254 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+
+    <link href="~/Content/plugins/fontawesome-free/css/all.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+    <link href="~/Content/plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css" rel="stylesheet" />
+    <link href="~/Content/plugins/icheck-bootstrap/icheck-bootstrap.min.css" rel="stylesheet" />
+    <script src="~/Content/plugins/jquery/jquery.min.js"></script>
+    <script src="~/Content/plugins/jqvmap/jquery.vmap.min.js"></script>
+    <link href="~/Content/dist/css/adminlte.min.css" rel="stylesheet" />
+    <link href="~/Content/plugins/overlayScrollbars/css/OverlayScrollbars.min.css" rel="stylesheet" />
+    <link href="~/Content/plugins/daterangepicker/daterangepicker.css" rel="stylesheet" />
+    <script src="~/Content/plugins/summernote/summernote-bs4.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
+    <link href="~/Content/plugins/select2/css/select2.min.css" rel="stylesheet" />
+    <link href="~/Content/plugins/select2-bootstrap4-theme/select2-bootstrap4.min.css" rel="stylesheet" />
+    <link href="~/Content/plugins/datatables-bs4/css/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <link href="~/Content/plugins/datatables-responsive/css/responsive.bootstrap4.min.css" rel="stylesheet" />
+    <link href="~/Content/plugins/sweetalert2-theme-bootstrap-4/bootstrap-4.min.css" rel="stylesheet" />
+    <link href="~/Content/plugins/toastr/toastr.min.css" rel="stylesheet" />
+    <link href="~/Content/dist/procesando.css" rel="stylesheet" />
+
+    <link rel="stylesheet" href="~/Content/plugins/daterangepicker/daterangepicker.css">
+
+
+    <script src="~/Content/plugins/jquery-ui/jquery-ui.min.js"></script>
+
+    <script src="~/Content/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/Content/plugins/chart.js/Chart.min.js"></script>
+    <script src="~/Content/plugins/sparklines/sparkline.js"></script>
+    <script src="~/Content/plugins/jqvmap/jquery.vmap.min.js"></script>
+    <script src="~/Content/plugins/jqvmap/maps/jquery.vmap.usa.js"></script>
+    <script src="~/Content/plugins/jquery-knob/jquery.knob.min.js"></script>
+    <script src="~/Content/plugins/moment/moment.min.js"></script>
+    <script src="~/Content/plugins/daterangepicker/daterangepicker.js"></script>
+    <script src="~/Content/plugins/tempusdominus-bootstrap-4/js/tempusdominus-bootstrap-4.min.js"></script>
+    <script src="~/Content/plugins/summernote/summernote-bs4.min.js"></script>
+    <script src="~/Content/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js"></script>
+    <script src="~/Content/dist/js/adminlte.min.js"></script>
+    <script src="~/Content/dist/js/pages/dashboard.js"></script>
+    <script src="~/Content/dist/js/demo.js"></script>
+    <script src="~/Content/plugins/select2/js/select2.full.min.js"></script>
+    <script src="~/Content/plugins/datatables/jquery.dataTables.min.js"></script>
+    <script src="~/Content/plugins/datatables-bs4/js/dataTables.bootstrap4.min.js"></script>
+    <script src="~/Content/plugins/datatables-responsive/js/dataTables.responsive.min.js"></script>
+    <script src="~/Content/plugins/datatables-responsive/js/responsive.bootstrap4.min.js"></script>
+    <script src="~/Content/plugins/datatables-buttons/js/dataTables.buttons.js"></script>
+    <script src="~/Content/plugins/datatables-buttons/js/buttons.flash.min.js"></script>
+    <script src="~/Content/plugins/jszip/jszip.min.js"></script>
+    <script src="~/Content/plugins/daterangepicker/daterangepicker.js"></script>
+
+    <script src="~/Content/plugins/pdfmake/pdfmake.min.js"></script>
+    <script src="~/Content/plugins/pdfmake/vfs_fonts.js"></script>
+    <script src="~/Content/plugins/datatables-buttons/js/buttons.html5.js"></script>
+
+    <script src="~/Content/plugins/datatables-buttons/js/buttons.bootstrap4.min.js"></script>
+
+    <script src="~/Content/plugins/sweetalert2/sweetalert2.min.js"></script>
+    <script src="~/Content/plugins/toastr/toastr.min.js"></script>
+    <script src="~/Content/dist/validaciones.js"></script>
+
+
+    <script src="~/Content/plugins/bs-custom-file-input/bs-custom-file-input.min.js"></script>
+</head>
+    <body class="hold-transition sidebar-mini layout-fixed sidebar-collapse">
+
+        <!-- Navbar -->
+        <nav class="main-header navbar navbar-expand navbar-white navbar-light">
+            <!-- Left navbar links -->
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i></a>
+                </li>
+            </ul>
+
+            <!-- Right navbar links -->
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    @using (Html.BeginForm("cerrarSesion", "Validacion", FormMethod.Post))
+                    {
+                        <button type="submit" class="nav btn btn-link" href="#">
+                            <span class="dropdown-item dropdown-header">Cerrar Sesión</span>
+                        </button>
+                    }
+                </li>
+            </ul>
+        </nav>
+        <!-- /.navbar -->
+
+        <aside class="main-sidebar sidebar-dark-primary elevation-4">
+            <!-- Brand Logo -->
+            <a href="~/Bienvenido/Index" class="brand-link">
+                <img src="~/Content/img/viadoc.png" alt="ViaDoc 3.0" class="brand-image" id="ImgViaDoc3_0"/>
+
+                <span class="brand-text font-weight-light">ViaDoc 3.0</span>
+            </a>
+
+            <!-- Sidebar -->
+            <div class="sidebar">
+                <!-- Sidebar user panel (optional) -->
+                <div class="user-panel mt-3 pb-3 mb-3 d-flex">
+                    <div class="image">
+                        <img src="~/Content/img/User.png" class="img-circle elevation-2" alt="User Image" />
+                    </div>
+                    <div class="info">
+                        <span style="color:white">@Session["usuarioLogin"].ToString()</span>
+                    </div>
+                </div>
+
+                <!-- Sidebar Menu -->
+                <nav class="mt-2">
+
+                    @{ Html.RenderAction("Navbar", "Navbar"); }
+
+
+                    @*<ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
+                            <li class="nav-item has-treeview">
+                                <a href="#" class="nav-link">
+                                    <i class="nav-icon fas fa-tools"></i>
+                                    <p>
+                                        Administrador
+                                        <i class="right fas fa-angle-left"></i>
+                                    </p>
+                                </a>
+                                <ul class="nav nav-treeview">
+                                    <li class="nav-item">
+                                        <a href="#" class="nav-link">
+                                            <i class="fas fa-building nav-icon"></i>
+                                            <p style="font-size:15px">Compañía</p>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="#" class="nav-link">
+                                            <i class="fas fa-link nav-icon"></i>
+                                            <p style="font-size:15px">URL SRI</p>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="#" class="nav-link">
+                                            <i class="fas fa-certificate nav-icon"></i>
+                                            <p style="font-size:15px">Certificado</p>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="#" class="nav-link">
+                                            <i class="fas fa-folder-open nav-icon"></i>
+                                            <p style="font-size:15px">Documentos</p>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>*@
+
+                    @*<ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
+                            <li class="nav-item has-treeview">
+                                <a href="#" class="nav-link">
+                                    <i class="fas fa-tv nav-icon"></i>
+                                    <p>
+                                        Utilitarios
+                                        <i class="right fas fa-angle-left"></i>
+                                    </p>
+                                </a>
+                                <ul class="nav nav-treeview">
+                                    <li class="nav-item">
+                                        <a href="#" class="nav-link">
+                                            <i class="fas fa-folder-open nav-icon"></i>
+                                            <p style="font-size:15px">Documentos</p>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="#" class="nav-link">
+                                            <i class="fas fa-chart-pie nav-icon"></i>
+                                            <p style="font-size:15px">Estadísticas</p>
+                                        </a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="#" class="nav-link">
+                                            <i class="fas fa-check-double nav-icon"></i>
+                                            <p style="font-size:15px">Autorizador en Línea</p>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>*@
+
+                </nav>
+                <!-- /.sidebar-menu -->
+
+
+            </div>
+            <!-- /.sidebar -->
+        </aside>
+
+        <div class="wrapper">
+            <div class="content-wrapper">
+                <div class="cartprocess" style="display: none;">
+                    <center>
+                        <div class="inbox">
+                            <div>
+                                <img src=@Href("~/Content/img/procesando.gif") style="max-width:50%" />
+                            </div>
+                        </div>
+                    </center>
+                </div>
+                @RenderBody()
+
+                <div class="cartprocess" style="display: none;">
+                    <center>
+                        <div class="inbox">
+                            <div>
+                                <img src=@Href("~/Content/img/procesando.gif") style="max-width:50%" />
+                            </div>
+                        </div>
+                    </center>
+                </div>
+            </div>
+        </div>
+
+        <!--
+         <script src="~/Content/plugins/jquery/jquery.min.js"></script>
+         <script src="~/Content/plugins/jquery-ui/jquery-ui.min.js"></script>
+         <script>
+             $.widget.bridge('uibutton', $.ui.button)
+         </script>
+
+         <script src="~/Content/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+         <script src="~/Content/plugins/chart.js/Chart.min.js"></script>
+         <script src="~/Content/plugins/sparklines/sparkline.js"></script>
+         <script src="~/Content/plugins/jqvmap/jquery.vmap.min.js"></script>
+         <script src="~/Content/plugins/jqvmap/maps/jquery.vmap.usa.js"></script>
+         <script src="~/Content/plugins/jquery-knob/jquery.knob.min.js"></script>
+         <script src="~/Content/plugins/moment/moment.min.js"></script>
+         <script src="~/Content/plugins/daterangepicker/daterangepicker.js"></script>
+         <script src="~/Content/plugins/tempusdominus-bootstrap-4/js/tempusdominus-bootstrap-4.min.js"></script>
+         <script src="~/Content/plugins/summernote/summernote-bs4.min.js"></script>
+         <script src="~/Content/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js"></script>
+         <script src="~/Content/dist/js/adminlte.min.js"></script>
+         <script src="~/Content/dist/js/pages/dashboard.js"></script>
+         <script src="~/Content/dist/js/demo.js"></script>
+         <script src="~/Content/plugins/select2/js/select2.full.min.js"></script>
+         <script src="~/Content/plugins/sweetalert2/sweetalert2.min.js"></script>
+         <script src="~/Content/plugins/toastr/toastr.min.js"></script>
+        DataTables
+        <script src="~/Content/plugins/datatables/jquery.dataTables.min.js"></script>
+        <script src="~/Content/plugins/datatables-bs4/js/dataTables.bootstrap4.min.js"></script>
+        <script src="~/Content/plugins/datatables-responsive/js/dataTables.responsive.min.js"></script>
+        <script src="~/Content/plugins/datatables-responsive/js/responsive.bootstrap4.min.js"></script>
+            -->
+    </body>
+</html>

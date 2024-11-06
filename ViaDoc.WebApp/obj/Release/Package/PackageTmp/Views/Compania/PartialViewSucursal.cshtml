@@ -1,0 +1,61 @@
+﻿@using ViaDoc.EntidadNegocios
+
+@model ViaDoc.EntidadNegocios.portalWeb.SucursalLista
+
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                <table id="tblSucursal" class="table table-bordered table-striped" style="font-size:13px">
+                    <thead>
+                        <tr>
+                            <th>Sucursal</th>
+                            <th>Estado</th>
+                            <th>Modificar</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.objListaSucursal)
+                        {
+                            <tr>
+                                <td>@item.ciSucursal</td>
+                                <td>@item.ciEstado</td>
+                                <td>
+                                    <center>
+                                        <input type="button" onclick="modificar('@item.ciSucursal', '@item.direccion', '@item.ciCompania', '@item.ciEstado')" class="btn btn-success" value="Modificar">
+                                    </center>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $('#tblSucursal').DataTable({
+        "paging": true,
+        "searching": true,
+        "ordering": true,
+        "autoWidth": false,
+        "pageLength": 10,
+        "responsive": true,
+        "language": {
+            url: "../Content/idioma/espaniol.json"
+        },
+    });
+
+    function modificar(ciSucursal, direccion, ciCompania, ciEstado) //, txMailAdressFrom, txPassCredencial, txPara, txTo, txUrlPortal, txAsunto, txActivarNotificacion)
+    {
+        $("#idCompaniaSurc").val(ciCompania);
+        $("#txCodSucursal").val(ciSucursal);
+        $("#txDireccionMatrizSuc").val(direccion);
+        $("#txEstadoSurc").val(ciEstado).trigger('change');
+        //$("#txEstadoSurc").val(ciEstado);
+    }
+
+     
+</script>
+

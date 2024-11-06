@@ -1,0 +1,21 @@
+[CustomError]: 7/6/2024 15:54:30
+[Metodo]: Excpetion: Error al conectarse a la Base Datos
+[CustomError]: FIN 
+[CustomError]: 7/6/2024 15:57:50
+[Metodo]: Excpetion: Error al conectarse a la Base Datos
+[CustomError]: FIN 
+[CustomError]: 7/6/2024 15:57:58
+[Metodo]: Excpetion: Error al conectarse a la Base Datos
+[CustomError]: FIN 
+[CustomError]: 7/6/2024 15:57:59
+[Metodo]: Excpetion: Error al conectarse a la Base Datos
+[CustomError]: FIN 
+[CustomError]: 7/6/2024 15:58:01
+[Metodo]: Excpetion: Error al conectarse a la Base Datos
+[CustomError]: FIN 
+[CustomError]: 7/6/2024 15:58:04
+[Metodo]: Excpetion: Error al conectarse a la Base Datos
+[CustomError]: FIN 
+[CustomError]: 7/6/2024 15:58:05
+[Metodo]: Excpetion: Error al conectarse a la Base Datos
+[CustomError]: FIN 

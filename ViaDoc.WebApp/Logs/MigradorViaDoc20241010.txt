@@ -1,0 +1,45 @@
+[CustomError]: 10/10/2024 11:02:16
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 10/10/2024 11:02:16
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 10/10/2024 11:02:16
+[Metodo]: Error al generar del byte[] para elo ride Factura. Mensaje Error: An error occurred during local report processing.. En: Void EnsureExecutionSession(). Origen error: Microsoft.ReportViewer.WinForms
+[CustomError]: FIN 
+[CustomError]: 10/10/2024 11:56:39
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 10/10/2024 11:56:39
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 10/10/2024 11:56:39
+[Metodo]: Error al generar del byte[] para elo ride Factura. Mensaje Error: An error occurred during local report processing.. En: Void EnsureExecutionSession(). Origen error: Microsoft.ReportViewer.WinForms
+[CustomError]: FIN 
+[CustomError]: 10/10/2024 12:03:23
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 10/10/2024 12:03:23
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 10/10/2024 12:03:23
+[Metodo]: Error al generar del byte[] para elo ride Factura. Mensaje Error: An error occurred during local report processing.. En: Void EnsureExecutionSession(). Origen error: Microsoft.ReportViewer.WinForms
+[CustomError]: FIN 
+[CustomError]: 10/10/2024 12:04:38
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 10/10/2024 12:04:38
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 10/10/2024 12:04:38
+[Metodo]: Error al generar del byte[] para elo ride Factura. Mensaje Error: An error occurred during local report processing.. En: Void EnsureExecutionSession(). Origen error: Microsoft.ReportViewer.WinForms
+[CustomError]: FIN 
+[CustomError]: 10/10/2024 12:06:34
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 10/10/2024 12:06:34
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 10/10/2024 12:06:38
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 

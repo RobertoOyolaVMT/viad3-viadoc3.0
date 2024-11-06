@@ -1,0 +1,108 @@
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.AccesoDatos\bin\Release\ViaDoc.AccesoDatos.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.AccesoDatos\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.AccesoDatos\bin\Release\ViaDoc.Utilitarios.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.AccesoDatos\bin\Release\ViaDoc.Utilitarios.pdb
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.csprojAssemblyReference.cache
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.csproj.CopyComplete
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.dll
+C:\JP\ViaDoc 3.0\Master-Desarrollo\ViaDoc\FacturacionElectronica\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.pdb
+C:\FacturacionElectronica\ViaDoc.AccesoDatos\bin\Release\ViaDoc.AccesoDatos.dll
+C:\FacturacionElectronica\ViaDoc.AccesoDatos\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\FacturacionElectronica\ViaDoc.AccesoDatos\bin\Release\ViaDoc.Utilitarios.dll
+C:\FacturacionElectronica\ViaDoc.AccesoDatos\bin\Release\ViaDoc.Utilitarios.pdb
+C:\FacturacionElectronica\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.csprojAssemblyReference.cache
+C:\FacturacionElectronica\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\FacturacionElectronica\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.csproj.CopyComplete
+C:\FacturacionElectronica\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.dll
+C:\FacturacionElectronica\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.AccesoDatos.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.Utilitarios.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.Utilitarios.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.csproj.CopyComplete
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.dll
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.pdb
+C:\Users\Arturo Delgado\source\repos\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.AccesoDatos.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.Utilitarios.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.Utilitarios.pdb
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.csproj.CopyComplete
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.dll
+C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.AccesoDatos.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.Utilitarios.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.Utilitarios.pdb
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.csproj.CopyComplete
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.dll
+C:\Users\DELL\Desktop\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.AccesoDatos.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.Utilitarios.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.Utilitarios.pdb
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.csproj.CopyComplete
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.dll
+C:\Users\HP\Desktop\Viadoc\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.AccesoDatos.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.Utilitarios.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.Utilitarios.pdb
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.csproj.CopyComplete
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.dll
+C:\Users\DELL\Desktop\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.AccesoDatos.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.Utilitarios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.Utilitarios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.csproj.CopyComplete
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.AccesoDatos.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.Utilitarios.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.Utilitarios.pdb
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.csproj.CopyComplete
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.dll
+C:\Users\DELL\source\repos\Viadoc-10-oct-2023\ASM\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.AccesoDatos.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.Utilitarios.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.Utilitarios.pdb
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.csproj.CopyComplete
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.dll
+C:\Users\Administrador\Downloads\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.AccesoDatos.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.Utilitarios.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.Utilitarios.pdb
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.csproj.AssemblyReference.cache
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.csproj.CopyComplete
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.dll
+C:\ViaDocAntiguo13-05-23\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.AccesoDatos.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.AccesoDatos.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.Utilitarios.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.AccesoDatos\bin\Release\ViaDoc.Utilitarios.pdb
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.csproj.AssemblyReference.cache
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.A.55DE4D9A.Up2Date
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.dll
+C:\Viadoc\viad3-viadoc3.0\ViaDoc.AccesoDatos\obj\Release\ViaDoc.AccesoDatos.pdb

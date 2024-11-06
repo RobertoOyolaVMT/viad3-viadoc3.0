@@ -1,0 +1,454 @@
+[CustomError]: 7/12/2022 10:31:58
+[Metodo]: System.Data.SqlClient.SqlException (0x80131904): El prefijo de columna 'dbo.CompRetencionDocSustento' no coincide con un nombre de tabla o con un alias usado en la consulta.
+   en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   en System.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   en System.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   en System.Data.SqlClient.SqlDataReader.TryNextResult(Boolean& more)
+   en System.Data.SqlClient.SqlDataReader.NextResult()
+   en System.Data.ProviderBase.DataReaderContainer.NextResult()
+   en System.Data.Common.DataAdapter.FillNextResult(DataReaderContainer dataReader)
+   en System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   en System.Data.Common.DataAdapter.Fill(DataSet dataSet, String srcTable, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   en System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   en ViaDoc.AccesoDatos.ConexionViaDoc.EjecutarConsultaDatSet() en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.AccesoDatos\ConexionViaDoc.cs:línea 94
+   en ViaDoc.AccesoDatos.DocumentoAD.DocumentosElectronicos(Int32 opcion, Int32 ciCompania, String txEstablecimiento, String txPuntoEmision, String txSecuencial, String txCodigoPrincipal, Int32 numeroRegistro, String txCodigoInterno, Int32& codigoRetorno, String& descripcionRetorno) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.AccesoDatos\DocumentoAD.cs:línea 87
+ClientConnectionId:f088c546-8857-4aaf-9ab4-def43fa418fd
+Error Number:107,State:1,Class:15
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 10:32:13
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 10:32:13
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 10:33:20
+[Metodo]: System.Data.SqlClient.SqlException (0x80131904): El prefijo de columna 'dbo.CompRetencionDocSustento' no coincide con un nombre de tabla o con un alias usado en la consulta.
+   en System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   en System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   en System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   en System.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   en System.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   en System.Data.SqlClient.SqlDataReader.TryNextResult(Boolean& more)
+   en System.Data.SqlClient.SqlDataReader.NextResult()
+   en System.Data.ProviderBase.DataReaderContainer.NextResult()
+   en System.Data.Common.DataAdapter.FillNextResult(DataReaderContainer dataReader)
+   en System.Data.Common.DataAdapter.FillFromReader(DataSet dataset, DataTable datatable, String srcTable, DataReaderContainer dataReader, Int32 startRecord, Int32 maxRecords, DataColumn parentChapterColumn, Object parentChapterValue)
+   en System.Data.Common.DataAdapter.Fill(DataSet dataSet, String srcTable, IDataReader dataReader, Int32 startRecord, Int32 maxRecords)
+   en System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   en System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   en ViaDoc.AccesoDatos.ConexionViaDoc.EjecutarConsultaDatSet() en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.AccesoDatos\ConexionViaDoc.cs:línea 94
+   en ViaDoc.AccesoDatos.DocumentoAD.DocumentosElectronicos(Int32 opcion, Int32 ciCompania, String txEstablecimiento, String txPuntoEmision, String txSecuencial, String txCodigoPrincipal, Int32 numeroRegistro, String txCodigoInterno, Int32& codigoRetorno, String& descripcionRetorno) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.AccesoDatos\DocumentoAD.cs:línea 87
+ClientConnectionId:1bb9eef0-e8ee-4885-a5da-6e257f8d3c7d
+Error Number:107,State:1,Class:15
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 10:39:42
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 10:39:42
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 10:52:34
+[Metodo]: Exception: System.ArgumentException: Ya existe una relación para estas columnas secundarias.
+   en System.Data.DataRelationCollection.DataSetRelationCollection.AddCore(DataRelation relation)
+   en System.Data.DataRelationCollection.Add(DataRelation relation)
+   en System.Data.DataRelationCollection.Add(String name, DataColumn[] parentColumns, DataColumn[] childColumns)
+   en ViaDocFirma.LogicaNegocios.procesos.ProcesoCompRetencion.ProcesarXmlCompRetencion(Compania compania, String Version, Int32 numeroRegistro)
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 10:52:34
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 10:52:34
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 10:52:50
+[Metodo]: System.ArgumentException: No se ha declarado el elemento 'http://www.w3.org/2000/09/xmldsig#:Signature'.
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 113
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 10:52:50
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 10:52:50
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 11:28:31
+[Metodo]: System.ArgumentException: No se ha declarado el elemento 'http://www.w3.org/2000/09/xmldsig#:Signature'.
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 113
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 11:28:32
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 11:28:32
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 11:32:35
+[Metodo]: System.ArgumentException: No se ha declarado el elemento 'http://www.w3.org/2000/09/xmldsig#:Signature'.
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 113
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 11:35:15
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 11:35:15
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 11:45:44
+[Metodo]: System.ArgumentException: No se ha declarado el elemento 'http://www.w3.org/2000/09/xmldsig#:Signature'.
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 113
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 11:45:44
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 11:45:44
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 11:46:21
+[Metodo]: System.ArgumentException: No se ha declarado el elemento 'http://www.w3.org/2000/09/xmldsig#:Signature'.
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 113
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 11:46:21
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 11:46:21
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 11:47:08
+[Metodo]: System.ArgumentException: No se ha declarado el elemento 'http://www.w3.org/2000/09/xmldsig#:Signature'.
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 113
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 11:47:08
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 11:47:08
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 11:48:12
+[Metodo]: System.ArgumentException: No se ha declarado el elemento 'http://www.w3.org/2000/09/xmldsig#:Signature'.
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 113
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 11:48:12
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 11:48:12
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 11:50:50
+[Metodo]: System.ArgumentException: No se ha declarado el elemento 'http://www.w3.org/2000/09/xmldsig#:Signature'.
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 113
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 11:53:16
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 11:53:16
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 11:54:40
+[Metodo]: System.ArgumentException: No se ha declarado el tipo 'cadenaTreinta'.
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 113
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 11:54:41
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 11:54:41
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 11:57:09
+[Metodo]: System.ArgumentException: No se ha declarado el tipo 'cadenaTreinta'.
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 113
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 11:57:09
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 11:57:09
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 11:58:28
+[Metodo]: System.ArgumentException: No se ha declarado el tipo 'maquinaFiscal'.
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 113
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 11:58:28
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 11:58:28
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 12:04:16
+[Metodo]: System.ArgumentException: No se ha declarado el tipo 'dividendos'.
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 113
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 12:04:16
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 12:04:16
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 12:05:28
+[Metodo]: System.ArgumentException: No se ha declarado el tipo 'dividendos'.
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 113
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 12:05:28
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 12:05:28
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 12:06:48
+[Metodo]: System.ArgumentException: Error: 
+El elemento 'infoCompRetencion' tiene un elemento secundario 'razonSocialSujetoRetenido' no válido. Lista esperada de elementos posibles: 'tipoSujetoRetenido, parteRel'.
+
+Error: 
+El elemento 'comprobanteRetencion' tiene un elemento secundario 'impuestos' no válido. Lista esperada de elementos posibles: 'docsSustento'.
+
+
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 109
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 12:06:48
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 12:06:48
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 12:12:04
+[Metodo]: System.ArgumentException: Error: 
+El elemento 'comprobanteRetencion' tiene un elemento secundario 'impuestos' no válido. Lista esperada de elementos posibles: 'docsSustento'.
+
+
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 109
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 12:12:05
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 12:12:05
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:03:58
+[Metodo]: Error de actualizacion de datos: System.IndexOutOfRangeException: No se puede encontrar la tabla 0.
+   en System.Data.DataTableCollection.get_Item(Int32 index)
+   en ViaDoc.AccesoDatos.DocumentoAD.ActualizarComprobantesProcesados(Int32 identity, Int32 ciCompania, String ciTipoDocumento, String claveAcceso, String txFechaHoraAutorizacion, String xmlComprobante, String xmlEstado, String ciContingenciaDet, Int32 ciNumeroIntento, String mensajeError, Int32& codigoRetorno, String& descripcionRetorno) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.AccesoDatos\DocumentoAD.cs:línea 325
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:03:58
+[Metodo]: Exception 2: System.ArgumentException: La columna 'txNombre' no pertenece a la tabla CompRetencionDocSustento.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDocFirma.LogicaNegocios.procesos.ProcesoCompRetencion.ProcesarXmlCompRetencion(Compania compania, String Version, Int32 numeroRegistro) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\procesos\ProcesoCompRetencion.cs:línea 299
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:03:58
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:03:58
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:04:56
+[Metodo]: Error de actualizacion de datos: System.IndexOutOfRangeException: No se puede encontrar la tabla 0.
+   en System.Data.DataTableCollection.get_Item(Int32 index)
+   en ViaDoc.AccesoDatos.DocumentoAD.ActualizarComprobantesProcesados(Int32 identity, Int32 ciCompania, String ciTipoDocumento, String claveAcceso, String txFechaHoraAutorizacion, String xmlComprobante, String xmlEstado, String ciContingenciaDet, Int32 ciNumeroIntento, String mensajeError, Int32& codigoRetorno, String& descripcionRetorno) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.AccesoDatos\DocumentoAD.cs:línea 325
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:04:56
+[Metodo]: Exception 2: System.ArgumentException: La columna 'txNombre' no pertenece a la tabla CompRetencionDocSustento.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDocFirma.LogicaNegocios.procesos.ProcesoCompRetencion.ProcesarXmlCompRetencion(Compania compania, String Version, Int32 numeroRegistro) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\procesos\ProcesoCompRetencion.cs:línea 299
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:04:56
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:04:56
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:06:16
+[Metodo]: Error de actualizacion de datos: System.IndexOutOfRangeException: No se puede encontrar la tabla 0.
+   en System.Data.DataTableCollection.get_Item(Int32 index)
+   en ViaDoc.AccesoDatos.DocumentoAD.ActualizarComprobantesProcesados(Int32 identity, Int32 ciCompania, String ciTipoDocumento, String claveAcceso, String txFechaHoraAutorizacion, String xmlComprobante, String xmlEstado, String ciContingenciaDet, Int32 ciNumeroIntento, String mensajeError, Int32& codigoRetorno, String& descripcionRetorno) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.AccesoDatos\DocumentoAD.cs:línea 325
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:06:16
+[Metodo]: Exception 2: System.ArgumentException: La columna 'txNombre' no pertenece a la tabla CompRetencionDocSustento.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDocFirma.LogicaNegocios.procesos.ProcesoCompRetencion.ProcesarXmlCompRetencion(Compania compania, String Version, Int32 numeroRegistro) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\procesos\ProcesoCompRetencion.cs:línea 299
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:06:16
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:06:16
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:15:59
+[Metodo]: Error de actualizacion de datos: System.IndexOutOfRangeException: No se puede encontrar la tabla 0.
+   en System.Data.DataTableCollection.get_Item(Int32 index)
+   en ViaDoc.AccesoDatos.DocumentoAD.ActualizarComprobantesProcesados(Int32 identity, Int32 ciCompania, String ciTipoDocumento, String claveAcceso, String txFechaHoraAutorizacion, String xmlComprobante, String xmlEstado, String ciContingenciaDet, Int32 ciNumeroIntento, String mensajeError, Int32& codigoRetorno, String& descripcionRetorno) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.AccesoDatos\DocumentoAD.cs:línea 325
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:15:59
+[Metodo]: Exception 2: System.ArgumentException: La columna 'txNombre' no pertenece a la tabla CompRetencionDocSustento.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDocFirma.LogicaNegocios.procesos.ProcesoCompRetencion.ProcesarXmlCompRetencion(Compania compania, String Version, Int32 numeroRegistro)
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:15:59
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:15:59
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:16:55
+[Metodo]: Error de actualizacion de datos: System.IndexOutOfRangeException: No se puede encontrar la tabla 0.
+   en System.Data.DataTableCollection.get_Item(Int32 index)
+   en ViaDoc.AccesoDatos.DocumentoAD.ActualizarComprobantesProcesados(Int32 identity, Int32 ciCompania, String ciTipoDocumento, String claveAcceso, String txFechaHoraAutorizacion, String xmlComprobante, String xmlEstado, String ciContingenciaDet, Int32 ciNumeroIntento, String mensajeError, Int32& codigoRetorno, String& descripcionRetorno) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.AccesoDatos\DocumentoAD.cs:línea 325
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:16:55
+[Metodo]: Exception 2: System.ArgumentException: La columna 'txTotalSinImpuestos' no pertenece a la tabla CompRetencionDocSustento.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDocFirma.LogicaNegocios.procesos.ProcesoCompRetencion.ProcesarXmlCompRetencion(Compania compania, String Version, Int32 numeroRegistro)
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:16:55
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:16:55
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:18:01
+[Metodo]: Error de actualizacion de datos: System.IndexOutOfRangeException: No se puede encontrar la tabla 0.
+   en System.Data.DataTableCollection.get_Item(Int32 index)
+   en ViaDoc.AccesoDatos.DocumentoAD.ActualizarComprobantesProcesados(Int32 identity, Int32 ciCompania, String ciTipoDocumento, String claveAcceso, String txFechaHoraAutorizacion, String xmlComprobante, String xmlEstado, String ciContingenciaDet, Int32 ciNumeroIntento, String mensajeError, Int32& codigoRetorno, String& descripcionRetorno) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.AccesoDatos\DocumentoAD.cs:línea 325
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:18:01
+[Metodo]: Exception 2: System.ArgumentException: La columna 'txNombre' no pertenece a la tabla CompRetencionDocSustento.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDocFirma.LogicaNegocios.procesos.ProcesoCompRetencion.ProcesarXmlCompRetencion(Compania compania, String Version, Int32 numeroRegistro)
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:18:01
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:18:01
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:21:00
+[Metodo]: System.ArgumentException: Falta el elemento raíz.
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError)
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:21:00
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:21:00
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:25:18
+[Metodo]: System.ArgumentException: Falta el elemento raíz.
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 99
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:25:18
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:25:18
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:27:08
+[Metodo]: System.ArgumentException: Falta el elemento raíz.
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 99
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:27:08
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:27:08
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:54:18
+[Metodo]: Error de actualizacion de datos: System.IndexOutOfRangeException: No se puede encontrar la tabla 0.
+   en System.Data.DataTableCollection.get_Item(Int32 index)
+   en ViaDoc.AccesoDatos.DocumentoAD.ActualizarComprobantesProcesados(Int32 identity, Int32 ciCompania, String ciTipoDocumento, String claveAcceso, String txFechaHoraAutorizacion, String xmlComprobante, String xmlEstado, String ciContingenciaDet, Int32 ciNumeroIntento, String mensajeError, Int32& codigoRetorno, String& descripcionRetorno) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.AccesoDatos\DocumentoAD.cs:línea 325
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:54:18
+[Metodo]: Exception 2: System.ArgumentException: La columna 'txFormaPago' no pertenece a la tabla CompRetencionDocSustento.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDocFirma.LogicaNegocios.procesos.ProcesoCompRetencion.ProcesarXmlCompRetencion(Compania compania, String Version, Int32 numeroRegistro) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\procesos\ProcesoCompRetencion.cs:línea 343
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:54:18
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:54:18
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:56:20
+[Metodo]: Error de actualizacion de datos: System.IndexOutOfRangeException: No se puede encontrar la tabla 0.
+   en System.Data.DataTableCollection.get_Item(Int32 index)
+   en ViaDoc.AccesoDatos.DocumentoAD.ActualizarComprobantesProcesados(Int32 identity, Int32 ciCompania, String ciTipoDocumento, String claveAcceso, String txFechaHoraAutorizacion, String xmlComprobante, String xmlEstado, String ciContingenciaDet, Int32 ciNumeroIntento, String mensajeError, Int32& codigoRetorno, String& descripcionRetorno) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.AccesoDatos\DocumentoAD.cs:línea 325
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:56:20
+[Metodo]: Exception 2: System.ArgumentException: La columna 'txFormaPago' no pertenece a la tabla CompRetencionDocSustento.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDocFirma.LogicaNegocios.procesos.ProcesoCompRetencion.ProcesarXmlCompRetencion(Compania compania, String Version, Int32 numeroRegistro)
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:56:20
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:56:20
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:56:57
+[Metodo]: Error de actualizacion de datos: System.IndexOutOfRangeException: No se puede encontrar la tabla 0.
+   en System.Data.DataTableCollection.get_Item(Int32 index)
+   en ViaDoc.AccesoDatos.DocumentoAD.ActualizarComprobantesProcesados(Int32 identity, Int32 ciCompania, String ciTipoDocumento, String claveAcceso, String txFechaHoraAutorizacion, String xmlComprobante, String xmlEstado, String ciContingenciaDet, Int32 ciNumeroIntento, String mensajeError, Int32& codigoRetorno, String& descripcionRetorno) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDoc.AccesoDatos\DocumentoAD.cs:línea 325
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:56:57
+[Metodo]: Exception 2: System.ArgumentException: La columna 'txFormaPago' no pertenece a la tabla CompRetencionDetalle.
+   en System.Data.DataRow.GetDataColumn(String columnName)
+   en System.Data.DataRow.get_Item(String columnName)
+   en ViaDocFirma.LogicaNegocios.procesos.ProcesoCompRetencion.ProcesarXmlCompRetencion(Compania compania, String Version, Int32 numeroRegistro) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\procesos\ProcesoCompRetencion.cs:línea 371
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:56:57
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 15:56:57
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 16:38:15
+[Metodo]: System.ArgumentException: Falta el elemento raíz.
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 99
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 16:38:16
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 16:38:16
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 16:42:27
+[Metodo]: System.ArgumentException: Falta el elemento raíz.
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 99
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 16:42:27
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 16:42:27
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 17:10:49
+[Metodo]: System.ArgumentException: Falta el elemento raíz.
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError) en C:\Users\MURANO\Documents\ViaDoc\viad3-viadoc3.0\viad3-viadoc3.0\ViaDocFirma.LogicaNegocios\FirmaDocumentos.cs:línea 99
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 17:10:49
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 17:10:49
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 17:23:29
+[Metodo]: System.ArgumentException: Error: 
+El elemento 'comprobanteRetencion' tiene un elemento secundario 'infoAdicional' no válido. Lista esperada de elementos posibles: 'docsSustento'.
+
+
+   en ViaDocFirma.LogicaNegocios.FirmaDocumentos.GenerarFirmaXMLComprobantes(String EsquemaXSD, String txXML, Sign eSign, Int32 Cicompania, String& MensajeError)
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 17:23:29
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 
+[CustomError]: 7/12/2022 17:23:29
+[Metodo]: No hay certificados vigentes
+[CustomError]: FIN 

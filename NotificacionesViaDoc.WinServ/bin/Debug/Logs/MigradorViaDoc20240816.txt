@@ -1,0 +1,705 @@
+[CustomError]: 16/8/2024 10:09:30
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:09:33
+[Metodo]: Servidor An error occurred while attempting to establish an SSL or TLS connection.
+
+The server's SSL certificate could not be validated for the following reasons:
+• The server certificate has the following errors:
+  • La función de revocación no puede comprobar la revocación para el certificado.
+
+  • La función de revocación no puede comprobar la revocación debido a que el servidor de revocación está sin conexión.
+
+• An intermediate certificate has the following errors:
+  • La función de revocación no puede comprobar la revocación para el certificado.
+
+  • La función de revocación no puede comprobar la revocación debido a que el servidor de revocación está sin conexión.
+
+
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:11:25
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:11:25
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:11:27
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:11:29
+[Metodo]: enviar mail The SmtpClient is not connected.
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:11:29
+[Metodo]: El tipo de error del mensaje es: Se ha presentado un error al enviar el comprobante al correo: emendez@viamatica.com,emendez@viamatica.com,jcobo@viamatica.com por favor revise las configuraciones de servidor de correos o verifique que el mail del cliente final sea valido
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:11:29
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:11:29
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:11:31
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:11:40
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:11:40
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:11:40
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:11:42
+[Metodo]: enviar mail The SMTP server has unexpectedly disconnected: Relaying disallowed as no-reply@viamatica.com
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:11:42
+[Metodo]: El tipo de error del mensaje es: Se ha presentado un error al enviar el comprobante al correo: emendez@viamatica.com,emendez@viamatica.com,jcobo@viamatica.com por favor revise las configuraciones de servidor de correos o verifique que el mail del cliente final sea valido
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:11:42
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:11:42
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:11:43
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:14:59
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:14:59
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:14:59
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:14:59
+[Metodo]: enviar mail The SMTP server has unexpectedly disconnected: Authentication Successful
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:14:59
+[Metodo]: El tipo de error del mensaje es: Se ha presentado un error al enviar el comprobante al correo: emendez@viamatica.com,gina_delgadom@hotmail.com por favor revise las configuraciones de servidor de correos o verifique que el mail del cliente final sea valido
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:14:59
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:14:59
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:15:02
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:16:50
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:16:50
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:16:51
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:16:52
+[Metodo]: enviar mail The SMTP server has unexpectedly disconnected: Relaying disallowed as no-reply@viamatica.com
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:16:52
+[Metodo]: El tipo de error del mensaje es: Se ha presentado un error al enviar el comprobante al correo: emendez@viamatica.com,emendez@viamatica.com,jcobo@viamatica.com por favor revise las configuraciones de servidor de correos o verifique que el mail del cliente final sea valido
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:16:52
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:16:52
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:16:53
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:17:09
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:17:09
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:17:10
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:17:11
+[Metodo]: enviar mail The SMTP server has unexpectedly disconnected: Relaying disallowed as no-reply@viamatica.com
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:17:12
+[Metodo]: El tipo de error del mensaje es: Se ha presentado un error al enviar el comprobante al correo: emendez@viamatica.com,emendez@viamatica.com,jcobo@viamatica.com por favor revise las configuraciones de servidor de correos o verifique que el mail del cliente final sea valido
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:17:12
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:19:36
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:19:38
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:19:50
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:19:51
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:19:51
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:19:53
+[Metodo]: enviar mail The SMTP server has unexpectedly disconnected: Relaying disallowed as no-reply@viamatica.com
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:19:53
+[Metodo]: El tipo de error del mensaje es: Se ha presentado un error al enviar el comprobante al correo: emendez@viamatica.com,emendez@viamatica.com,jcobo@viamatica.com por favor revise las configuraciones de servidor de correos o verifique que el mail del cliente final sea valido
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:19:53
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:19:53
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:19:54
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:20:04
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:20:04
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:20:04
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:20:06
+[Metodo]: enviar mail The SMTP server has unexpectedly disconnected: Relaying disallowed as no-reply@viamatica.com
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:20:06
+[Metodo]: El tipo de error del mensaje es: Se ha presentado un error al enviar el comprobante al correo: emendez@viamatica.com,emendez@viamatica.com,jcobo@viamatica.com por favor revise las configuraciones de servidor de correos o verifique que el mail del cliente final sea valido
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:20:06
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:20:06
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:20:07
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:20:24
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:20:24
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:20:24
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:20:26
+[Metodo]: enviar mail The SMTP server has unexpectedly disconnected: Relaying disallowed as no-reply@viamatica.com
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:20:26
+[Metodo]: El tipo de error del mensaje es: Se ha presentado un error al enviar el comprobante al correo: emendez@viamatica.com,gina_delgadom@hotmail.com por favor revise las configuraciones de servidor de correos o verifique que el mail del cliente final sea valido
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:20:26
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:20:26
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:20:27
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:20:27
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:20:27
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:20:28
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:20:29
+[Metodo]: enviar mail The SMTP server has unexpectedly disconnected: Relaying disallowed as no-reply@viamatica.com
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:20:29
+[Metodo]: El tipo de error del mensaje es: Se ha presentado un error al enviar el comprobante al correo: emendez@viamatica.com,emendez@viamatica.com,jcobo@viamatica.com por favor revise las configuraciones de servidor de correos o verifique que el mail del cliente final sea valido
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:20:29
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:20:29
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:20:30
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:20:30
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:20:30
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:20:31
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:20:32
+[Metodo]: enviar mail The SMTP server has unexpectedly disconnected: Relaying disallowed as no-reply@viamatica.com
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:20:32
+[Metodo]: El tipo de error del mensaje es: Se ha presentado un error al enviar el comprobante al correo: emendez@viamatica.com,emendez@viamatica.com,jcobo@viamatica.com por favor revise las configuraciones de servidor de correos o verifique que el mail del cliente final sea valido
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:20:32
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:36:54
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:36:57
+[Metodo]: Servidor An error occurred while attempting to establish an SSL or TLS connection.
+
+The server's SSL certificate could not be validated for the following reasons:
+• The server certificate has the following errors:
+  • La función de revocación no puede comprobar la revocación para el certificado.
+
+  • La función de revocación no puede comprobar la revocación debido a que el servidor de revocación está sin conexión.
+
+• An intermediate certificate has the following errors:
+  • La función de revocación no puede comprobar la revocación para el certificado.
+
+  • La función de revocación no puede comprobar la revocación debido a que el servidor de revocación está sin conexión.
+
+
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:36:57
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:36:57
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:36:59
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:36:59
+[Metodo]: enviar mail The SmtpClient is not connected.
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:36:59
+[Metodo]: El tipo de error del mensaje es: Se ha presentado un error al enviar el comprobante al correo: emendez@viamatica.com,jportalanza@viamatica.com,julianaveronica.cotto@duragas.com.ec,proveedoresfactelectronicas@duragas.com.ec,sgonzalezg@duragas.com.ec por favor revise las configuraciones de servidor de correos o verifique que el mail del cliente final sea valido
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:37:00
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:37:00
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:37:01
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:37:02
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:37:02
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:37:02
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:37:04
+[Metodo]: El tipo de error del mensaje es: no hubo error
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:37:04
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:37:04
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:37:07
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:37:08
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:37:08
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:37:08
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:37:15
+[Metodo]: El tipo de error del mensaje es: no hubo error
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:37:16
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:37:16
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:37:19
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:37:19
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:37:19
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:37:20
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:37:27
+[Metodo]: El tipo de error del mensaje es: no hubo error
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:37:27
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:37:27
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:37:30
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:37:30
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:37:30
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:37:31
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:37:40
+[Metodo]: El tipo de error del mensaje es: no hubo error
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:37:40
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:37:48
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:37:50
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:37:51
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:37:51
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:37:52
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:38:01
+[Metodo]: El tipo de error del mensaje es: no hubo error
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:38:01
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:38:01
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:38:03
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:38:03
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:38:04
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:38:04
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:38:07
+[Metodo]: El tipo de error del mensaje es: no hubo error
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:38:07
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:38:07
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:38:08
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:38:09
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:38:09
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:38:09
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:38:14
+[Metodo]: El tipo de error del mensaje es: no hubo error
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:38:14
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:38:14
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:38:17
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:38:18
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:38:18
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:38:19
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:38:26
+[Metodo]: El tipo de error del mensaje es: no hubo error
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:38:27
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:38:27
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:38:32
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:38:32
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:38:32
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:38:33
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:38:39
+[Metodo]: El tipo de error del mensaje es: no hubo error
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:38:39
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:42:13
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:42:15
+[Metodo]: Servidor An error occurred while attempting to establish an SSL or TLS connection.
+
+The server's SSL certificate could not be validated for the following reasons:
+• The server certificate has the following errors:
+  • La función de revocación no puede comprobar la revocación para el certificado.
+
+  • La función de revocación no puede comprobar la revocación debido a que el servidor de revocación está sin conexión.
+
+• An intermediate certificate has the following errors:
+  • La función de revocación no puede comprobar la revocación para el certificado.
+
+  • La función de revocación no puede comprobar la revocación debido a que el servidor de revocación está sin conexión.
+
+
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:42:15
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:42:15
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:42:17
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:42:17
+[Metodo]: enviar mail The SmtpClient is not connected.
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:42:17
+[Metodo]: El tipo de error del mensaje es: Se ha presentado un error al enviar el comprobante al correo: adelgado@viamatica.com,royola@viamatica.com por favor revise las configuraciones de servidor de correos o verifique que el mail del cliente final sea valido
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:42:18
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:42:18
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:42:20
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:42:20
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:42:20
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:42:20
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:42:22
+[Metodo]: El tipo de error del mensaje es: no hubo error
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:42:22
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:42:22
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:42:24
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:42:24
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:42:24
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:42:24
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:42:30
+[Metodo]: El tipo de error del mensaje es: no hubo error
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:42:30
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:42:30
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:42:31
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:42:32
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:42:32
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:42:32
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:42:33
+[Metodo]: El tipo de error del mensaje es: no hubo error
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:42:33
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:42:33
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:42:35
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:42:36
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:42:36
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:42:36
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:42:37
+[Metodo]: El tipo de error del mensaje es: no hubo error
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:42:38
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:48:36
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:48:38
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:48:41
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:48:41
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:48:41
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:48:48
+[Metodo]: El tipo de error del mensaje es: no hubo error
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:48:48
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:48:48
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:48:50
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:48:51
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:48:51
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:48:51
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:48:55
+[Metodo]: El tipo de error del mensaje es: no hubo error
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:48:55
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:48:55
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:48:57
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:48:57
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:48:57
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:48:57
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:48:59
+[Metodo]: El tipo de error del mensaje es: no hubo error
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:48:59
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:48:59
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:49:00
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:49:00
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:49:00
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:49:01
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:49:09
+[Metodo]: El tipo de error del mensaje es: no hubo error
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:49:09
+[Metodo]: valor de i0
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:49:09
+[Metodo]: conectar puerto 587
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:49:10
+[Metodo]: autenticar usuario y contraseña
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:49:10
+[Metodo]: INgreso nuevo 1
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:49:10
+[Metodo]: INgreso nuevo 3
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:49:11
+[Metodo]: verificar renderizado reportes
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:49:12
+[Metodo]: El tipo de error del mensaje es: no hubo error
+[CustomError]: FIN 
+[CustomError]: 16/8/2024 10:49:12
+[Metodo]: valor de i0
+[CustomError]: FIN 

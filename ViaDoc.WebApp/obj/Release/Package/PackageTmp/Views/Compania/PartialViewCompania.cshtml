@@ -1,0 +1,102 @@
+﻿@using ViaDoc.EntidadNegocios
+
+@model ViaDoc.EntidadNegocios.CompaniaLista
+
+
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-body">
+                <table id="tblCompania" class="table table-bordered table-striped" style="font-size:13px">
+                    <thead>
+                        <tr>
+                            <th>Razón Social</th>
+                            <th>Ruc</th>
+                            <th>Tipo Ambiente</th>
+                            <th>Estado</th>
+                            <th>Sucursal</th>
+                            <th>Compania</th>
+                            <th>Eliminar</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.objListaCompania)
+                        {
+                            <tr>
+                                <td>@item.TxRazonSocial</td>
+                                <td>@item.TxRuc</td>
+                                <td>@item.CiTipoAmbiente</td>
+                                <td>@item.CiEstado</td>
+                                <td>
+                                    <center>
+                                        <input type="button" onclick="Sucursal('@item.CiCompania', '@item.TxRazonSocial')" class="btn btn-success" value="Verificar">
+                                    </center>
+                                </td>
+                                <td>
+                                    <center>
+                                        <input type="button" onclick="modificarEmpresa('@item.TxRazonSocial','@item.CiCompania','@item.TxRuc', '@item.TxNombreComercial', '@item.TxObligadoContabilidad','@item.TxAgenteRetencion','@item.TxRegimenMicroempresas','@item.TxContribuyenteRimpe','@item.TxContribuyenteEspecial', '@item.TxDireccionMatriz','@item.CiTipoAmbiente', '@item.CiEstado', '@item.UiCompania')"
+                                               class="btn btn-primary" value="Modificar">
+                                    </center>
+                                </td>
+                                <td>
+                                    <center>
+                                        <input type="button" onclick="EliminaCompania('@item.TxRazonSocial')" class="btn btn-danger" value="Eliminar">
+                                    </center>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $('#tblCompania').DataTable({
+        "paging": true,
+        "searching": true,
+        "ordering": true,
+        "autoWidth": false,
+        "pageLength": 10,
+        "responsive": true,
+        "language": {
+            url: "../Content/idioma/espaniol.json"
+        },
+    });
+
+    function Sucursal(CiCompania, TxRazonSocial) {
+
+        $('#txtIdEmpresaCompania').prop('disabled', 'disabled');
+        $('#txtIdEmpresaCompania').val(TxRazonSocial);
+        CargarSucursal(CiCompania, TxRazonSocial);
+        $("#modal-Sucursal").modal('show');
+    }
+
+
+    function modificarEmpresa(TxRazonSocial, CiCompania, TxRuc, txNombreComercial, txObligadoContabilidad, txAgenteRetencion, txRegimenMicroempresas, txContribuyenteRimpe, txContribuyenteEspecial, txDireccionMatriz, txTipoAmbiente, txEstado, txClaveActivacion) {
+        $('#txtIdEmpresaCompania').prop('disabled', 'disabled');
+        $('#txtIdEmpresaCompania').show();
+        $('#txtIdEmpresaCompania_1').hide();
+        $('#txtIdEmpresaCompania').val(TxRazonSocial);
+        $('#idEmpresaCompania').val(CiCompania);
+        $('#txRuc').val(TxRuc);
+        $('#txRazonSocial').val(TxRazonSocial);
+        $('#txClaveActivacion').val(txClaveActivacion);
+        $('#txNombreComercial').val(txNombreComercial);
+        $('#txObligadoContabilidad').val(txObligadoContabilidad);
+        $('#txAgenteRetencion').val(txAgenteRetencion);
+        $('#txRegimenMicroempresas').val(txRegimenMicroempresas);
+        $('#txContribuyenteRimpe').val(txContribuyenteRimpe);
+        $('#txContribuyenteEspecial').val(txContribuyenteEspecial);
+        $('#txDireccionMatriz').val(txDireccionMatriz);
+        $('#txTipoAmbiente').val(txTipoAmbiente);
+        $('#txEstado').val(txEstado);
+        $("#modal-Compania").modal('show');
+        $('#TipoModal').val('1');
+    }
+
+
+
+</script>
+
