@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReportesViaDocNetCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5adb496aa027890ea86bc0bd41e3d132cbf5a7fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReportesViaDocNetCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReportesViaDocNetCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

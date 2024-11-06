@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <_PublishTargetUrl>C:\Publicacion</_PublishTargetUrl>
-    <History>True|2024-09-27T16:27:22.8688554Z||;True|2024-09-23T14:21:59.5911684-05:00||;True|2024-09-12T10:50:30.5551407-05:00||;True|2024-08-30T10:59:01.8910803-05:00||;True|2024-08-22T15:16:42.5612780-05:00||;True|2024-08-22T15:03:24.5293258-05:00||;True|2024-08-22T09:08:10.9231239-05:00||;False|2024-08-22T09:07:47.3793229-05:00||;True|2024-08-21T14:13:08.4273243-05:00||;True|2024-08-19T09:39:16.5016592-05:00||;True|2024-08-19T09:32:51.1446825-05:00||;True|2024-08-19T09:32:30.7025764-05:00||;True|2024-08-15T14:24:09.5812470-05:00||;True|2024-08-15T13:32:54.1723781-05:00||;True|2024-08-12T14:41:17.6747767-05:00||;True|2024-08-08T14:20:17.3538871-05:00||;True|2024-08-08T14:02:48.9115065-05:00||;True|2024-08-08T11:38:56.2621691-05:00||;True|2024-05-30T15:42:38.7145670-05:00||;True|2024-05-16T10:47:43.6703343-05:00||;True|2024-05-09T16:02:32.4585930-05:00||;True|2024-05-09T15:59:47.2923686-05:00||;True|2024-05-09T09:52:46.3932641-05:00||;True|2024-04-11T09:59:21.9447182-05:00||;True|2024-04-10T16:58:57.3627058-05:00||;True|2024-04-10T15:46:54.3611045-05:00||;True|2024-04-10T15:05:40.2491496-05:00||;True|2024-04-10T14:50:41.7965381-05:00||;True|2024-04-10T14:38:28.9866499-05:00||;True|2024-04-04T08:40:17.4103800-05:00||;True|2023-09-19T17:36:44.6466580-05:00||;True|2023-09-13T15:01:34.9861099-05:00||;True|2023-09-13T12:08:43.7059644-05:00||;False|2023-09-13T12:07:16.9397427-05:00||;True|2023-08-31T08:15:44.2851115-05:00||;True|2023-08-09T09:01:28.6770102-05:00||;True|2023-06-26T17:34:46.2869233-05:00||;True|2023-06-26T17:08:43.9037734-05:00||;True|2023-05-01T20:33:14.6340620-05:00||;True|2023-04-20T12:31:10.8758357-05:00||;True|2023-04-20T12:10:51.2476717-05:00||;True|2023-04-20T12:05:57.2262704-05:00||;True|2023-02-07T10:07:07.5338137-05:00||;True|2023-02-03T08:53:17.9001302-05:00||;True|2023-01-26T09:02:13.0227316-05:00||;True|2023-01-23T15:11:37.7690036-05:00||;True|2023-01-04T14:38:27.5710613-05:00||;True|2022-12-13T16:46:33.9928487-05:00||;True|2022-12-13T16:02:43.6583749-05:00||;True|2022-12-13T12:21:10.8535088-05:00||;True|2022-12-09T09:17:07.3135051-05:00||;True|2022-12-05T08:57:36.9354380-05:00||;True|2022-12-02T17:40:14.6535577-05:00||;True|2022-12-02T17:20:46.4249813-05:00||;True|2022-12-02T17:13:43.8580848-05:00||;True|2022-12-02T17:02:01.7325993-05:00||;True|2022-12-02T16:53:45.5556257-05:00||;True|2022-12-02T16:24:03.4344970-05:00||;True|2022-12-02T16:22:51.9412383-05:00||;True|2022-12-02T16:13:24.3166328-05:00||;True|2022-11-28T17:10:16.8934131-05:00||;True|2022-11-11T16:10:23.2101359-05:00||;True|2022-11-09T09:36:26.3309455-05:00||;True|2022-10-26T11:47:58.4401870-05:00||;True|2022-10-18T09:26:31.7439604-05:00||;True|2022-10-14T11:23:45.6274699-05:00||;True|2022-10-11T08:37:10.3383920-05:00||;True|2022-09-30T17:59:39.2845465-05:00||;True|2022-09-06T14:10:08.3588133-05:00||;True|2022-08-19T14:41:33.3404885-05:00||;True|2022-07-08T10:23:36.6281388-05:00||;True|2022-07-06T14:28:54.0183435-05:00||;True|2022-07-06T10:28:41.9913824-05:00||;True|2022-06-29T15:53:34.5317813-05:00||;True|2022-05-31T14:16:49.1123916-05:00||;True|2022-04-11T12:20:17.7322355-05:00||;True|2022-04-07T11:33:58.2560295-05:00||;True|2022-03-11T16:59:19.8817095-05:00||;True|2021-12-06T16:58:58.3742155-05:00||;True|2021-12-02T11:21:55.6775725-05:00||;True|2021-10-25T17:17:01.2641279-05:00||;True|2021-10-01T16:08:49.3042448-05:00||;True|2021-09-08T09:14:04.9989294-05:00||;True|2021-09-07T22:08:42.2462155-05:00||;True|2021-09-07T15:52:17.4713869-05:00||;True|2021-07-28T14:42:31.8238243-05:00||;True|2021-06-29T09:21:06.9167217-05:00||;</History>
+    <History>True|2024-11-06T14:20:27.1518326Z||;True|2024-09-27T11:27:22.8688554-05:00||;True|2024-09-23T14:21:59.5911684-05:00||;True|2024-09-12T10:50:30.5551407-05:00||;True|2024-08-30T10:59:01.8910803-05:00||;True|2024-08-22T15:16:42.5612780-05:00||;True|2024-08-22T15:03:24.5293258-05:00||;True|2024-08-22T09:08:10.9231239-05:00||;False|2024-08-22T09:07:47.3793229-05:00||;True|2024-08-21T14:13:08.4273243-05:00||;True|2024-08-19T09:39:16.5016592-05:00||;True|2024-08-19T09:32:51.1446825-05:00||;True|2024-08-19T09:32:30.7025764-05:00||;True|2024-08-15T14:24:09.5812470-05:00||;True|2024-08-15T13:32:54.1723781-05:00||;True|2024-08-12T14:41:17.6747767-05:00||;True|2024-08-08T14:20:17.3538871-05:00||;True|2024-08-08T14:02:48.9115065-05:00||;True|2024-08-08T11:38:56.2621691-05:00||;True|2024-05-30T15:42:38.7145670-05:00||;True|2024-05-16T10:47:43.6703343-05:00||;True|2024-05-09T16:02:32.4585930-05:00||;True|2024-05-09T15:59:47.2923686-05:00||;True|2024-05-09T09:52:46.3932641-05:00||;True|2024-04-11T09:59:21.9447182-05:00||;True|2024-04-10T16:58:57.3627058-05:00||;True|2024-04-10T15:46:54.3611045-05:00||;True|2024-04-10T15:05:40.2491496-05:00||;True|2024-04-10T14:50:41.7965381-05:00||;True|2024-04-10T14:38:28.9866499-05:00||;True|2024-04-04T08:40:17.4103800-05:00||;True|2023-09-19T17:36:44.6466580-05:00||;True|2023-09-13T15:01:34.9861099-05:00||;True|2023-09-13T12:08:43.7059644-05:00||;False|2023-09-13T12:07:16.9397427-05:00||;True|2023-08-31T08:15:44.2851115-05:00||;True|2023-08-09T09:01:28.6770102-05:00||;True|2023-06-26T17:34:46.2869233-05:00||;True|2023-06-26T17:08:43.9037734-05:00||;True|2023-05-01T20:33:14.6340620-05:00||;True|2023-04-20T12:31:10.8758357-05:00||;True|2023-04-20T12:10:51.2476717-05:00||;True|2023-04-20T12:05:57.2262704-05:00||;True|2023-02-07T10:07:07.5338137-05:00||;True|2023-02-03T08:53:17.9001302-05:00||;True|2023-01-26T09:02:13.0227316-05:00||;True|2023-01-23T15:11:37.7690036-05:00||;True|2023-01-04T14:38:27.5710613-05:00||;True|2022-12-13T16:46:33.9928487-05:00||;True|2022-12-13T16:02:43.6583749-05:00||;True|2022-12-13T12:21:10.8535088-05:00||;True|2022-12-09T09:17:07.3135051-05:00||;True|2022-12-05T08:57:36.9354380-05:00||;True|2022-12-02T17:40:14.6535577-05:00||;True|2022-12-02T17:20:46.4249813-05:00||;True|2022-12-02T17:13:43.8580848-05:00||;True|2022-12-02T17:02:01.7325993-05:00||;True|2022-12-02T16:53:45.5556257-05:00||;True|2022-12-02T16:24:03.4344970-05:00||;True|2022-12-02T16:22:51.9412383-05:00||;True|2022-12-02T16:13:24.3166328-05:00||;True|2022-11-28T17:10:16.8934131-05:00||;True|2022-11-11T16:10:23.2101359-05:00||;True|2022-11-09T09:36:26.3309455-05:00||;True|2022-10-26T11:47:58.4401870-05:00||;True|2022-10-18T09:26:31.7439604-05:00||;True|2022-10-14T11:23:45.6274699-05:00||;True|2022-10-11T08:37:10.3383920-05:00||;True|2022-09-30T17:59:39.2845465-05:00||;True|2022-09-06T14:10:08.3588133-05:00||;True|2022-08-19T14:41:33.3404885-05:00||;True|2022-07-08T10:23:36.6281388-05:00||;True|2022-07-06T14:28:54.0183435-05:00||;True|2022-07-06T10:28:41.9913824-05:00||;True|2022-06-29T15:53:34.5317813-05:00||;True|2022-05-31T14:16:49.1123916-05:00||;True|2022-04-11T12:20:17.7322355-05:00||;True|2022-04-07T11:33:58.2560295-05:00||;True|2022-03-11T16:59:19.8817095-05:00||;True|2021-12-06T16:58:58.3742155-05:00||;True|2021-12-02T11:21:55.6775725-05:00||;True|2021-10-25T17:17:01.2641279-05:00||;True|2021-10-01T16:08:49.3042448-05:00||;True|2021-09-08T09:14:04.9989294-05:00||;True|2021-09-07T22:08:42.2462155-05:00||;True|2021-09-07T15:52:17.4713869-05:00||;True|2021-07-28T14:42:31.8238243-05:00||;True|2021-06-29T09:21:06.9167217-05:00||;</History>
     <LastFailureDetails />
   </PropertyGroup>
   <ItemGroup>
@@ -64,10 +64,10 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>01/27/2015 23:04:36</publishTime>
     </File>
     <File Include="bin/eSync.dll">
-      <publishTime>08/23/2024 13:31:56</publishTime>
+      <publishTime>11/06/2024 09:20:07</publishTime>
     </File>
     <File Include="bin/eSync.pdb">
-      <publishTime>08/23/2024 13:31:56</publishTime>
+      <publishTime>11/06/2024 09:20:07</publishTime>
     </File>
     <File Include="bin/ExcelNumberFormat.dll">
       <publishTime>10/02/2020 03:42:28</publishTime>
@@ -289,13 +289,13 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>03/31/2022 12:26:08</publishTime>
     </File>
     <File Include="bin/ReportesViaDoc.dll">
-      <publishTime>10/04/2024 14:39:48</publishTime>
+      <publishTime>11/06/2024 09:20:07</publishTime>
     </File>
     <File Include="bin/ReportesViaDoc.dll.config">
       <publishTime>08/12/2024 08:10:29</publishTime>
     </File>
     <File Include="bin/ReportesViaDoc.pdb">
-      <publishTime>10/04/2024 14:39:48</publishTime>
+      <publishTime>11/06/2024 09:20:07</publishTime>
     </File>
     <File Include="bin/RestSharp.dll">
       <publishTime>05/26/2024 07:15:48</publishTime>
@@ -694,10 +694,10 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>10/17/2023 18:29:58</publishTime>
     </File>
     <File Include="bin/ViaDoc.AccesoDatos.dll">
-      <publishTime>10/03/2024 09:51:40</publishTime>
+      <publishTime>11/06/2024 09:20:07</publishTime>
     </File>
     <File Include="bin/ViaDoc.AccesoDatos.pdb">
-      <publishTime>10/03/2024 09:51:40</publishTime>
+      <publishTime>11/06/2024 09:20:07</publishTime>
     </File>
     <File Include="bin/ViaDoc.Configuraciones.dll">
       <publishTime>08/23/2024 13:31:56</publishTime>
@@ -709,28 +709,28 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>08/23/2024 13:31:56</publishTime>
     </File>
     <File Include="bin/ViaDoc.EntidadNegocios.dll">
-      <publishTime>10/03/2024 09:51:40</publishTime>
+      <publishTime>11/06/2024 09:20:07</publishTime>
     </File>
     <File Include="bin/ViaDoc.EntidadNegocios.pdb">
-      <publishTime>10/03/2024 09:51:40</publishTime>
+      <publishTime>11/06/2024 09:20:07</publishTime>
     </File>
     <File Include="bin/ViaDoc.LogicaNegocios.dll">
-      <publishTime>10/03/2024 09:51:40</publishTime>
+      <publishTime>11/06/2024 09:20:08</publishTime>
     </File>
     <File Include="bin/ViaDoc.LogicaNegocios.dll.config">
       <publishTime>05/08/2024 15:45:14</publishTime>
     </File>
     <File Include="bin/ViaDoc.LogicaNegocios.pdb">
-      <publishTime>10/03/2024 09:51:40</publishTime>
+      <publishTime>11/06/2024 09:20:08</publishTime>
     </File>
     <File Include="bin/ViaDoc.ServicioWcf.dll">
-      <publishTime>10/04/2024 14:39:55</publishTime>
+      <publishTime>11/06/2024 09:20:13</publishTime>
     </File>
     <File Include="bin/ViaDoc.ServicioWcf.dll.config">
       <publishTime>08/12/2024 08:10:29</publishTime>
     </File>
     <File Include="bin/ViaDoc.ServicioWcf.pdb">
-      <publishTime>10/04/2024 14:39:55</publishTime>
+      <publishTime>11/06/2024 09:20:13</publishTime>
     </File>
     <File Include="bin/ViaDoc.Utilitarios.dll">
       <publishTime>08/27/2024 11:56:25</publishTime>
@@ -739,37 +739,37 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>08/27/2024 11:56:25</publishTime>
     </File>
     <File Include="bin/ViaDoc.WebApp.dll">
-      <publishTime>10/04/2024 14:40:03</publishTime>
+      <publishTime>11/06/2024 09:20:18</publishTime>
     </File>
     <File Include="bin/ViaDoc.WebApp.pdb">
-      <publishTime>10/04/2024 14:40:03</publishTime>
+      <publishTime>11/06/2024 09:20:18</publishTime>
     </File>
     <File Include="bin/ViaDocAutorizacion.LogicaNegocios.dll">
-      <publishTime>10/03/2024 09:51:40</publishTime>
+      <publishTime>11/06/2024 09:20:07</publishTime>
     </File>
     <File Include="bin/ViaDocAutorizacion.LogicaNegocios.pdb">
-      <publishTime>10/03/2024 09:51:40</publishTime>
+      <publishTime>11/06/2024 09:20:07</publishTime>
     </File>
     <File Include="bin/ViaDocEnvioCorreo.Negocios.dll">
-      <publishTime>10/04/2024 14:39:49</publishTime>
+      <publishTime>11/06/2024 09:20:08</publishTime>
     </File>
     <File Include="bin/ViaDocEnvioCorreo.Negocios.dll.config">
       <publishTime>05/09/2024 14:29:06</publishTime>
     </File>
     <File Include="bin/ViaDocEnvioCorreo.Negocios.pdb">
-      <publishTime>10/04/2024 14:39:49</publishTime>
+      <publishTime>11/06/2024 09:20:08</publishTime>
     </File>
     <File Include="bin/ViaDocEnvioCorreo.Negocios.XmlSerializers.dll">
-      <publishTime>10/04/2024 14:39:55</publishTime>
+      <publishTime>11/06/2024 09:20:12</publishTime>
     </File>
     <File Include="bin/ViaDocLogMongoDB.dll">
-      <publishTime>10/03/2024 09:51:40</publishTime>
+      <publishTime>11/06/2024 09:20:07</publishTime>
     </File>
     <File Include="bin/ViaDocLogMongoDB.dll.config">
       <publishTime>05/08/2024 15:29:27</publishTime>
     </File>
     <File Include="bin/ViaDocLogMongoDB.pdb">
-      <publishTime>10/03/2024 09:51:40</publishTime>
+      <publishTime>11/06/2024 09:20:07</publishTime>
     </File>
     <File Include="bin/XLParser.dll">
       <publishTime>05/20/2022 03:49:02</publishTime>
